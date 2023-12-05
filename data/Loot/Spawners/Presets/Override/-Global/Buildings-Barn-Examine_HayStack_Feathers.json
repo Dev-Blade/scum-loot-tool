@@ -1,0 +1,22 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Feather"
+    }
+  ],
+  "Probability": 13,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetAmmoAmount_SmallStash"
+  ]
+}

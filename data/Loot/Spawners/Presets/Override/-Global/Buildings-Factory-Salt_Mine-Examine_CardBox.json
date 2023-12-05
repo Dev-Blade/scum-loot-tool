@@ -1,0 +1,21 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.SaltMine.Crafting",
+        "ItemLootTreeNodes.SaltMine.Repair",
+        "ItemLootTreeNodes.SaltMine.Tools.Hand"
+      ]
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 15,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75
+}

@@ -1,0 +1,17 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Grapes_Raw"
+    }
+  ],
+  "Probability": 14,
+  "QuantityMin": 2,
+  "QuantityMax": 3,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 17,
+  "RandomDamage": 60,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

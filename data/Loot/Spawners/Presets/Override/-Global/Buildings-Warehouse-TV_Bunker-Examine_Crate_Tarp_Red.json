@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Barn.Tools",
+        "ItemLootTreeNodes.Barn.Crafting",
+        "ItemLootTreeNodes.Barn.LightsFire",
+        "ItemLootTreeNodes.Barn.WorkClothes"
+      ]
+    }
+  ],
+  "Probability": 8,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 10,
+  "InitialUsage": 0,
+  "RandomUsage": 15
+}

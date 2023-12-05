@@ -1,0 +1,14 @@
+{
+  "FixedItems": [
+    "1H_Brass_knuckles",
+    "1H_Brass_knuckles",
+    "1H_Brass_knuckles",
+    "Paper",
+    "Paper",
+    "Paper"
+  ],
+  "InitialDamage": 10,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

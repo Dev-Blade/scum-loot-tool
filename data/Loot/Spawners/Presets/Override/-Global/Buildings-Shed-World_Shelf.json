@@ -1,0 +1,30 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Barn"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Farm"
+      ]
+    }
+  ],
+  "Probability": 18,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 12,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

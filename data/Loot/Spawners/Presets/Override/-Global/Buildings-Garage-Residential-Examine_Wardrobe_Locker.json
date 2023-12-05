@@ -1,0 +1,28 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Garage.WorkClothes",
+        "ItemLootTreeNodes.Garage.Other.Ammo",
+        "ItemLootTreeNodes.Garage.Other.Backpacks.WaistBags",
+        "ItemLootTreeNodes.Garage.Other.Backpacks.School",
+        "ItemLootTreeNodes.Garage.Other.Backpacks.Plain"
+      ]
+    }
+  ],
+  "Probability": 14,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 12,
+  "RandomDamage": 45,
+  "InitialUsage": 1,
+  "RandomUsage": 45,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Tobacco"
+    }
+  ],
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 21,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "GravelBag"
+    }
+  ],
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 53,
+  "InitialUsage": 10,
+  "RandomUsage": 75
+}

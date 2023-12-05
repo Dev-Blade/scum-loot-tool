@@ -1,0 +1,12 @@
+{
+  "Items": [],
+  "Probability": 21,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 18,
+  "RandomDamage": 30,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -1,0 +1,21 @@
+#ExportDefaultItemSpawningParameters
+#ExportDefaultItemSpawnerPresets
+#SetShouldPrintExamineSpawnerPresets true
+
+#ExportItemSpawnerPresetsInZone D4
+#ExportItemSpawnerPresetsInZone 351780.2475 -358226.6063 323547.8317 -389379.1207 Blato
+#ExportItemSpawnerPresetsInZone 573463.6656 54965.656 -294953.438 -594930.812 SixSectors
+#ExportItemSpawnerPresetsInZone 314204.426 314258.7532 -599879.7179 -600203.7683 9CenterSectors
+
+
+#Teleport 351780.2475 -358226.6063 0
+#Teleport 323547.8317 -389379.1207 0
+
+#ScheduleWorldEvent BP_Cargodropevent -17485.143 -471902.531 1551.657
+
+
+AB Armory D4
+#teleport {X=401956.969 Y=559963.188 Z=13587.079|P=321.982697 Y=34.162529 R=0.000000}
+
+AB Armory C3
+{X=194673.797 Y=299450.094 Z=37764.621|P=327.832031 Y=130.662399 R=0.000000}

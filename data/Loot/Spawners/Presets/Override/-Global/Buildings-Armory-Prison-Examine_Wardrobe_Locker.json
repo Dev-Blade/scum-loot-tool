@@ -1,0 +1,21 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Police.Clothes",
+        "ItemLootTreeNodes.Police.Gear.Armor",
+        "ItemLootTreeNodes.Police.Gear.Tools"
+      ]
+    }
+  ],
+  "Probability": 4,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 30,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

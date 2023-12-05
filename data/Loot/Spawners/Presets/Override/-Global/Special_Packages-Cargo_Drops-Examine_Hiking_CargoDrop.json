@@ -1,0 +1,13 @@
+{
+  "FixedItems": [
+    "School_Backpack_Girl_04",
+    "Beijing_Shoes_03",
+    "Short_Trousers_01_03",
+    "Tracksuit_Top_02",
+    "Military_Beanie_03"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

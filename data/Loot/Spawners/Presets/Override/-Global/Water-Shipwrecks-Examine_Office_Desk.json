@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Items.Melee",
+        "ItemLootTreeNodes.Office.Items.Misc",
+        "ItemLootTreeNodes.Office.Other.Weapons",
+        "ItemLootTreeNodes.Office.Other.Backpacks"
+      ]
+    }
+  ],
+  "Probability": 8,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 72,
+  "RandomDamage": 27,
+  "InitialUsage": 10,
+  "RandomUsage": 45
+}

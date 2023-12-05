@@ -1,0 +1,31 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items.Melee",
+        "ItemLootTreeNodes.LivingRoom.Items.Misc",
+        "ItemLootTreeNodes.LivingRoom.Other"
+      ]
+    }
+  ],
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Wine"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Candle_01"
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 16,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75
+}

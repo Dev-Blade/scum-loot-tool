@@ -1,0 +1,32 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Cave.Other",
+        "ItemLootTreeNodes.Cave.LightsFire"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Money"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Money"
+      ]
+    }
+  ],
+  "Probability": 87,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 30,
+  "RandomDamage": 50,
+  "InitialUsage": 30,
+  "RandomUsage": 50
+}

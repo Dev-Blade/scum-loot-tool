@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Magazine_SF19",
+    "Magazine_SF19",
+    "Cal_9mm_Ammobox"
+  ],
+  "InitialDamage": 10,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}
