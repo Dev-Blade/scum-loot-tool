@@ -21,12 +21,12 @@
       "Id": "Chainsaw"
     }
   ],
-  "Probability": 11,
+  "Probability": 12,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 11,
+  "InitialDamage": 20,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

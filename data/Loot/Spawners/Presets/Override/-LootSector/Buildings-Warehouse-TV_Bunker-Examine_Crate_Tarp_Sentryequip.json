@@ -41,7 +41,7 @@
       "Id": "Tire_Repair_Kit"
     }
   ],
-  "Probability": 100,
+  "Probability": 88,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,

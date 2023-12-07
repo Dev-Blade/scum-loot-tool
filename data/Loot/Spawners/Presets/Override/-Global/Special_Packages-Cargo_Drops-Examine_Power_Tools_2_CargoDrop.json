@@ -2,7 +2,7 @@
   "FixedItems": [
     "Cannabis_Seed_Bag"
   ],
-  "InitialDamage": 18,
+  "InitialDamage": 20,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

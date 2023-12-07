@@ -5,12 +5,12 @@
       "Id": "Opuntia_Fig"
     }
   ],
-  "Probability": 21,
+  "Probability": 24,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 18,
+  "InitialDamage": 20,
   "RandomDamage": 75,
   "InitialUsage": 0,
   "RandomUsage": 0

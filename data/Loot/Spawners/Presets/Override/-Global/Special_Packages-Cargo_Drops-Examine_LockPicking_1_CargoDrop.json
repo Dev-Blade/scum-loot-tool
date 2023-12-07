@@ -8,7 +8,7 @@
     "1H_Crowbar",
     "1H_Crowbar"
   ],
-  "InitialDamage": 24,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

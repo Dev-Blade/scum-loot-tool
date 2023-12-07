@@ -5,12 +5,12 @@
       "Id": "Grapes_Raw"
     }
   ],
-  "Probability": 14,
+  "Probability": 16,
   "QuantityMin": 2,
   "QuantityMax": 3,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 17,
+  "InitialDamage": 12,
   "RandomDamage": 60,
   "InitialUsage": 0,
   "RandomUsage": 0

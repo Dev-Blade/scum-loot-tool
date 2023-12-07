@@ -9,12 +9,12 @@
       "Id": "Fuse_400A"
     }
   ],
-  "Probability": 8,
+  "Probability": 10,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 21,
+  "InitialDamage": 12,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 30

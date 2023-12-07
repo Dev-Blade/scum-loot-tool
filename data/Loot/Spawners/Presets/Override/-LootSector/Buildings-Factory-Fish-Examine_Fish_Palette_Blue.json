@@ -5,7 +5,7 @@
       "Id": "Canned_Tuna"
     }
   ],
-  "Probability": 96,
+  "Probability": 83,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,

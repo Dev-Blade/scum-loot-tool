@@ -5,12 +5,12 @@
       "Id": "CannedSardine"
     }
   ],
-  "Probability": 23,
+  "Probability": 26,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 21,
+  "InitialDamage": 10,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

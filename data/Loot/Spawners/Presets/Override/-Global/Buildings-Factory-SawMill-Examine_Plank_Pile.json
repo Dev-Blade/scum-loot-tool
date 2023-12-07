@@ -5,12 +5,12 @@
       "Id": "Wooden_Plank"
     }
   ],
-  "Probability": 53,
+  "Probability": 60,
   "QuantityMin": 1,
   "QuantityMax": 3,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 19,
+  "InitialDamage": 17,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

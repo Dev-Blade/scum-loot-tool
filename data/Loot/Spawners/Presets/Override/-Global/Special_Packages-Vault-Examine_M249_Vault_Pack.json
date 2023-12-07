@@ -4,7 +4,7 @@
     "Magazine_UMP45",
     "Cal_45_Ammobox"
   ],
-  "InitialDamage": 13,
+  "InitialDamage": 12,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

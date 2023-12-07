@@ -4,7 +4,7 @@
     "12_Gauge_Buckshot_Ammobox",
     "12_Gauge_Buckshot_Ammobox"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 13,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

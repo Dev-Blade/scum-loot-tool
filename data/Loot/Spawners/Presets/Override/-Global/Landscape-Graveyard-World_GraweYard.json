@@ -29,12 +29,12 @@
       "Id": "Bone"
     }
   ],
-  "Probability": 21,
+  "Probability": 24,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 22,
+  "InitialDamage": 10,
   "RandomDamage": 60,
   "InitialUsage": 0,
   "RandomUsage": 60

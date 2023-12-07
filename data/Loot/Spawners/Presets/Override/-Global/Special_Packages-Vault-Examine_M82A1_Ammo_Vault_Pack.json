@@ -1,10 +1,12 @@
 {
   "FixedItems": [
-    "BowSilencer",
-    "BowSilencer",
-    "Recurve_Bow_60",
-    "Improvised_Quiver_01",
-    "Carbon_BroadHead_Arrow"
+    "Weapon_M9",
+    "Magazine_M9",
+    "Magazine_M9",
+    "Cal_9mm_Ammobox",
+    "Cal_9mm_Ammobox",
+    "WeaponFlashlight_M9",
+    "WeaponSuppressor_Handgun"
   ],
   "InitialDamage": 10,
   "RandomDamage": 5,

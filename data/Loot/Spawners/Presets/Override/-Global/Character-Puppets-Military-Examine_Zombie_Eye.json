@@ -5,12 +5,12 @@
       "Id": "Puppet_Eye"
     }
   ],
-  "Probability": 8,
+  "Probability": 10,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 21,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

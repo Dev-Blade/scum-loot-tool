@@ -46,12 +46,12 @@
       "Id": "Isopropyl_alcohol"
     }
   ],
-  "Probability": 25,
+  "Probability": 28,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 15,
+  "InitialDamage": 12,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 30

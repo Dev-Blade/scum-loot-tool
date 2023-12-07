@@ -5,12 +5,12 @@
       "Id": "Parsley"
     }
   ],
-  "Probability": 18,
+  "Probability": 20,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 12,
+  "InitialDamage": 10,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

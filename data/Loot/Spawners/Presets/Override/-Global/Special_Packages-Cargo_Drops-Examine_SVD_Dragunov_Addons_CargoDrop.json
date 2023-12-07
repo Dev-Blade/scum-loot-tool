@@ -2,7 +2,7 @@
   "FixedItems": [
     "Paper"
   ],
-  "InitialDamage": 22,
+  "InitialDamage": 12,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

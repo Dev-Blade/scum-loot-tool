@@ -1,10 +1,10 @@
 {
   "FixedItems": [
-    "Weapon_UMP45",
-    "Magazine_UMP45",
-    "Cal_45_Ammobox"
+    "Weapon_M1887",
+    "12_Gauge_Buckshot_Ammobox",
+    "12_Gauge_Buckshot_Ammobox"
   ],
-  "InitialDamage": 20,
+  "InitialDamage": 14,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

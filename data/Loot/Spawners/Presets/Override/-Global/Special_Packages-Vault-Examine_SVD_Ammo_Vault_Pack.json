@@ -1,15 +1,12 @@
 {
   "FixedItems": [
-    "Weapon_SF19",
-    "Magazine_SF19",
-    "Magazine_SF19",
-    "Magazine_SF19",
-    "Cal_9mm_Ammobox",
-    "Cal_9mm_Ammobox",
-    "WeaponSuppressor_Handgun",
-    "WeaponSights_Wasp"
+    "BowSilencer",
+    "BowSilencer",
+    "Recurve_Bow_60",
+    "Improvised_Quiver_01",
+    "Carbon_BroadHead_Arrow"
   ],
-  "InitialDamage": 23,
+  "InitialDamage": 15,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

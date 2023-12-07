@@ -17,12 +17,12 @@
       "Id": "Sneakers_02_04"
     }
   ],
-  "Probability": 18,
+  "Probability": 20,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 24,
+  "InitialDamage": 22,
   "RandomDamage": 8,
   "InitialUsage": 0,
   "RandomUsage": 0

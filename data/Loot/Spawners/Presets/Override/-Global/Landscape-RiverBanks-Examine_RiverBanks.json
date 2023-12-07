@@ -5,12 +5,12 @@
       "Id": "Earthworm"
     }
   ],
-  "Probability": 11,
+  "Probability": 12,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 21,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

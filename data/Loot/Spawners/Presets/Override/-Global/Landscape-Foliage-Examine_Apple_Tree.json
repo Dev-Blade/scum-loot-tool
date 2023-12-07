@@ -9,12 +9,12 @@
       "Id": "Apple_2"
     }
   ],
-  "Probability": 13,
+  "Probability": 14,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 13,
+  "InitialDamage": 10,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

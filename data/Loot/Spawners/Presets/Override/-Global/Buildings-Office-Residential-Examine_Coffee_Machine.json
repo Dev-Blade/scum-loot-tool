@@ -5,7 +5,7 @@
       "Id": "Coffee_Cup"
     }
   ],
-  "Probability": 4,
+  "Probability": 5,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

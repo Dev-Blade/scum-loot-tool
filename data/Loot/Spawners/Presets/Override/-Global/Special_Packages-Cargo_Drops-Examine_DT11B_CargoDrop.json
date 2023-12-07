@@ -4,7 +4,7 @@
     "12_Gauge_Birdshot_Ammobox",
     "12_Gauge_Birdshot_Ammobox"
   ],
-  "InitialDamage": 12,
+  "InitialDamage": 14,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

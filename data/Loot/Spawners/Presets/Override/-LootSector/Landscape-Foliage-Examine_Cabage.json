@@ -5,7 +5,7 @@
       "Id": "Cabbage"
     }
   ],
-  "Probability": 52,
+  "Probability": 45,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

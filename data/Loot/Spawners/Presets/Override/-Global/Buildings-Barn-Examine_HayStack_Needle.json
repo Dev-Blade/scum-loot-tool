@@ -5,12 +5,12 @@
       "Id": "Needle"
     }
   ],
-  "Probability": 1,
+  "Probability": 2,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 16,
+  "InitialDamage": 10,
   "RandomDamage": 75,
   "InitialUsage": 0,
   "RandomUsage": 75,

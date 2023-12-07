@@ -5,12 +5,12 @@
       "Id": "Date"
     }
   ],
-  "Probability": 21,
+  "Probability": 24,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 20,
+  "InitialDamage": 14,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

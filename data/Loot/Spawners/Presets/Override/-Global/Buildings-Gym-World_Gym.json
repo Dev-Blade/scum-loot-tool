@@ -7,12 +7,12 @@
       ]
     }
   ],
-  "Probability": 21,
+  "Probability": 24,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 21,
+  "InitialDamage": 10,
   "RandomDamage": 45,
   "InitialUsage": 0,
   "RandomUsage": 45

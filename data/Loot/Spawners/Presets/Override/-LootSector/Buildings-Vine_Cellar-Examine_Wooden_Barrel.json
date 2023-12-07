@@ -5,7 +5,7 @@
       "Id": "Grapes_Raw"
     }
   ],
-  "Probability": 58,
+  "Probability": 50,
   "QuantityMin": 3,
   "QuantityMax": 5,
   "AllowDuplicates": true,

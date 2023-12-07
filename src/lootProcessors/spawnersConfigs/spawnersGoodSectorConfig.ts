@@ -11,7 +11,7 @@ export const spawnersConfig: SpawnersConfigType = {
   defaults: {
     defaultInitialMinDamage: 0,
     defaultRandomMinDamage: 0,
-    defaultProbabilityMultiplier: 2.9,
+    defaultProbabilityMultiplier: 2.5,
     defaultInitialDamageMultiplier: 1,
     defaultRandomDamageMultiplier: 1,
     defaultInitialUsageMultiplier: 1,

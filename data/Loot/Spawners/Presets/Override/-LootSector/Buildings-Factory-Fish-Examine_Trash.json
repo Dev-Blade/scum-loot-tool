@@ -23,7 +23,7 @@
       "Id": "CannedSardine"
     }
   ],
-  "Probability": 44,
+  "Probability": 38,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

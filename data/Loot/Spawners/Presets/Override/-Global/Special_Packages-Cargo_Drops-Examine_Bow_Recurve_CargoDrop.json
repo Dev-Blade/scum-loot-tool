@@ -11,7 +11,7 @@
     "RH_Arm_Guard",
     "RH_Shoe_01"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 13,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

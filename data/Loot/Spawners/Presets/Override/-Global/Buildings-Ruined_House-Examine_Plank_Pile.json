@@ -5,7 +5,7 @@
       "Id": "Wooden_Plank"
     }
   ],
-  "Probability": 14,
+  "Probability": 16,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

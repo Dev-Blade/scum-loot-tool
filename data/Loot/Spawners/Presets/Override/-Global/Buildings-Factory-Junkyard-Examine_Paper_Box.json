@@ -6,7 +6,7 @@
       "Id": "Paper"
     }
   ],
-  "Probability": 35,
+  "Probability": 40,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

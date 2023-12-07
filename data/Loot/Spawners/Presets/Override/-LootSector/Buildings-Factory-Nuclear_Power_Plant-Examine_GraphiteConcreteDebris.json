@@ -5,7 +5,7 @@
       "Id": "Graphite"
     }
   ],
-  "Probability": 58,
+  "Probability": 50,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

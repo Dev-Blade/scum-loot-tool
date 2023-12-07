@@ -21,7 +21,7 @@
       "Id": "Fuse_1000A"
     }
   ],
-  "Probability": 8,
+  "Probability": 10,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

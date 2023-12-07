@@ -5,7 +5,7 @@
       "Id": "Brick"
     }
   ],
-  "Probability": 59,
+  "Probability": 68,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,

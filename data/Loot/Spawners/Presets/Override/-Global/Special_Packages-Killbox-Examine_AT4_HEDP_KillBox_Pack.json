@@ -5,7 +5,7 @@
     "Cal_9mm_Ammobox",
     "MP5_Rail_Short"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 14,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -21,12 +21,12 @@
       "Id": "Fuse_1000A"
     }
   ],
-  "Probability": 14,
+  "Probability": 16,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 22,
+  "InitialDamage": 10,
   "RandomDamage": 10,
   "InitialUsage": 0,
   "RandomUsage": 0,

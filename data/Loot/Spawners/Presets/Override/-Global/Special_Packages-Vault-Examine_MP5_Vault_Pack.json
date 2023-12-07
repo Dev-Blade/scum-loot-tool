@@ -5,7 +5,7 @@
     "MP5_Rail_Short",
     "WeaponSights_RedDot_CA401B"
   ],
-  "InitialDamage": 11,
+  "InitialDamage": 15,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

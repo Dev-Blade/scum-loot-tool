@@ -6,7 +6,7 @@
     "Tactical_Handgun_Holster_01",
     "WeaponSights_RedDot_CA401B"
   ],
-  "InitialDamage": 17,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -8,7 +8,7 @@
     "Aloe_Vera",
     "Emergency_bandage"
   ],
-  "InitialDamage": 12,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0
