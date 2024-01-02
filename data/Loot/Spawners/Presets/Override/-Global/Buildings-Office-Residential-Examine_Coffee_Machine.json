@@ -5,12 +5,12 @@
       "Id": "Coffee_Cup"
     }
   ],
-  "Probability": 5,
+  "Probability": 4,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 10,
+  "InitialDamage": 23,
   "RandomDamage": 15,
   "InitialUsage": 0,
   "RandomUsage": 0

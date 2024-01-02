@@ -9,7 +9,7 @@
     "ChocolateCandy_01",
     "ChocolateCandy_03"
   ],
-  "InitialDamage": 17,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -2,7 +2,7 @@
   "FixedItems": [
     "1H_Medieval_Sword"
   ],
-  "InitialDamage": 11,
+  "InitialDamage": 15,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

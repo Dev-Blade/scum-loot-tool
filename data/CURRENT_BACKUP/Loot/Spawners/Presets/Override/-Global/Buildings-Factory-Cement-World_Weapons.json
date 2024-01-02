@@ -1,0 +1,30 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Ammo.12Gauge",
+        "ItemLootTreeNodes.Military.Ammo.Arrows",
+        "ItemLootTreeNodes.Military.Ammo.Regular",
+        "ItemLootTreeNodes.Military.Weapons.Handguns",
+        "ItemLootTreeNodes.Military.Weapons.Handguns",
+        "ItemLootTreeNodes.Military.Weapons.Shotguns",
+        "ItemLootTreeNodes.Military.Weapons.Handguns",
+        "ItemLootTreeNodes.Military.Weapons.Other",
+        "ItemLootTreeNodes.Military.Gear.Magazines.Handguns",
+        "ItemLootTreeNodes.Military.Weapons.Handguns",
+        "ItemLootTreeNodes.Military.Weapons.Handguns",
+        "ItemLootTreeNodes.Military.Gear.Attachments"
+      ]
+    }
+  ],
+  "Probability": 3,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 19,
+  "RandomDamage": 45,
+  "InitialUsage": 0,
+  "RandomUsage": 45
+}

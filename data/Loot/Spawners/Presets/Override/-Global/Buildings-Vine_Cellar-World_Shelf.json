@@ -39,13 +39,13 @@
       "Id": "Harmonica"
     }
   ],
-  "Probability": 16,
+  "Probability": 14,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 10,
-  "RandomDamage": 75,
+  "InitialDamage": 26,
+  "RandomDamage": 73,
   "InitialUsage": 0,
   "RandomUsage": 75
 }

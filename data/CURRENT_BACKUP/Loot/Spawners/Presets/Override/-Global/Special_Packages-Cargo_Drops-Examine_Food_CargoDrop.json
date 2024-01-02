@@ -1,0 +1,16 @@
+{
+  "FixedItems": [
+    "Potato",
+    "Potato",
+    "Potato",
+    "Pine_Cone",
+    "Pine_Cone",
+    "Pine_Cone",
+    "ChocolateCandy_01",
+    "ChocolateCandy_03"
+  ],
+  "InitialDamage": 18,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

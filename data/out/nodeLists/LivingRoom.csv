@@ -175,6 +175,9 @@ LivingRoom.Items.Misc.Lockpicks.Bobby_Pin_Pacage,Uncommon,Abundant,Abundant,Rare
 LivingRoom.Items.Misc.Lockpicks.Lockpick_Advanced_Item,Uncommon,Abundant,Abundant,Rare,VeryRare
 LivingRoom.Items.Misc.Lockpicks.Lockpick_Item,Uncommon,Abundant,Abundant,Rare,Rare
 LivingRoom.Items.Misc.Lockpicks.Safety_pin,Uncommon,Abundant,Abundant,Rare,Uncommon
+LivingRoom.Items.Misc.Locks.Lock_Item_Advanced,Uncommon,Abundant,Abundant,Rare,ExtremelyRare
+LivingRoom.Items.Misc.Locks.Lock_Item_Basic,Uncommon,Abundant,Abundant,Rare,Rare
+LivingRoom.Items.Misc.Locks.Lock_Items_Medium,Uncommon,Abundant,Abundant,Rare,VeryRare
 LivingRoom.Items.Misc.Locks.Padlock,Uncommon,Abundant,Abundant,Rare,Abundant
 LivingRoom.Items.Misc.Magnifying_Glass1,Uncommon,Abundant,Abundant,VeryRare
 LivingRoom.Items.Misc.Matches,Uncommon,Abundant,Abundant,Rare

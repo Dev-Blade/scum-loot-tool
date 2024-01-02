@@ -9,7 +9,7 @@
     "WeaponSights_RedDot_CA401B",
     "WeaponSuppressor_MP5"
   ],
-  "InitialDamage": 15,
+  "InitialDamage": 35,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

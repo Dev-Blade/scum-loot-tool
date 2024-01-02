@@ -5,12 +5,12 @@
       "Id": "Feather"
     }
   ],
-  "Probability": 14,
+  "Probability": 13,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 10,
+  "InitialDamage": 21,
   "RandomDamage": 75,
   "InitialUsage": 0,
   "RandomUsage": 75,

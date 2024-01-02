@@ -79,6 +79,9 @@ Office.Items.Misc.Lockpicks.Bobby_Pin_Pacage,Uncommon,Abundant,Uncommon,Common,A
 Office.Items.Misc.Lockpicks.Lockpick_Advanced_Item,Uncommon,Abundant,Uncommon,Common,VeryRare
 Office.Items.Misc.Lockpicks.Lockpick_Item,Uncommon,Abundant,Uncommon,Common,Rare
 Office.Items.Misc.Lockpicks.Safety_pin,Uncommon,Abundant,Uncommon,Common,Abundant
+Office.Items.Misc.Locks.Lock_Item_Advanced,Uncommon,Abundant,Uncommon,Common,ExtremelyRare
+Office.Items.Misc.Locks.Lock_Item_Basic,Uncommon,Abundant,Uncommon,Common,Rare
+Office.Items.Misc.Locks.Lock_Items_Medium,Uncommon,Abundant,Uncommon,Common,VeryRare
 Office.Items.Misc.Locks.Padlock,Uncommon,Abundant,Uncommon,Common,Abundant
 Office.Items.Misc.Magnifying_Glass1,Uncommon,Abundant,Uncommon,VeryRare
 Office.Items.Misc.Matches,Uncommon,Abundant,Uncommon,Rare

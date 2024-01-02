@@ -1,0 +1,36 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Other.Weapons",
+        "ItemLootTreeNodes.Office.Items.Misc",
+        "ItemLootTreeNodes.Office.Items.Melee",
+        "ItemLootTreeNodes.Office.Items.Clothes.Hands",
+        "ItemLootTreeNodes.Office.Items.Clothes.Head",
+        "ItemLootTreeNodes.Office.Food",
+        "ItemLootTreeNodes.Office.Drinks"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Items.Misc"
+      ]
+    }
+  ],
+  "Probability": 14,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 17,
+  "RandomDamage": 82,
+  "InitialUsage": 0,
+  "RandomUsage": 45,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetCashAmount_SmallStash"
+  ]
+}

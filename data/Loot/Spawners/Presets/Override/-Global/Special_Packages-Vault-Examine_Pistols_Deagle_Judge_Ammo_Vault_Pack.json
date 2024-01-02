@@ -2,7 +2,7 @@
   "FixedItems": [
     "Cal_44_Viper_Ammobox_AP"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 35,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

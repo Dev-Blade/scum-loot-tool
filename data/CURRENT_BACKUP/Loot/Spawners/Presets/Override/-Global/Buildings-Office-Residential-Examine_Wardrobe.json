@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Items.Clothes",
+        "ItemLootTreeNodes.Office.Items.Melee",
+        "ItemLootTreeNodes.Office.Items.Misc",
+        "ItemLootTreeNodes.Office.Other"
+      ]
+    }
+  ],
+  "Probability": 16,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 21,
+  "RandomDamage": 30,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

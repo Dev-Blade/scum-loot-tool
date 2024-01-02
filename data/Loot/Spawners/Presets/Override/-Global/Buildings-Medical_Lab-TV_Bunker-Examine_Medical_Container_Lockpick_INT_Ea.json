@@ -13,12 +13,12 @@
       "Id": "Paper"
     }
   ],
-  "Probability": 8,
+  "Probability": 7,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 10,
+  "InitialDamage": 28,
   "RandomDamage": 10,
   "InitialUsage": 0,
   "RandomUsage": 0

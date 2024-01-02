@@ -5,12 +5,12 @@
       "Id": "Cheese"
     }
   ],
-  "Probability": 28,
+  "Probability": 25,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 20,
+  "InitialDamage": 14,
   "RandomDamage": 15,
   "InitialUsage": 0,
   "RandomUsage": 0

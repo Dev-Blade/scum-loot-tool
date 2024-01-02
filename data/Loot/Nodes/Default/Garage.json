@@ -35,6 +35,10 @@
 							"Rarity": "Rare"
 						},
 						{
+							"Name": "ColorCan_BaronBrown",
+							"Rarity": "Uncommon"
+						},
+						{
 							"Name": "Diary",
 							"Rarity": "Rare"
 						},
@@ -102,6 +106,14 @@
 							"Name": "Locks",
 							"Rarity": "Rare",
 							"Children": [
+								{
+									"Name": "Lock_Item_Basic",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Lock_Items_Medium",
+									"Rarity": "VeryRare"
+								},
 								{
 									"Name": "Padlock",
 									"Rarity": "Abundant"
@@ -1244,6 +1256,26 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "Rager_Engine_Alternator_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Lights_FrontLeft",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Lights_FrontRight",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Lights_RearLeft",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Lights_RearRight",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "WW_Engine_Alternator_Item",
 									"Rarity": "Rare"
 								},
@@ -1328,6 +1360,26 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "Rager_Door_BackLeft_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Door_BackRight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Door_FrontLeft_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Door_FrontRight_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_DoorTrunk_Item",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "WW_Door_BackLeft_Item",
 									"Rarity": "Rare"
 								},
@@ -1346,6 +1398,26 @@
 								{
 									"Name": "WW_DoorTrunk_Item",
 									"Rarity": "Rare"
+								}
+							]
+						},
+						{
+							"Name": "Misc",
+							"Rarity": "Uncommon",
+							"Children": [
+								{
+									"Name": "Rager",
+									"Rarity": "Uncommon",
+									"Children": [
+										{
+											"Name": "Rager_Bumper_Back_Item",
+											"Rarity": "Uncommon"
+										},
+										{
+											"Name": "Rager_Bumper_Front_Item",
+											"Rarity": "Uncommon"
+										}
+									]
 								}
 							]
 						},
@@ -1398,6 +1470,10 @@
 								{
 									"Name": "Wheel_255_55_R16_Item",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Wheel_265_60_R18_Item",
+									"Rarity": "Uncommon"
 								}
 							]
 						},
@@ -1412,6 +1488,14 @@
 								{
 									"Name": "Laika_Seat_FrontRight_Item",
 									"Rarity": "Rare"
+								},
+								{
+									"Name": "Rager_Seat_FrontLeft_Item",
+									"Rarity": "Uncommon"
+								},
+								{
+									"Name": "Rager_Seat_FrontRight_Item",
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "WW_Seat_BackLeft_Item",

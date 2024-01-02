@@ -9,12 +9,12 @@
       "Id": "Grasshopper"
     }
   ],
-  "Probability": 20,
+  "Probability": 18,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 10,
+  "InitialDamage": 21,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

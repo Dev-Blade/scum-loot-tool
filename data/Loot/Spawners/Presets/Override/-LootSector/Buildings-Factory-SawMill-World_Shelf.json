@@ -31,7 +31,7 @@
       "Id": "Chainsaw"
     }
   ],
-  "Probability": 38,
+  "Probability": 43,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

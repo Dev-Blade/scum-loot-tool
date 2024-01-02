@@ -9,13 +9,13 @@
       ]
     }
   ],
-  "Probability": 12,
+  "Probability": 11,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 20,
-  "RandomDamage": 75,
+  "InitialDamage": 31,
+  "RandomDamage": 68,
   "InitialUsage": 0,
   "RandomUsage": 75,
   "PostSpawnActions": [

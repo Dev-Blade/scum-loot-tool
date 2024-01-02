@@ -10,7 +10,7 @@
     "WeaponSights_Deagle_RedDot",
     "Tactical_Handgun_Holster_03"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 38,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

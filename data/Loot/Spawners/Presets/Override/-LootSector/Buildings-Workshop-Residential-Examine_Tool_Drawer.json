@@ -8,7 +8,6 @@
         "ItemLootTreeNodes.Workshop.Crafting.Duct_Tape",
         "ItemLootTreeNodes.Workshop.Tools.Blades.1H_Scalpel",
         "ItemLootTreeNodes.Workshop.Tools.Electrical.Batteries",
-        "ItemLootTreeNodes.Workshop.Tools.Electrical.Carbon_Electrodes",
         "ItemLootTreeNodes.Workshop.Tools.Electrical.Wire",
         "ItemLootTreeNodes.Workshop.Tools.Electrical.Wire_Cutters_01",
         "ItemLootTreeNodes.Workshop.Tools.Hand.1H_Wrench_Pipe",
@@ -24,7 +23,7 @@
       ]
     }
   ],
-  "Probability": 63,
+  "Probability": 71,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

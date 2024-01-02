@@ -1,1 +1,2 @@
-export type RarityType = 'Abundant' | 'Uncommon' | 'Rare' | 'VeryRare' | 'ExtremelyRare';
+export const rarities = ['Abundant', 'Common', 'Uncommon', 'Rare', 'VeryRare', 'ExtremelyRare'] as const;
+export type RarityType = (typeof rarities)[number]; // "Abundant" | "Uncommon" | "Rare" | "VeryRare" | "ExtremelyRare"

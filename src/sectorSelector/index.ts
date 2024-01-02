@@ -1,3 +1,5 @@
+import {unixTimestamp} from '../utils/timeUtils';
+
 const rowSubstitutes = ['D', 'C', 'B', 'A', 'Z'];
 const columnSubstitutes = ['4', '3', '2', '1', '0'];
 
@@ -53,6 +55,17 @@ export const selectRandomSectors = (count: number) => {
     grid[row][col] = 1;
     selected.push(rowSubstitutes[row] + columnSubstitutes[col]);
   }
+  console.log('```');
   console.log(grid);
+  console.log('```');
   return selected;
+};
+
+export const processSectors = () => {
+  const sectors = selectRandomSectors(6);
+  const strSectors = sectors.join(', ');
+
+  console.log("## Today's New Blue Sectors ##");
+  console.log('generated on <t:' + unixTimestamp() + ':F>');
+  console.log('# :blue_square: [', strSectors, '] :blue_square: # ');
 };

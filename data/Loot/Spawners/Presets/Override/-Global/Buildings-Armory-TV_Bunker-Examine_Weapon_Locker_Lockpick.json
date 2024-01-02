@@ -56,18 +56,17 @@
         "ItemLootTreeNodes.Observatory.Items",
         "ItemLootTreeNodes.Observatory.Items",
         "ItemLootTreeNodes.Military.Ammo.Tracers",
-        "ItemLootTreeNodes.Military.Ammo.Tracers",
         "ItemLootTreeNodes.Observatory.Items.Misc",
         "ItemLootTreeNodes.Military.Ammo.Tracers"
       ]
     }
   ],
-  "Probability": 20,
+  "Probability": 14,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 24,
+  "InitialDamage": 30,
   "RandomDamage": 60,
   "InitialUsage": 0,
   "RandomUsage": 23

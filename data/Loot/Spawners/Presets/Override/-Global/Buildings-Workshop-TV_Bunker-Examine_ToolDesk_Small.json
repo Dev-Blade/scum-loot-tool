@@ -12,13 +12,13 @@
       ]
     }
   ],
-  "Probability": 24,
+  "Probability": 21,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 18,
-  "RandomDamage": 81,
+  "InitialDamage": 37,
+  "RandomDamage": 62,
   "InitialUsage": 0,
   "RandomUsage": 60
 }

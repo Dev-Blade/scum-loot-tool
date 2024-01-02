@@ -35,13 +35,13 @@
       "Id": "Inmate_Hoodie_01"
     }
   ],
-  "Probability": 28,
+  "Probability": 25,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 23,
-  "RandomDamage": 75,
+  "InitialDamage": 44,
+  "RandomDamage": 55,
   "InitialUsage": 0,
   "RandomUsage": 75
 }

@@ -569,6 +569,10 @@
 									]
 								},
 								{
+									"Name": "Christmas_Ball_01",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "Cigarettes",
 									"Rarity": "Rare",
 									"Children": [
@@ -666,6 +670,18 @@
 									"Name": "Locks",
 									"Rarity": "Rare",
 									"Children": [
+										{
+											"Name": "Lock_Item_Advanced",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Lock_Item_Basic",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Lock_Items_Medium",
+											"Rarity": "VeryRare"
+										},
 										{
 											"Name": "Padlock",
 											"Rarity": "Uncommon"

@@ -5,12 +5,12 @@
       "Id": "Leather_Shoes"
     }
   ],
-  "Probability": 20,
+  "Probability": 18,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 21,
+  "InitialDamage": 42,
   "RandomDamage": 8,
   "InitialUsage": 0,
   "RandomUsage": 0

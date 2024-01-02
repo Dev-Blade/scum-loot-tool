@@ -1,0 +1,21 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items.Misc",
+        "ItemLootTreeNodes.LivingRoom.Items.Melee",
+        "ItemLootTreeNodes.LivingRoom.Items.Clothes"
+      ]
+    }
+  ],
+  "Probability": 12,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75
+}

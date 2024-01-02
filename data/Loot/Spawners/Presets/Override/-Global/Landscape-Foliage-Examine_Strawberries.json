@@ -5,12 +5,12 @@
       "Id": "Wild_Strawberry"
     }
   ],
-  "Probability": 24,
+  "Probability": 21,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 19,
+  "InitialDamage": 28,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

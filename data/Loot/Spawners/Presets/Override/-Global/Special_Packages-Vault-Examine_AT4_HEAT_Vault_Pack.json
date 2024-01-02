@@ -1,11 +1,10 @@
 {
   "FixedItems": [
-    "Weapon_MP5",
-    "Magazine_MP5",
-    "Cal_9mm_Ammobox",
-    "MP5_Rail_Short"
+    "Weapon_M1887",
+    "12_Gauge_Buckshot_Ammobox",
+    "12_Gauge_Buckshot_Ammobox"
   ],
-  "InitialDamage": 22,
+  "InitialDamage": 15,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -19,7 +19,7 @@
       "Id": "Candle_01"
     }
   ],
-  "Probability": 30,
+  "Probability": 34,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

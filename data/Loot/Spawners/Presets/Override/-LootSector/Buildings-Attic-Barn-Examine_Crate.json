@@ -16,13 +16,13 @@
       ]
     },
     {
-      "Rarity": "ExtermelyRare",
+      "Rarity": "VeryRare",
       "Ids": [
         "ItemLootTreeNodes.Barn.Other.Weapons.Shotguns"
       ]
     }
   ],
-  "Probability": 30,
+  "Probability": 34,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

@@ -1839,6 +1839,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "WeaponScope_PU",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "WeaponScope_Vampyr",
 											"Rarity": "Common"
 										},
@@ -2013,6 +2017,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "WeaponSuppressor_45ACP",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "WeaponSuppressor_5_45x39",
 											"Rarity": "VeryRare"
 										},
@@ -2169,10 +2177,6 @@
 							"Rarity": "VeryRare",
 							"Children": [
 								{
-									"Name": "Cal_40_OG-7V",
-									"Rarity": "VeryRare"
-								},
-								{
 									"Name": "Cal_40_PG-7M",
 									"Rarity": "VeryRare"
 								},
@@ -2259,6 +2263,10 @@
 										{
 											"Name": "Magazine_RPK",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Magazine_SCAR_DMR",
+											"Rarity": "Rare"
 										},
 										{
 											"Name": "Magazine_VHS2",
@@ -2395,6 +2403,10 @@
 									"Rarity": "VeryRare"
 								},
 								{
+									"Name": "DialLock_Item",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "GasMasks",
 									"Rarity": "VeryRare",
 									"Children": [
@@ -2513,6 +2525,10 @@
 									"Rarity": "Rare"
 								},
 								{
+									"Name": "Weapon_SCAR_DMR",
+									"Rarity": "Uncommon"
+								},
+								{
 									"Name": "Weapon_VHS2",
 									"Rarity": "Rare"
 								},
@@ -2528,10 +2544,6 @@
 							"Children": [
 								{
 									"Name": "Weapon_AT4_HEAT",
-									"Rarity": "Uncommon"
-								},
-								{
-									"Name": "Weapon_AT4_HEDP",
 									"Rarity": "Uncommon"
 								},
 								{

@@ -5,7 +5,7 @@
       "Id": "Earthworm"
     }
   ],
-  "Probability": 38,
+  "Probability": 43,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,

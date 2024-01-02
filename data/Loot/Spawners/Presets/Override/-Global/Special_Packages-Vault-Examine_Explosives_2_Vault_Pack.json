@@ -9,7 +9,7 @@
     "WeaponSuppressor_Handgun",
     "WeaponSights_Wasp"
   ],
-  "InitialDamage": 22,
+  "InitialDamage": 34,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -11,16 +11,23 @@ export const spawnersConfig: SpawnersConfigType = {
   defaults: {
     defaultInitialMinDamage: 10,
     defaultRandomMinDamage: 5,
-    defaultProbabilityMultiplier: 0.8,
-    defaultInitialDamageMultiplier: 1.2,
+    defaultProbabilityMultiplier: 0.7,
+    defaultInitialDamageMultiplier: 1.5,
     defaultRandomDamageMultiplier: 1.5,
     defaultInitialUsageMultiplier: 1,
     defaultRandomUsageMultiplier: 1.5,
     defaultQuantityMinMultiplier: 0.67,
     defaultQuantityMaxMultiplier: 0.67,
-    defaultInitialDamageRandomMaxMultiplierIfZero: 20,
+    defaultInitialDamageRandomMaxMultiplierIfZero: 30,
   },
   filter: {
+    Fuses: {
+      ProbabilityMultiplier: 1.5,
+      InitialDamageMultiplier: 1,
+      RandomDamageMultiplier: 1,
+      QuantityMinValue: 1,
+      QuantityMaxValue: 1,
+    },
     Zombie_C4: {
       Items: {
         C4: {

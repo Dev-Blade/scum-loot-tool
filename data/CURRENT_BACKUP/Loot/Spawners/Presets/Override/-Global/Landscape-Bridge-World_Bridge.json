@@ -1,0 +1,31 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Trash"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.HuntingStore.Fishing"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Beach"
+      ]
+    }
+  ],
+  "Probability": 28,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 13,
+  "RandomDamage": 60,
+  "InitialUsage": 0,
+  "RandomUsage": 60
+}

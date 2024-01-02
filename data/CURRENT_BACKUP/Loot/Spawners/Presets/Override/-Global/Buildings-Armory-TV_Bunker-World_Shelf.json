@@ -1,0 +1,33 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Ammo.Tracers",
+        "ItemLootTreeNodes.Military.Ammo.Tracers",
+        "ItemLootTreeNodes.Military.Ammo.Tracers",
+        "ItemLootTreeNodes.Military.Clothes",
+        "ItemLootTreeNodes.Military.Gear.Armor.Vests.Stabproof",
+        "ItemLootTreeNodes.Observatory.Items",
+        "ItemLootTreeNodes.Military.Gear.Backpacks",
+        "ItemLootTreeNodes.Observatory.Items",
+        "ItemLootTreeNodes.Observatory.Items",
+        "ItemLootTreeNodes.Military.Gear.Tools",
+        "ItemLootTreeNodes.Military.Ammo.Tracers"
+      ]
+    }
+  ],
+  "Probability": 5,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 46,
+  "InitialUsage": 0,
+  "RandomUsage": 23,
+  "PostSpawnActions": [
+    "SetAmmoAmount_BigStash",
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

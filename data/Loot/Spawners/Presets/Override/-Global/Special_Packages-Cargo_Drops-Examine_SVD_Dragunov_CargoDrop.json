@@ -2,7 +2,7 @@
   "FixedItems": [
     "Long_wooden_stick"
   ],
-  "InitialDamage": 16,
+  "InitialDamage": 35,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -6,7 +6,11 @@
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "pkg": "npm run build && pkg --out-path bin --targets node18-linux-x64,node18-macos-x64,node18-win-x64 --overwrite --compress GZip dist/index.js",
-    "start": "./node_modules/.bin/cross-env NODE_ENV=development ./node_modules/.bin/ts-node --esm ./src/index.ts"
+    "start": "./node_modules/.bin/cross-env NODE_ENV=development ./node_modules/.bin/ts-node --esm ./src/index.ts",
+    "s": "npm run start sectors",
+    "l": "npm run start spawners",
+    "e": "npm run start economy",
+    "n": "npm run start nodes"
   },
   "dependencies": {
     "class-validator": "^0.14.0",

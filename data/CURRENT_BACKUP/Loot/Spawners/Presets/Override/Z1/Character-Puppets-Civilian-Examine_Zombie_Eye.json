@@ -1,0 +1,36 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Puppet_Eye"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Weapon_PeaceKeeper38"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Weapon_Serpent357"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_357_Viper"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_38"
+    }
+  ],
+  "Probability": 30,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 10,
+  "RandomDamage": 20,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash"
+  ]
+}

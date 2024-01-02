@@ -5,12 +5,12 @@
       "Id": "Olives"
     }
   ],
-  "Probability": 17,
+  "Probability": 15,
   "QuantityMin": 1,
   "QuantityMax": 4,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 10,
+  "InitialDamage": 31,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -2005,6 +2005,10 @@
 								{
 									"Name": "Weapon_MK18",
 									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_SCAR_DMR",
+									"Rarity": "VeryRare"
 								}
 							]
 						},
@@ -3070,6 +3074,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "WeaponScope_PU",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "WeaponScope_Vampyr",
 											"Rarity": "Rare"
 										},
@@ -3236,6 +3244,10 @@
 											"Rarity": "Rare"
 										},
 										{
+											"Name": "WeaponSuppressor_45ACP",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "WeaponSuppressor_5_45x39",
 											"Rarity": "VeryRare"
 										},
@@ -3290,6 +3302,10 @@
 										{
 											"Name": "Magazine_RPK",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Magazine_SCAR_DMR",
+											"Rarity": "Rare"
 										}
 									]
 								},

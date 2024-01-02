@@ -41,13 +41,13 @@
       "Id": "Tire_Repair_Kit"
     }
   ],
-  "Probability": 28,
+  "Probability": 25,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 10,
-  "RandomDamage": 89,
+  "InitialDamage": 16,
+  "RandomDamage": 83,
   "InitialUsage": 0,
   "RandomUsage": 53
 }

@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Bobby_Pin_Pacage",
+    "Bobby_Pin_Pacage",
+    "Bobby_Pin_Pacage"
+  ],
+  "InitialDamage": 17,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

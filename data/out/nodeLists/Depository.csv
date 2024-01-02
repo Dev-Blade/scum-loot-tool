@@ -16,7 +16,9 @@ Depository.MeM.MemoryModule_Level2,Rare,VeryRare,Rare
 Depository.MeM.MemoryModule_Level3,Rare,VeryRare,VeryRare
 Depository.MeM.MemoryModule_Level4,Rare,VeryRare,ExtremelyRare
 Depository.Misc.BCULock_Item,Rare,Rare,Uncommon
+Depository.Misc.DialLock_Item,Rare,Rare,Uncommon
 Depository.Misc.Geiger_Counter_Analogue,Rare,Rare,Uncommon
+Depository.Misc.Lock_Item_Advanced,Rare,Rare,Uncommon
 Depository.Misc.Lockpick_Advanced_Item,Rare,Rare,Uncommon
 Depository.Misc.Smartphone_Battery,Rare,Rare,Rare
 Depository.tools.Electrician_Tools,Rare,Common,Uncommon

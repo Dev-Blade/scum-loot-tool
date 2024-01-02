@@ -1,12 +1,10 @@
 {
   "FixedItems": [
-    "BowSilencer",
-    "BowSilencer",
-    "Recurve_Bow_60",
-    "Improvised_Quiver_01",
-    "Carbon_BroadHead_Arrow"
+    "Weapon_M1887",
+    "12_Gauge_Buckshot_Ammobox",
+    "12_Gauge_Buckshot_Ammobox"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 26,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

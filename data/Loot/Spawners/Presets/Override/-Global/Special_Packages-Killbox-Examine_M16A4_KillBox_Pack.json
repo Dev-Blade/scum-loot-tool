@@ -1,11 +1,15 @@
 {
   "FixedItems": [
-    "Weapon_MP5",
-    "Magazine_MP5",
-    "Cal_9mm_Ammobox",
-    "MP5_Rail_Short"
+    "Weapon_UMP45",
+    "Magazine_UMP45",
+    "Magazine_UMP45",
+    "Cal_45_Ammobox",
+    "Cal_45_Ammobox",
+    "WeaponSuppressor_MP5",
+    "WeaponFlashlight_M9",
+    "WeaponSights_RedDot_CA401B"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 12,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

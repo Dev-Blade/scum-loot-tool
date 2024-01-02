@@ -33,12 +33,12 @@
       ]
     }
   ],
-  "Probability": 14,
+  "Probability": 13,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 12,
+  "InitialDamage": 15,
   "RandomDamage": 30,
   "InitialUsage": 10,
   "RandomUsage": 30,

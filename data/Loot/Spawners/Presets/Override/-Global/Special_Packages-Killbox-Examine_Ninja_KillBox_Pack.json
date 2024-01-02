@@ -1,10 +1,15 @@
 {
   "FixedItems": [
-    "Weapon_M1887",
-    "12_Gauge_Buckshot_Ammobox",
-    "12_Gauge_Buckshot_Ammobox"
+    "Weapon_SF19",
+    "Magazine_SF19",
+    "Magazine_SF19",
+    "Magazine_SF19",
+    "Cal_9mm_Ammobox",
+    "Cal_9mm_Ammobox",
+    "WeaponSuppressor_Handgun",
+    "WeaponSights_Wasp"
   ],
-  "InitialDamage": 15,
+  "InitialDamage": 37,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

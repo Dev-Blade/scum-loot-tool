@@ -45,6 +45,9 @@ CarWreck.Crafting.Glue,Uncommon,Abundant,VeryRare
 CarWreck.Crafting.Gun_Powder,Uncommon,Abundant,Uncommon
 CarWreck.Crafting.Lead_Plate,Uncommon,Abundant,Uncommon
 CarWreck.Crafting.Lighter,Uncommon,Abundant,Rare
+CarWreck.Crafting.Locks.Lock_Item_Advanced,Uncommon,Abundant,ExtremelyRare,ExtremelyRare
+CarWreck.Crafting.Locks.Lock_Item_Basic,Uncommon,Abundant,ExtremelyRare,Rare
+CarWreck.Crafting.Locks.Lock_Items_Medium,Uncommon,Abundant,ExtremelyRare,VeryRare
 CarWreck.Crafting.Magnifying_Glass,Uncommon,Abundant,VeryRare
 CarWreck.Crafting.Matches,Uncommon,Abundant,Rare
 CarWreck.Crafting.Mobile_Phone,Uncommon,Abundant,Rare
@@ -59,7 +62,6 @@ CarWreck.Crafting.Radio,Uncommon,Abundant,VeryRare
 CarWreck.Crafting.Rubber_band,Uncommon,Abundant,Uncommon
 CarWreck.Crafting.Rubber_sheet,Uncommon,Abundant,Uncommon
 CarWreck.Crafting.Safety_pin,Uncommon,Abundant,Uncommon
-CarWreck.Crafting.Scrap.Metal_Scrap_01,Uncommon,Abundant,Common,Common
 CarWreck.Crafting.Smartphone_Battery,Uncommon,Abundant,Rare
 CarWreck.Fishing.Baits.PremiumBoiliesPack,Uncommon,Rare,Rare,Uncommon
 CarWreck.Fishing.Floater.FishingFloater,Uncommon,Rare,Rare,Uncommon
@@ -307,6 +309,7 @@ CarWreck.Other.Weapons.Other.Attachments.Suppressors.BowParts.BowSilencer,Uncomm
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.BowParts.BowSilencer_SlipOn,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,Rare,Rare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponFlashHider,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,ExtremelyRare
+CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,VeryRare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Magazines.AssaultRifles.Magazine_AK47,Uncommon,ExtremelyRare,ExtremelyRare,Rare,Common,ExtremelyRare,VeryRare

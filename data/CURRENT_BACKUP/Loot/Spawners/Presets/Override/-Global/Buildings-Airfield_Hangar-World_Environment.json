@@ -1,0 +1,25 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Airfield"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Trash"
+      ]
+    }
+  ],
+  "Probability": 20,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 12,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75
+}

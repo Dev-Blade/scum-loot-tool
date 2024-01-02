@@ -2,7 +2,7 @@
   "FixedItems": [
     "Gas_Mask_01"
   ],
-  "InitialDamage": 16,
+  "InitialDamage": 21,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

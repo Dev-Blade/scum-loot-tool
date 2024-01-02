@@ -8,7 +8,7 @@
     "WeaponFlashlight_M9",
     "WeaponSuppressor_Handgun"
   ],
-  "InitialDamage": 18,
+  "InitialDamage": 36,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

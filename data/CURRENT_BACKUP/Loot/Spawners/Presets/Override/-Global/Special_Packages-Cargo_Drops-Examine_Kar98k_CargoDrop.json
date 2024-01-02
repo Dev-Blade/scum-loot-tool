@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "Long_wooden_stick"
+  ],
+  "InitialDamage": 21,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

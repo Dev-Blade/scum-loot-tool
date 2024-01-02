@@ -1,0 +1,30 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.WorkClothes",
+        "ItemLootTreeNodes.Workshop.Tools",
+        "ItemLootTreeNodes.Workshop.Crafting"
+      ]
+    },
+    {
+      "Rarity": "VeryRare",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Clothes"
+      ]
+    }
+  ],
+  "Probability": 12,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

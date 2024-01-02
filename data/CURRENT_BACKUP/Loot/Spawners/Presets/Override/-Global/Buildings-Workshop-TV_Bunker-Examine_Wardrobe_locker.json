@@ -1,0 +1,29 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.WorkClothes",
+        "ItemLootTreeNodes.Military.Ammo.Tracers",
+        "ItemLootTreeNodes.Workshop.Other.Backpacks",
+        "ItemLootTreeNodes.Workshop.Other.Flares",
+        "ItemLootTreeNodes.Workshop.Other.Money",
+        "ItemLootTreeNodes.Workshop.Other.Soap"
+      ]
+    }
+  ],
+  "Probability": 12,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 89,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetCashAmount_SmallStash",
+    "SetAmmoAmount_SmallStash"
+  ]
+}

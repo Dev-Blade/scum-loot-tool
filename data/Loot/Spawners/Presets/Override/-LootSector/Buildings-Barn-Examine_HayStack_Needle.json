@@ -5,7 +5,7 @@
       "Id": "Needle"
     }
   ],
-  "Probability": 5,
+  "Probability": 6,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "Watering_Can"
+  ],
+  "InitialDamage": 22,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -1,0 +1,27 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Items.Clothes",
+        "ItemLootTreeNodes.Office.Items.Misc",
+        "ItemLootTreeNodes.Office.Food",
+        "ItemLootTreeNodes.Office.Drinks"
+      ]
+    }
+  ],
+  "Probability": 24,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

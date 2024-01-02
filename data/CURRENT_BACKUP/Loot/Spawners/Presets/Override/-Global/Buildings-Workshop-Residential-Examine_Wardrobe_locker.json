@@ -1,0 +1,26 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.WorkClothes",
+        "ItemLootTreeNodes.Workshop.Other.Backpacks.Plain",
+        "ItemLootTreeNodes.Workshop.Other.Backpacks.WaistBags"
+      ]
+    }
+  ],
+  "Probability": 12,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 21,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetCashAmount_SmallStash",
+    "SetAmmoAmount_SmallStash"
+  ]
+}

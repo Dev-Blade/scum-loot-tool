@@ -19,6 +19,46 @@
     "traders": {
       "A_0_Armory": [
         {
+          "tradeable-code": "WeaponSuppressor_45ACP",
+          "base-purchase-price": "3000",
+          "base-sell-price": "244",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "WeaponScope_PU",
+          "base-purchase-price": "3200",
+          "base-sell-price": "358",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_Parts_SCAR_DMR",
+          "base-purchase-price": "4420",
+          "base-sell-price": "538",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_SCAR_DMR",
+          "base-purchase-price": "16000",
+          "base-sell-price": "1000",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Magazine_SCAR_DMR",
+          "base-purchase-price": "1320",
+          "base-sell-price": "275",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "FlareCartridge",
           "base-purchase-price": "100",
           "base-sell-price": "2",
@@ -85,7 +125,7 @@
         {
           "tradeable-code": "Wooden_Arrow",
           "base-purchase-price": "10",
-          "base-sell-price": "4",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -93,7 +133,7 @@
         {
           "tradeable-code": "Wooden_ArrowFeathers",
           "base-purchase-price": "15",
-          "base-sell-price": "6",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -101,7 +141,7 @@
         {
           "tradeable-code": "Wooden_ArrowMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -109,7 +149,7 @@
         {
           "tradeable-code": "Wooden_ArrowStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "7",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -149,7 +189,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -157,7 +197,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "7",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -165,7 +205,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_Wooden",
           "base-purchase-price": "10",
-          "base-sell-price": "4",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -1325,7 +1365,7 @@
         {
           "tradeable-code": "Improvised_Bulletproof_Armor",
           "base-purchase-price": "1000",
-          "base-sell-price": "200",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "30"
@@ -1429,7 +1469,7 @@
         {
           "tradeable-code": "Leather_Improvised_Stabproof_Vest",
           "base-purchase-price": "240",
-          "base-sell-price": "100",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -1437,7 +1477,7 @@
         {
           "tradeable-code": "Improvised_Stabproof",
           "base-purchase-price": "120",
-          "base-sell-price": "50",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3013,7 +3053,7 @@
         {
           "tradeable-code": "1H_Wooden_club",
           "base-purchase-price": "220",
-          "base-sell-price": "5",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3237,7 +3277,7 @@
         {
           "tradeable-code": "2H_Wooden_Sword",
           "base-purchase-price": "165",
-          "base-sell-price": "69",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3309,7 +3349,7 @@
         {
           "tradeable-code": "Bow_ImprovisedStabilizer",
           "base-purchase-price": "550",
-          "base-sell-price": "30",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3749,7 +3789,7 @@
         {
           "tradeable-code": "Improvised_Quiver_02_Rags",
           "base-purchase-price": "330",
-          "base-sell-price": "39",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3757,7 +3797,7 @@
         {
           "tradeable-code": "Improvised_Quiver_01",
           "base-purchase-price": "440",
-          "base-sell-price": "32",
+          "base-sell-price": "22",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3821,7 +3861,7 @@
         {
           "tradeable-code": "ImprovisedRail_Side",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3837,7 +3877,7 @@
         {
           "tradeable-code": "ImprovisedRail_Long",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3845,7 +3885,7 @@
         {
           "tradeable-code": "ImprovisedRail_Short",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3893,7 +3933,7 @@
         {
           "tradeable-code": "WeaponSights_ImprovisedScope",
           "base-purchase-price": "880",
-          "base-sell-price": "83",
+          "base-sell-price": "43",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4101,7 +4141,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4109,7 +4149,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_White",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4117,7 +4157,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4125,7 +4165,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Red",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4133,7 +4173,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedOilCan_01",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4749,7 +4789,7 @@
         {
           "tradeable-code": "Improvised_Bow",
           "base-purchase-price": "1600",
-          "base-sell-price": "23",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4757,7 +4797,7 @@
         {
           "tradeable-code": "Improvised_Bow_25",
           "base-purchase-price": "1600",
-          "base-sell-price": "23",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4765,7 +4805,7 @@
         {
           "tradeable-code": "Improvised_Bow_30",
           "base-purchase-price": "1600",
-          "base-sell-price": "33",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4773,7 +4813,7 @@
         {
           "tradeable-code": "Improvised_Bow_35",
           "base-purchase-price": "1600",
-          "base-sell-price": "33",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4861,7 +4901,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Crossbow",
           "base-purchase-price": "2400",
-          "base-sell-price": "50",
+          "base-sell-price": "20",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4917,7 +4957,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Handgun",
           "base-purchase-price": "800",
-          "base-sell-price": "67",
+          "base-sell-price": "37",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "30"
@@ -6111,7 +6151,7 @@
         {
           "tradeable-code": "ImprovisedFishingFloater",
           "base-purchase-price": "20",
-          "base-sell-price": "5",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -6119,7 +6159,7 @@
         {
           "tradeable-code": "Improvised_FishingLine",
           "base-purchase-price": "10",
-          "base-sell-price": "3",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -6127,7 +6167,7 @@
         {
           "tradeable-code": "ImprovisedFishingReel",
           "base-purchase-price": "150",
-          "base-sell-price": "38",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -6135,7 +6175,7 @@
         {
           "tradeable-code": "ImprovisedFishingRod",
           "base-purchase-price": "400",
-          "base-sell-price": "100",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -6143,7 +6183,7 @@
         {
           "tradeable-code": "ImprovisedSmallPaddle",
           "base-purchase-price": "75",
-          "base-sell-price": "19",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -6255,7 +6295,7 @@
         {
           "tradeable-code": "BPC_Barba",
           "base-purchase-price": "11000",
-          "base-sell-price": "100",
+          "base-sell-price": "300",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -6713,9 +6753,513 @@
       ],
       "A_0_Mechanic": [
         {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "65000",
+          "base-sell-price": "8375",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Purchase_BP_Rager_Engine_ICU",
+          "base-purchase-price": "5000",
+          "base-sell-price": "1042",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Rager_Engine_ICU",
+          "base-purchase-price": "1350",
+          "base-sell-price": "281",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorHood_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorHood_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorHood_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorTrunk_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorTrunk_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Engine_Alternator_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "100",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "100",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Wheel_265_60_R18_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "250",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Wheel_265_60_R18_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Wheel_265_60_R18_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Front",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Front",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Front",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Left",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Left",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Left",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Right",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Right",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Right",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Top",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Top",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Top",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Back_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Back_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Back_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Front_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Front_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Front_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "82",
+          "base-sell-price": "32",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -6771,7 +7315,7 @@
         {
           "tradeable-code": "Improvised_Tire_Repair_Kit",
           "base-purchase-price": "440",
-          "base-sell-price": "48",
+          "base-sell-price": "28",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -6803,7 +7347,7 @@
         {
           "tradeable-code": "BP_WheelBarrow_Improvised",
           "base-purchase-price": "150",
-          "base-sell-price": "31",
+          "base-sell-price": "50",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -8781,7 +9325,7 @@
           "base-purchase-price": "5000",
           "base-sell-price": "1042",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -8789,7 +9333,7 @@
           "base-purchase-price": "1350",
           "base-sell-price": "281",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -8805,7 +9349,7 @@
           "base-purchase-price": "5000",
           "base-sell-price": "1042",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -8813,7 +9357,7 @@
           "base-purchase-price": "1350",
           "base-sell-price": "281",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -8827,7 +9371,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "45000",
-          "base-sell-price": "9375",
+          "base-sell-price": "7375",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -8843,7 +9387,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "45000",
-          "base-sell-price": "9375",
+          "base-sell-price": "7375",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -8859,7 +9403,7 @@
         {
           "tradeable-code": "BPC_Dirtbike",
           "base-purchase-price": "30000",
-          "base-sell-price": "6250",
+          "base-sell-price": "3250",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -8875,7 +9419,7 @@
         {
           "tradeable-code": "BPC_CityBike",
           "base-purchase-price": "7000",
-          "base-sell-price": "1458",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -11215,7 +11759,7 @@
         {
           "tradeable-code": "Improvised_Backpack_Big",
           "base-purchase-price": "600",
-          "base-sell-price": "100",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -11223,7 +11767,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_02",
           "base-purchase-price": "30",
-          "base-sell-price": "10",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -11231,7 +11775,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_01",
           "base-purchase-price": "120",
-          "base-sell-price": "40",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -12647,7 +13191,7 @@
         {
           "tradeable-code": "Bear_Improvised_Pants",
           "base-purchase-price": "83",
-          "base-sell-price": "28",
+          "base-sell-price": "18",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -13295,7 +13839,7 @@
         {
           "tradeable-code": "Improvised_Shoes_01",
           "base-purchase-price": "500",
-          "base-sell-price": "37",
+          "base-sell-price": "7",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -13847,7 +14391,7 @@
         {
           "tradeable-code": "Bear_Improvised_Jacket",
           "base-purchase-price": "220",
-          "base-sell-price": "92",
+          "base-sell-price": "32",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -14207,7 +14751,7 @@
         {
           "tradeable-code": "Raincoat_Improvised",
           "base-purchase-price": "110",
-          "base-sell-price": "37",
+          "base-sell-price": "17",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -14887,7 +15431,7 @@
         {
           "tradeable-code": "Improvised_rope",
           "base-purchase-price": "110",
-          "base-sell-price": "24",
+          "base-sell-price": "4",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -14903,7 +15447,7 @@
         {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "122",
+          "base-sell-price": "22",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -15199,7 +15743,7 @@
         {
           "tradeable-code": "ImprovisedWardrobe",
           "base-purchase-price": "1100",
-          "base-sell-price": "244",
+          "base-sell-price": "44",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -15247,7 +15791,7 @@
         {
           "tradeable-code": "Puppet_Eye",
           "base-purchase-price": "50",
-          "base-sell-price": "100",
+          "base-sell-price": "120",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -16431,7 +16975,7 @@
         {
           "tradeable-code": "1H_Improvised_Hammer",
           "base-purchase-price": "330",
-          "base-sell-price": "138",
+          "base-sell-price": "18",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -16479,7 +17023,7 @@
         {
           "tradeable-code": "Improvised_Metal_Spear",
           "base-purchase-price": "55",
-          "base-sell-price": "7",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -16559,7 +17103,7 @@
         {
           "tradeable-code": "2H_Improvised_metal_shovel",
           "base-purchase-price": "110",
-          "base-sell-price": "46",
+          "base-sell-price": "16",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -16567,7 +17111,7 @@
         {
           "tradeable-code": "2H_Improvised_shovel",
           "base-purchase-price": "88",
-          "base-sell-price": "37",
+          "base-sell-price": "7",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -16623,7 +17167,7 @@
         {
           "tradeable-code": "1H_Improvised_metal_knife",
           "base-purchase-price": "110",
-          "base-sell-price": "26",
+          "base-sell-price": "6",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -16671,7 +17215,7 @@
         {
           "tradeable-code": "1H_ImprovisedKnife",
           "base-purchase-price": "28",
-          "base-sell-price": "12",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -17014,16 +17558,16 @@
         },
         {
           "tradeable-code": "Fireworks_Big",
-          "base-purchase-price": "1000",
-          "base-sell-price": "208",
+          "base-purchase-price": "50",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
           "tradeable-code": "Fireworks_Small",
-          "base-purchase-price": "500",
-          "base-sell-price": "104",
+          "base-purchase-price": "20",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -17351,7 +17895,7 @@
         {
           "tradeable-code": "Improvised_Water_container",
           "base-purchase-price": "500",
-          "base-sell-price": "104",
+          "base-sell-price": "24",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -17439,7 +17983,7 @@
         {
           "tradeable-code": "ImprovisedMetalDetector",
           "base-purchase-price": "1100",
-          "base-sell-price": "244",
+          "base-sell-price": "44",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -17575,7 +18119,7 @@
         {
           "tradeable-code": "Improvised_Sewing_kit",
           "base-purchase-price": "300",
-          "base-sell-price": "63",
+          "base-sell-price": "13",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -17583,7 +18127,7 @@
         {
           "tradeable-code": "Improvised_Tool_Box",
           "base-purchase-price": "750",
-          "base-sell-price": "156",
+          "base-sell-price": "36",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18257,6 +18801,46 @@
       ],
       "B_4_Armory": [
         {
+          "tradeable-code": "WeaponSuppressor_45ACP",
+          "base-purchase-price": "3000",
+          "base-sell-price": "244",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "WeaponScope_PU",
+          "base-purchase-price": "3200",
+          "base-sell-price": "358",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_Parts_SCAR_DMR",
+          "base-purchase-price": "4420",
+          "base-sell-price": "538",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_SCAR_DMR",
+          "base-purchase-price": "16000",
+          "base-sell-price": "1000",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Magazine_SCAR_DMR",
+          "base-purchase-price": "1320",
+          "base-sell-price": "275",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "FlareCartridge",
           "base-purchase-price": "100",
           "base-sell-price": "2",
@@ -18323,7 +18907,7 @@
         {
           "tradeable-code": "Wooden_Arrow",
           "base-purchase-price": "10",
-          "base-sell-price": "4",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18331,7 +18915,7 @@
         {
           "tradeable-code": "Wooden_ArrowFeathers",
           "base-purchase-price": "15",
-          "base-sell-price": "6",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18339,7 +18923,7 @@
         {
           "tradeable-code": "Wooden_ArrowMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18347,7 +18931,7 @@
         {
           "tradeable-code": "Wooden_ArrowStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "7",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18387,7 +18971,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18395,7 +18979,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "7",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18403,7 +18987,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_Wooden",
           "base-purchase-price": "10",
-          "base-sell-price": "4",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -19563,7 +20147,7 @@
         {
           "tradeable-code": "Improvised_Bulletproof_Armor",
           "base-purchase-price": "1000",
-          "base-sell-price": "200",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "30"
@@ -19667,7 +20251,7 @@
         {
           "tradeable-code": "Leather_Improvised_Stabproof_Vest",
           "base-purchase-price": "240",
-          "base-sell-price": "100",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -19675,7 +20259,7 @@
         {
           "tradeable-code": "Improvised_Stabproof",
           "base-purchase-price": "120",
-          "base-sell-price": "50",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -21251,7 +21835,7 @@
         {
           "tradeable-code": "1H_Wooden_club",
           "base-purchase-price": "220",
-          "base-sell-price": "5",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -21475,7 +22059,7 @@
         {
           "tradeable-code": "2H_Wooden_Sword",
           "base-purchase-price": "165",
-          "base-sell-price": "69",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -21547,7 +22131,7 @@
         {
           "tradeable-code": "Bow_ImprovisedStabilizer",
           "base-purchase-price": "550",
-          "base-sell-price": "30",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -21987,7 +22571,7 @@
         {
           "tradeable-code": "Improvised_Quiver_02_Rags",
           "base-purchase-price": "330",
-          "base-sell-price": "39",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -21995,7 +22579,7 @@
         {
           "tradeable-code": "Improvised_Quiver_01",
           "base-purchase-price": "440",
-          "base-sell-price": "32",
+          "base-sell-price": "22",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22059,7 +22643,7 @@
         {
           "tradeable-code": "ImprovisedRail_Side",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22075,7 +22659,7 @@
         {
           "tradeable-code": "ImprovisedRail_Long",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22083,7 +22667,7 @@
         {
           "tradeable-code": "ImprovisedRail_Short",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22131,7 +22715,7 @@
         {
           "tradeable-code": "WeaponSights_ImprovisedScope",
           "base-purchase-price": "880",
-          "base-sell-price": "83",
+          "base-sell-price": "43",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22339,7 +22923,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22347,7 +22931,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_White",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22355,7 +22939,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22363,7 +22947,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Red",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22371,7 +22955,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedOilCan_01",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22987,7 +23571,7 @@
         {
           "tradeable-code": "Improvised_Bow",
           "base-purchase-price": "1600",
-          "base-sell-price": "23",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -22995,7 +23579,7 @@
         {
           "tradeable-code": "Improvised_Bow_25",
           "base-purchase-price": "1600",
-          "base-sell-price": "23",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -23003,7 +23587,7 @@
         {
           "tradeable-code": "Improvised_Bow_30",
           "base-purchase-price": "1600",
-          "base-sell-price": "33",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -23011,7 +23595,7 @@
         {
           "tradeable-code": "Improvised_Bow_35",
           "base-purchase-price": "1600",
-          "base-sell-price": "33",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -23099,7 +23683,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Crossbow",
           "base-purchase-price": "2400",
-          "base-sell-price": "50",
+          "base-sell-price": "20",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -23155,7 +23739,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Handgun",
           "base-purchase-price": "800",
-          "base-sell-price": "67",
+          "base-sell-price": "37",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "30"
@@ -24349,7 +24933,7 @@
         {
           "tradeable-code": "ImprovisedFishingFloater",
           "base-purchase-price": "20",
-          "base-sell-price": "5",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -24357,7 +24941,7 @@
         {
           "tradeable-code": "Improvised_FishingLine",
           "base-purchase-price": "10",
-          "base-sell-price": "3",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -24365,7 +24949,7 @@
         {
           "tradeable-code": "ImprovisedFishingReel",
           "base-purchase-price": "150",
-          "base-sell-price": "38",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -24373,7 +24957,7 @@
         {
           "tradeable-code": "ImprovisedFishingRod",
           "base-purchase-price": "400",
-          "base-sell-price": "100",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -24381,7 +24965,7 @@
         {
           "tradeable-code": "ImprovisedSmallPaddle",
           "base-purchase-price": "75",
-          "base-sell-price": "19",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -24493,7 +25077,7 @@
         {
           "tradeable-code": "BPC_Barba",
           "base-purchase-price": "11000",
-          "base-sell-price": "100",
+          "base-sell-price": "300",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -24951,9 +25535,513 @@
       ],
       "B_4_Mechanic": [
         {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "65000",
+          "base-sell-price": "8375",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Purchase_BP_Rager_Engine_ICU",
+          "base-purchase-price": "5000",
+          "base-sell-price": "1042",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Rager_Engine_ICU",
+          "base-purchase-price": "1350",
+          "base-sell-price": "281",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorHood_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorHood_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorHood_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorTrunk_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorTrunk_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Engine_Alternator_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "100",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "100",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Wheel_265_60_R18_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "250",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Wheel_265_60_R18_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Wheel_265_60_R18_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Front",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Front",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Front",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Left",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Left",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Left",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Right",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Right",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Right",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Top",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Top",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Top",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Back_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Back_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Back_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Front_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Front_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Front_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "82",
+          "base-sell-price": "32",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -25009,7 +26097,7 @@
         {
           "tradeable-code": "Improvised_Tire_Repair_Kit",
           "base-purchase-price": "440",
-          "base-sell-price": "48",
+          "base-sell-price": "28",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -25041,7 +26129,7 @@
         {
           "tradeable-code": "BP_WheelBarrow_Improvised",
           "base-purchase-price": "150",
-          "base-sell-price": "31",
+          "base-sell-price": "50",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -27019,7 +28107,7 @@
           "base-purchase-price": "5000",
           "base-sell-price": "1042",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -27027,7 +28115,7 @@
           "base-purchase-price": "1350",
           "base-sell-price": "281",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -27043,7 +28131,7 @@
           "base-purchase-price": "5000",
           "base-sell-price": "1042",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -27051,7 +28139,7 @@
           "base-purchase-price": "1350",
           "base-sell-price": "281",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -27065,7 +28153,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "45000",
-          "base-sell-price": "9375",
+          "base-sell-price": "7375",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -27081,7 +28169,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "45000",
-          "base-sell-price": "9375",
+          "base-sell-price": "7375",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -27097,7 +28185,7 @@
         {
           "tradeable-code": "BPC_Dirtbike",
           "base-purchase-price": "30000",
-          "base-sell-price": "6250",
+          "base-sell-price": "3250",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -27113,7 +28201,7 @@
         {
           "tradeable-code": "BPC_CityBike",
           "base-purchase-price": "7000",
-          "base-sell-price": "1458",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -29453,7 +30541,7 @@
         {
           "tradeable-code": "Improvised_Backpack_Big",
           "base-purchase-price": "600",
-          "base-sell-price": "100",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -29461,7 +30549,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_02",
           "base-purchase-price": "30",
-          "base-sell-price": "10",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -29469,7 +30557,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_01",
           "base-purchase-price": "120",
-          "base-sell-price": "40",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -30885,7 +31973,7 @@
         {
           "tradeable-code": "Bear_Improvised_Pants",
           "base-purchase-price": "83",
-          "base-sell-price": "28",
+          "base-sell-price": "18",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -31533,7 +32621,7 @@
         {
           "tradeable-code": "Improvised_Shoes_01",
           "base-purchase-price": "500",
-          "base-sell-price": "37",
+          "base-sell-price": "7",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -32085,7 +33173,7 @@
         {
           "tradeable-code": "Bear_Improvised_Jacket",
           "base-purchase-price": "220",
-          "base-sell-price": "92",
+          "base-sell-price": "32",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -32445,7 +33533,7 @@
         {
           "tradeable-code": "Raincoat_Improvised",
           "base-purchase-price": "110",
-          "base-sell-price": "37",
+          "base-sell-price": "17",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -33125,7 +34213,7 @@
         {
           "tradeable-code": "Improvised_rope",
           "base-purchase-price": "110",
-          "base-sell-price": "24",
+          "base-sell-price": "4",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -33141,7 +34229,7 @@
         {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "122",
+          "base-sell-price": "22",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -33437,7 +34525,7 @@
         {
           "tradeable-code": "ImprovisedWardrobe",
           "base-purchase-price": "1100",
-          "base-sell-price": "244",
+          "base-sell-price": "44",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -33485,7 +34573,7 @@
         {
           "tradeable-code": "Puppet_Eye",
           "base-purchase-price": "50",
-          "base-sell-price": "100",
+          "base-sell-price": "120",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -34669,7 +35757,7 @@
         {
           "tradeable-code": "1H_Improvised_Hammer",
           "base-purchase-price": "330",
-          "base-sell-price": "138",
+          "base-sell-price": "18",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -34717,7 +35805,7 @@
         {
           "tradeable-code": "Improvised_Metal_Spear",
           "base-purchase-price": "55",
-          "base-sell-price": "7",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -34797,7 +35885,7 @@
         {
           "tradeable-code": "2H_Improvised_metal_shovel",
           "base-purchase-price": "110",
-          "base-sell-price": "46",
+          "base-sell-price": "16",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -34805,7 +35893,7 @@
         {
           "tradeable-code": "2H_Improvised_shovel",
           "base-purchase-price": "88",
-          "base-sell-price": "37",
+          "base-sell-price": "7",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -34861,7 +35949,7 @@
         {
           "tradeable-code": "1H_Improvised_metal_knife",
           "base-purchase-price": "110",
-          "base-sell-price": "26",
+          "base-sell-price": "6",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -34909,7 +35997,7 @@
         {
           "tradeable-code": "1H_ImprovisedKnife",
           "base-purchase-price": "28",
-          "base-sell-price": "12",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -35252,16 +36340,16 @@
         },
         {
           "tradeable-code": "Fireworks_Big",
-          "base-purchase-price": "1000",
-          "base-sell-price": "208",
+          "base-purchase-price": "50",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
           "tradeable-code": "Fireworks_Small",
-          "base-purchase-price": "500",
-          "base-sell-price": "104",
+          "base-purchase-price": "20",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -35589,7 +36677,7 @@
         {
           "tradeable-code": "Improvised_Water_container",
           "base-purchase-price": "500",
-          "base-sell-price": "104",
+          "base-sell-price": "24",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -35677,7 +36765,7 @@
         {
           "tradeable-code": "ImprovisedMetalDetector",
           "base-purchase-price": "1100",
-          "base-sell-price": "244",
+          "base-sell-price": "44",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -35813,7 +36901,7 @@
         {
           "tradeable-code": "Improvised_Sewing_kit",
           "base-purchase-price": "300",
-          "base-sell-price": "63",
+          "base-sell-price": "13",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -35821,7 +36909,7 @@
         {
           "tradeable-code": "Improvised_Tool_Box",
           "base-purchase-price": "750",
-          "base-sell-price": "156",
+          "base-sell-price": "36",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36495,6 +37583,46 @@
       ],
       "C_2_Armory": [
         {
+          "tradeable-code": "WeaponSuppressor_45ACP",
+          "base-purchase-price": "3000",
+          "base-sell-price": "366",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "WeaponScope_PU",
+          "base-purchase-price": "3200",
+          "base-sell-price": "537",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_Parts_SCAR_DMR",
+          "base-purchase-price": "4420",
+          "base-sell-price": "807",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_SCAR_DMR",
+          "base-purchase-price": "16000",
+          "base-sell-price": "1500",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Magazine_SCAR_DMR",
+          "base-purchase-price": "1320",
+          "base-sell-price": "413",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "FlareCartridge",
           "base-purchase-price": "10",
           "base-sell-price": "3",
@@ -36561,7 +37689,7 @@
         {
           "tradeable-code": "Wooden_Arrow",
           "base-purchase-price": "10",
-          "base-sell-price": "6",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36569,7 +37697,7 @@
         {
           "tradeable-code": "Wooden_ArrowFeathers",
           "base-purchase-price": "15",
-          "base-sell-price": "9",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36577,7 +37705,7 @@
         {
           "tradeable-code": "Wooden_ArrowMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "12",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36585,7 +37713,7 @@
         {
           "tradeable-code": "Wooden_ArrowStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "11",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36625,7 +37753,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "12",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36633,7 +37761,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "11",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -36641,7 +37769,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_Wooden",
           "base-purchase-price": "10",
-          "base-sell-price": "6",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -37801,7 +38929,7 @@
         {
           "tradeable-code": "Improvised_Bulletproof_Armor",
           "base-purchase-price": "800",
-          "base-sell-price": "300",
+          "base-sell-price": "45",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "23"
@@ -37905,7 +39033,7 @@
         {
           "tradeable-code": "Leather_Improvised_Stabproof_Vest",
           "base-purchase-price": "240",
-          "base-sell-price": "150",
+          "base-sell-price": "45",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -37913,7 +39041,7 @@
         {
           "tradeable-code": "Improvised_Stabproof",
           "base-purchase-price": "120",
-          "base-sell-price": "75",
+          "base-sell-price": "45",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -39489,7 +40617,7 @@
         {
           "tradeable-code": "1H_Wooden_club",
           "base-purchase-price": "220",
-          "base-sell-price": "8",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -39713,7 +40841,7 @@
         {
           "tradeable-code": "2H_Wooden_Sword",
           "base-purchase-price": "165",
-          "base-sell-price": "104",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -39785,7 +40913,7 @@
         {
           "tradeable-code": "Bow_ImprovisedStabilizer",
           "base-purchase-price": "550",
-          "base-sell-price": "45",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40225,7 +41353,7 @@
         {
           "tradeable-code": "Improvised_Quiver_02_Rags",
           "base-purchase-price": "330",
-          "base-sell-price": "59",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40233,7 +41361,7 @@
         {
           "tradeable-code": "Improvised_Quiver_01",
           "base-purchase-price": "440",
-          "base-sell-price": "48",
+          "base-sell-price": "33",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40297,7 +41425,7 @@
         {
           "tradeable-code": "ImprovisedRail_Side",
           "base-purchase-price": "880",
-          "base-sell-price": "65",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40313,7 +41441,7 @@
         {
           "tradeable-code": "ImprovisedRail_Long",
           "base-purchase-price": "880",
-          "base-sell-price": "65",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40321,7 +41449,7 @@
         {
           "tradeable-code": "ImprovisedRail_Short",
           "base-purchase-price": "880",
-          "base-sell-price": "65",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40369,7 +41497,7 @@
         {
           "tradeable-code": "WeaponSights_ImprovisedScope",
           "base-purchase-price": "880",
-          "base-sell-price": "125",
+          "base-sell-price": "65",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40577,7 +41705,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "23",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40585,7 +41713,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_White",
           "base-purchase-price": "550",
-          "base-sell-price": "23",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40593,7 +41721,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "23",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40601,7 +41729,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Red",
           "base-purchase-price": "550",
-          "base-sell-price": "23",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -40609,7 +41737,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedOilCan_01",
           "base-purchase-price": "550",
-          "base-sell-price": "23",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -41225,7 +42353,7 @@
         {
           "tradeable-code": "Improvised_Bow",
           "base-purchase-price": "1600",
-          "base-sell-price": "35",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -41233,7 +42361,7 @@
         {
           "tradeable-code": "Improvised_Bow_25",
           "base-purchase-price": "1600",
-          "base-sell-price": "35",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -41241,7 +42369,7 @@
         {
           "tradeable-code": "Improvised_Bow_30",
           "base-purchase-price": "1600",
-          "base-sell-price": "50",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -41249,7 +42377,7 @@
         {
           "tradeable-code": "Improvised_Bow_35",
           "base-purchase-price": "1600",
-          "base-sell-price": "50",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -41337,7 +42465,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Crossbow",
           "base-purchase-price": "2400",
-          "base-sell-price": "75",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -41393,7 +42521,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Handgun",
           "base-purchase-price": "640",
-          "base-sell-price": "101",
+          "base-sell-price": "56",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "23"
@@ -42587,7 +43715,7 @@
         {
           "tradeable-code": "ImprovisedFishingFloater",
           "base-purchase-price": "16",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -42595,7 +43723,7 @@
         {
           "tradeable-code": "Improvised_FishingLine",
           "base-purchase-price": "8",
-          "base-sell-price": "5",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -42603,7 +43731,7 @@
         {
           "tradeable-code": "ImprovisedFishingReel",
           "base-purchase-price": "120",
-          "base-sell-price": "57",
+          "base-sell-price": "12",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -42611,7 +43739,7 @@
         {
           "tradeable-code": "ImprovisedFishingRod",
           "base-purchase-price": "320",
-          "base-sell-price": "150",
+          "base-sell-price": "15",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -42619,7 +43747,7 @@
         {
           "tradeable-code": "ImprovisedSmallPaddle",
           "base-purchase-price": "60",
-          "base-sell-price": "29",
+          "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -42731,7 +43859,7 @@
         {
           "tradeable-code": "BPC_Barba",
           "base-purchase-price": "11000",
-          "base-sell-price": "150",
+          "base-sell-price": "450",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -43189,9 +44317,513 @@
       ],
       "C_2_Mechanic": [
         {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "65000",
+          "base-sell-price": "12563",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Purchase_BP_Rager_Engine_ICU",
+          "base-purchase-price": "4000",
+          "base-sell-price": "1563",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Rager_Engine_ICU",
+          "base-purchase-price": "1080",
+          "base-sell-price": "422",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorHood_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorHood_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorHood_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorTrunk_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorTrunk_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Engine_Alternator_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "150",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "150",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Wheel_265_60_R18_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "375",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Wheel_265_60_R18_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Wheel_265_60_R18_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Front",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Front",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Front",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Left",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Left",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Left",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Right",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Right",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Right",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Top",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Top",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Top",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Back_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Back_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Back_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Front_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "470",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Front_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "29",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Front_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "59",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "123",
+          "base-sell-price": "48",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -43247,7 +44879,7 @@
         {
           "tradeable-code": "Improvised_Tire_Repair_Kit",
           "base-purchase-price": "440",
-          "base-sell-price": "72",
+          "base-sell-price": "42",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -43279,7 +44911,7 @@
         {
           "tradeable-code": "BP_WheelBarrow_Improvised",
           "base-purchase-price": "150",
-          "base-sell-price": "47",
+          "base-sell-price": "75",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -45254,18 +46886,18 @@
         },
         {
           "tradeable-code": "ServiceBP_Purchase_BP_WW_Engine_ICU",
-          "base-purchase-price": "5000",
+          "base-purchase-price": "4000",
           "base-sell-price": "1563",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
           "tradeable-code": "ServiceBP_Install_BP_WW_Engine_ICU",
-          "base-purchase-price": "1350",
+          "base-purchase-price": "1080",
           "base-sell-price": "422",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -45278,18 +46910,18 @@
         },
         {
           "tradeable-code": "ServiceBP_Purchase_BP_Laika_Engine_ICU",
-          "base-purchase-price": "5000",
+          "base-purchase-price": "4000",
           "base-sell-price": "1563",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
           "tradeable-code": "ServiceBP_Install_BP_Laika_Engine_ICU",
-          "base-purchase-price": "1350",
+          "base-purchase-price": "1080",
           "base-sell-price": "422",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -45303,7 +46935,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "45000",
-          "base-sell-price": "14063",
+          "base-sell-price": "11063",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -45319,7 +46951,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "45000",
-          "base-sell-price": "14063",
+          "base-sell-price": "11063",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -45335,7 +46967,7 @@
         {
           "tradeable-code": "BPC_Dirtbike",
           "base-purchase-price": "30000",
-          "base-sell-price": "9375",
+          "base-sell-price": "4875",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -45351,7 +46983,7 @@
         {
           "tradeable-code": "BPC_CityBike",
           "base-purchase-price": "7000",
-          "base-sell-price": "2187",
+          "base-sell-price": "1200",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -47691,7 +49323,7 @@
         {
           "tradeable-code": "Improvised_Backpack_Big",
           "base-purchase-price": "600",
-          "base-sell-price": "150",
+          "base-sell-price": "45",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -47699,7 +49331,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_02",
           "base-purchase-price": "30",
-          "base-sell-price": "15",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -47707,7 +49339,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_01",
           "base-purchase-price": "120",
-          "base-sell-price": "60",
+          "base-sell-price": "15",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -49123,7 +50755,7 @@
         {
           "tradeable-code": "Bear_Improvised_Pants",
           "base-purchase-price": "83",
-          "base-sell-price": "42",
+          "base-sell-price": "27",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -49771,7 +51403,7 @@
         {
           "tradeable-code": "Improvised_Shoes_01",
           "base-purchase-price": "500",
-          "base-sell-price": "56",
+          "base-sell-price": "11",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -50323,7 +51955,7 @@
         {
           "tradeable-code": "Bear_Improvised_Jacket",
           "base-purchase-price": "220",
-          "base-sell-price": "138",
+          "base-sell-price": "48",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -50683,7 +52315,7 @@
         {
           "tradeable-code": "Raincoat_Improvised",
           "base-purchase-price": "210",
-          "base-sell-price": "56",
+          "base-sell-price": "26",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -51363,7 +52995,7 @@
         {
           "tradeable-code": "Improvised_rope",
           "base-purchase-price": "210",
-          "base-sell-price": "36",
+          "base-sell-price": "6",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -51379,7 +53011,7 @@
         {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "183",
+          "base-sell-price": "33",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -51675,7 +53307,7 @@
         {
           "tradeable-code": "ImprovisedWardrobe",
           "base-purchase-price": "1100",
-          "base-sell-price": "366",
+          "base-sell-price": "66",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -51723,7 +53355,7 @@
         {
           "tradeable-code": "Puppet_Eye",
           "base-purchase-price": "50",
-          "base-sell-price": "150",
+          "base-sell-price": "180",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -52907,7 +54539,7 @@
         {
           "tradeable-code": "1H_Improvised_Hammer",
           "base-purchase-price": "330",
-          "base-sell-price": "207",
+          "base-sell-price": "27",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -52955,7 +54587,7 @@
         {
           "tradeable-code": "Improvised_Metal_Spear",
           "base-purchase-price": "110",
-          "base-sell-price": "11",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -53035,7 +54667,7 @@
         {
           "tradeable-code": "2H_Improvised_metal_shovel",
           "base-purchase-price": "210",
-          "base-sell-price": "69",
+          "base-sell-price": "24",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -53043,7 +54675,7 @@
         {
           "tradeable-code": "2H_Improvised_shovel",
           "base-purchase-price": "88",
-          "base-sell-price": "56",
+          "base-sell-price": "11",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -53099,7 +54731,7 @@
         {
           "tradeable-code": "1H_Improvised_metal_knife",
           "base-purchase-price": "210",
-          "base-sell-price": "39",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -53147,7 +54779,7 @@
         {
           "tradeable-code": "1H_ImprovisedKnife",
           "base-purchase-price": "28",
-          "base-sell-price": "18",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -53490,16 +55122,16 @@
         },
         {
           "tradeable-code": "Fireworks_Big",
-          "base-purchase-price": "800",
-          "base-sell-price": "312",
+          "base-purchase-price": "40",
+          "base-sell-price": "15",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
           "tradeable-code": "Fireworks_Small",
-          "base-purchase-price": "400",
-          "base-sell-price": "156",
+          "base-purchase-price": "16",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -53827,7 +55459,7 @@
         {
           "tradeable-code": "Improvised_Water_container",
           "base-purchase-price": "500",
-          "base-sell-price": "156",
+          "base-sell-price": "36",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -53915,7 +55547,7 @@
         {
           "tradeable-code": "ImprovisedMetalDetector",
           "base-purchase-price": "1100",
-          "base-sell-price": "366",
+          "base-sell-price": "66",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54051,7 +55683,7 @@
         {
           "tradeable-code": "Improvised_Sewing_kit",
           "base-purchase-price": "300",
-          "base-sell-price": "95",
+          "base-sell-price": "20",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54059,7 +55691,7 @@
         {
           "tradeable-code": "Improvised_Tool_Box",
           "base-purchase-price": "750",
-          "base-sell-price": "234",
+          "base-sell-price": "54",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54733,6 +56365,46 @@
       ],
       "Z_3_Armory": [
         {
+          "tradeable-code": "WeaponSuppressor_45ACP",
+          "base-purchase-price": "3000",
+          "base-sell-price": "244",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "WeaponScope_PU",
+          "base-purchase-price": "3200",
+          "base-sell-price": "358",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_Parts_SCAR_DMR",
+          "base-purchase-price": "4420",
+          "base-sell-price": "538",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Weapon_SCAR_DMR",
+          "base-purchase-price": "16000",
+          "base-sell-price": "1000",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Magazine_SCAR_DMR",
+          "base-purchase-price": "1320",
+          "base-sell-price": "275",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "FlareCartridge",
           "base-purchase-price": "100",
           "base-sell-price": "2",
@@ -54799,7 +56471,7 @@
         {
           "tradeable-code": "Wooden_Arrow",
           "base-purchase-price": "10",
-          "base-sell-price": "4",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54807,7 +56479,7 @@
         {
           "tradeable-code": "Wooden_ArrowFeathers",
           "base-purchase-price": "15",
-          "base-sell-price": "6",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54815,7 +56487,7 @@
         {
           "tradeable-code": "Wooden_ArrowMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54823,7 +56495,7 @@
         {
           "tradeable-code": "Wooden_ArrowStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "7",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54863,7 +56535,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenMetalTip",
           "base-purchase-price": "20",
-          "base-sell-price": "8",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54871,7 +56543,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_WoodenStoneTip",
           "base-purchase-price": "17",
-          "base-sell-price": "7",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -54879,7 +56551,7 @@
         {
           "tradeable-code": "Ammo_Crossbow_Bolt_Wooden",
           "base-purchase-price": "10",
-          "base-sell-price": "4",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -56039,7 +57711,7 @@
         {
           "tradeable-code": "Improvised_Bulletproof_Armor",
           "base-purchase-price": "1000",
-          "base-sell-price": "200",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "30"
@@ -56143,7 +57815,7 @@
         {
           "tradeable-code": "Leather_Improvised_Stabproof_Vest",
           "base-purchase-price": "240",
-          "base-sell-price": "100",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -56151,7 +57823,7 @@
         {
           "tradeable-code": "Improvised_Stabproof",
           "base-purchase-price": "120",
-          "base-sell-price": "50",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -57727,7 +59399,7 @@
         {
           "tradeable-code": "1H_Wooden_club",
           "base-purchase-price": "220",
-          "base-sell-price": "5",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -57951,7 +59623,7 @@
         {
           "tradeable-code": "2H_Wooden_Sword",
           "base-purchase-price": "165",
-          "base-sell-price": "69",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58023,7 +59695,7 @@
         {
           "tradeable-code": "Bow_ImprovisedStabilizer",
           "base-purchase-price": "550",
-          "base-sell-price": "30",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58463,7 +60135,7 @@
         {
           "tradeable-code": "Improvised_Quiver_02_Rags",
           "base-purchase-price": "330",
-          "base-sell-price": "39",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58471,7 +60143,7 @@
         {
           "tradeable-code": "Improvised_Quiver_01",
           "base-purchase-price": "440",
-          "base-sell-price": "32",
+          "base-sell-price": "22",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58535,7 +60207,7 @@
         {
           "tradeable-code": "ImprovisedRail_Side",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58551,7 +60223,7 @@
         {
           "tradeable-code": "ImprovisedRail_Long",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58559,7 +60231,7 @@
         {
           "tradeable-code": "ImprovisedRail_Short",
           "base-purchase-price": "880",
-          "base-sell-price": "43",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58607,7 +60279,7 @@
         {
           "tradeable-code": "WeaponSights_ImprovisedScope",
           "base-purchase-price": "880",
-          "base-sell-price": "83",
+          "base-sell-price": "43",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58815,7 +60487,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58823,7 +60495,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedBottle_White",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58831,7 +60503,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Grey",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58839,7 +60511,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedCan_Red",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -58847,7 +60519,7 @@
         {
           "tradeable-code": "WeaponSuppressor_ImprovisedOilCan_01",
           "base-purchase-price": "550",
-          "base-sell-price": "15",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -59463,7 +61135,7 @@
         {
           "tradeable-code": "Improvised_Bow",
           "base-purchase-price": "1600",
-          "base-sell-price": "23",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -59471,7 +61143,7 @@
         {
           "tradeable-code": "Improvised_Bow_25",
           "base-purchase-price": "1600",
-          "base-sell-price": "23",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -59479,7 +61151,7 @@
         {
           "tradeable-code": "Improvised_Bow_30",
           "base-purchase-price": "1600",
-          "base-sell-price": "33",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -59487,7 +61159,7 @@
         {
           "tradeable-code": "Improvised_Bow_35",
           "base-purchase-price": "1600",
-          "base-sell-price": "33",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -59575,7 +61247,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Crossbow",
           "base-purchase-price": "2400",
-          "base-sell-price": "50",
+          "base-sell-price": "20",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -59631,7 +61303,7 @@
         {
           "tradeable-code": "Weapon_Improvised_Handgun",
           "base-purchase-price": "800",
-          "base-sell-price": "67",
+          "base-sell-price": "37",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "30"
@@ -60825,7 +62497,7 @@
         {
           "tradeable-code": "ImprovisedFishingFloater",
           "base-purchase-price": "20",
-          "base-sell-price": "5",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -60833,7 +62505,7 @@
         {
           "tradeable-code": "Improvised_FishingLine",
           "base-purchase-price": "10",
-          "base-sell-price": "3",
+          "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -60841,7 +62513,7 @@
         {
           "tradeable-code": "ImprovisedFishingReel",
           "base-purchase-price": "150",
-          "base-sell-price": "38",
+          "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -60849,7 +62521,7 @@
         {
           "tradeable-code": "ImprovisedFishingRod",
           "base-purchase-price": "400",
-          "base-sell-price": "100",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -60857,7 +62529,7 @@
         {
           "tradeable-code": "ImprovisedSmallPaddle",
           "base-purchase-price": "75",
-          "base-sell-price": "19",
+          "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -60969,7 +62641,7 @@
         {
           "tradeable-code": "BPC_Barba",
           "base-purchase-price": "11000",
-          "base-sell-price": "100",
+          "base-sell-price": "300",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -61427,9 +63099,513 @@
       ],
       "Z_3_Mechanic": [
         {
+          "tradeable-code": "BPC_Rager",
+          "base-purchase-price": "65000",
+          "base-sell-price": "8375",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Purchase_BP_Rager_Engine_ICU",
+          "base-purchase-price": "5000",
+          "base-sell-price": "1042",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_BP_Rager_Engine_ICU",
+          "base-purchase-price": "1350",
+          "base-sell-price": "281",
+          "delta-price": "-1.0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_BackRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_BackRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_BackRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Door_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Door_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorHood_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorHood_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorHood_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_DoorTrunk_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_DoorTrunk_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_DoorTrunk_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Engine_Alternator_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Engine_Alternator_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_FrontRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_FrontRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_FrontRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearLeft",
+          "base-purchase-price": "3500",
+          "base-sell-price": "100",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearLeft",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearLeft",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Lights_RearRight",
+          "base-purchase-price": "3500",
+          "base-sell-price": "100",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Lights_RearRight",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Lights_RearRight",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontLeft_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Seat_FrontRight_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Wheel_265_60_R18_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "250",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Wheel_265_60_R18_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Wheel_265_60_R18_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Front",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Front",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Front",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Left",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Left",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Left",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Right",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Right",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Right",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Body_Top",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Body_Top",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Body_Top",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Back_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Back_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Back_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Rager_Bumper_Front_Item",
+          "base-purchase-price": "3500",
+          "base-sell-price": "313",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Install_Rager_Bumper_Front_Item",
+          "base-purchase-price": "93",
+          "base-sell-price": "19",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "ServiceBP_Repair_Rager_Bumper_Front_Item",
+          "base-purchase-price": "185",
+          "base-sell-price": "39",
+          "delta-price": "-1.0",
+          "can-be-purchased": "false",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "82",
+          "base-sell-price": "32",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -61485,7 +63661,7 @@
         {
           "tradeable-code": "Improvised_Tire_Repair_Kit",
           "base-purchase-price": "440",
-          "base-sell-price": "48",
+          "base-sell-price": "28",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -61517,7 +63693,7 @@
         {
           "tradeable-code": "BP_WheelBarrow_Improvised",
           "base-purchase-price": "150",
-          "base-sell-price": "31",
+          "base-sell-price": "50",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -63495,7 +65671,7 @@
           "base-purchase-price": "5000",
           "base-sell-price": "1042",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -63503,7 +65679,7 @@
           "base-purchase-price": "1350",
           "base-sell-price": "281",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -63519,7 +65695,7 @@
           "base-purchase-price": "5000",
           "base-sell-price": "1042",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -63527,7 +65703,7 @@
           "base-purchase-price": "1350",
           "base-sell-price": "281",
           "delta-price": "-1.0",
-          "can-be-purchased": "false",
+          "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
@@ -63541,7 +65717,7 @@
         {
           "tradeable-code": "BPC_WolfsWagen",
           "base-purchase-price": "45000",
-          "base-sell-price": "9375",
+          "base-sell-price": "7375",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -63557,7 +65733,7 @@
         {
           "tradeable-code": "BPC_Laika",
           "base-purchase-price": "45000",
-          "base-sell-price": "9375",
+          "base-sell-price": "7375",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -63573,7 +65749,7 @@
         {
           "tradeable-code": "BPC_Dirtbike",
           "base-purchase-price": "30000",
-          "base-sell-price": "6250",
+          "base-sell-price": "3250",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -63589,7 +65765,7 @@
         {
           "tradeable-code": "BPC_CityBike",
           "base-purchase-price": "7000",
-          "base-sell-price": "1458",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -65929,7 +68105,7 @@
         {
           "tradeable-code": "Improvised_Backpack_Big",
           "base-purchase-price": "600",
-          "base-sell-price": "100",
+          "base-sell-price": "30",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -65937,7 +68113,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_02",
           "base-purchase-price": "30",
-          "base-sell-price": "10",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -65945,7 +68121,7 @@
         {
           "tradeable-code": "Improvised_Bag_Small_01",
           "base-purchase-price": "120",
-          "base-sell-price": "40",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -67361,7 +69537,7 @@
         {
           "tradeable-code": "Bear_Improvised_Pants",
           "base-purchase-price": "83",
-          "base-sell-price": "28",
+          "base-sell-price": "18",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -68009,7 +70185,7 @@
         {
           "tradeable-code": "Improvised_Shoes_01",
           "base-purchase-price": "500",
-          "base-sell-price": "37",
+          "base-sell-price": "7",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -68561,7 +70737,7 @@
         {
           "tradeable-code": "Bear_Improvised_Jacket",
           "base-purchase-price": "220",
-          "base-sell-price": "92",
+          "base-sell-price": "32",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -68921,7 +71097,7 @@
         {
           "tradeable-code": "Raincoat_Improvised",
           "base-purchase-price": "110",
-          "base-sell-price": "37",
+          "base-sell-price": "17",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -69601,7 +71777,7 @@
         {
           "tradeable-code": "Improvised_rope",
           "base-purchase-price": "110",
-          "base-sell-price": "24",
+          "base-sell-price": "4",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -69617,7 +71793,7 @@
         {
           "tradeable-code": "Improvised_Wheel",
           "base-purchase-price": "550",
-          "base-sell-price": "122",
+          "base-sell-price": "22",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -69913,7 +72089,7 @@
         {
           "tradeable-code": "ImprovisedWardrobe",
           "base-purchase-price": "1100",
-          "base-sell-price": "244",
+          "base-sell-price": "44",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -69961,7 +72137,7 @@
         {
           "tradeable-code": "Puppet_Eye",
           "base-purchase-price": "50",
-          "base-sell-price": "100",
+          "base-sell-price": "120",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71145,7 +73321,7 @@
         {
           "tradeable-code": "1H_Improvised_Hammer",
           "base-purchase-price": "330",
-          "base-sell-price": "138",
+          "base-sell-price": "18",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71193,7 +73369,7 @@
         {
           "tradeable-code": "Improvised_Metal_Spear",
           "base-purchase-price": "55",
-          "base-sell-price": "7",
+          "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71273,7 +73449,7 @@
         {
           "tradeable-code": "2H_Improvised_metal_shovel",
           "base-purchase-price": "110",
-          "base-sell-price": "46",
+          "base-sell-price": "16",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71281,7 +73457,7 @@
         {
           "tradeable-code": "2H_Improvised_shovel",
           "base-purchase-price": "88",
-          "base-sell-price": "37",
+          "base-sell-price": "7",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71337,7 +73513,7 @@
         {
           "tradeable-code": "1H_Improvised_metal_knife",
           "base-purchase-price": "110",
-          "base-sell-price": "26",
+          "base-sell-price": "6",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71385,7 +73561,7 @@
         {
           "tradeable-code": "1H_ImprovisedKnife",
           "base-purchase-price": "28",
-          "base-sell-price": "12",
+          "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -71728,16 +73904,16 @@
         },
         {
           "tradeable-code": "Fireworks_Big",
-          "base-purchase-price": "1000",
-          "base-sell-price": "208",
+          "base-purchase-price": "50",
+          "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
         {
           "tradeable-code": "Fireworks_Small",
-          "base-purchase-price": "500",
-          "base-sell-price": "104",
+          "base-purchase-price": "20",
+          "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -72065,7 +74241,7 @@
         {
           "tradeable-code": "Improvised_Water_container",
           "base-purchase-price": "500",
-          "base-sell-price": "104",
+          "base-sell-price": "24",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -72153,7 +74329,7 @@
         {
           "tradeable-code": "ImprovisedMetalDetector",
           "base-purchase-price": "1100",
-          "base-sell-price": "244",
+          "base-sell-price": "44",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -72289,7 +74465,7 @@
         {
           "tradeable-code": "Improvised_Sewing_kit",
           "base-purchase-price": "300",
-          "base-sell-price": "63",
+          "base-sell-price": "13",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -72297,7 +74473,7 @@
         {
           "tradeable-code": "Improvised_Tool_Box",
           "base-purchase-price": "750",
-          "base-sell-price": "156",
+          "base-sell-price": "36",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"

@@ -1,0 +1,58 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.CarWreck.Clothes",
+        "ItemLootTreeNodes.CarWreck.Crafting.Batteries",
+        "ItemLootTreeNodes.CarWreck.Crafting.Bobby_Pin_Pacage",
+        "ItemLootTreeNodes.CarWreck.Crafting.BoomBox_01",
+        "ItemLootTreeNodes.CarWreck.Crafting.Radio",
+        "ItemLootTreeNodes.CarWreck.Crafting.Cigarettes",
+        "ItemLootTreeNodes.CarWreck.Crafting.Diary",
+        "ItemLootTreeNodes.CarWreck.Crafting.Duct_Tape",
+        "ItemLootTreeNodes.CarWreck.Crafting.Fabric",
+        "ItemLootTreeNodes.CarWreck.Crafting.Fluids",
+        "ItemLootTreeNodes.CarWreck.Crafting.Glue",
+        "ItemLootTreeNodes.CarWreck.Crafting.Lighter",
+        "ItemLootTreeNodes.CarWreck.Crafting.Locks",
+        "ItemLootTreeNodes.CarWreck.Crafting.Magnifying_Glass",
+        "ItemLootTreeNodes.CarWreck.Crafting.Matches",
+        "ItemLootTreeNodes.CarWreck.Crafting.Mobile_Phone",
+        "ItemLootTreeNodes.CarWreck.Crafting.Needle",
+        "ItemLootTreeNodes.CarWreck.Crafting.Oil_Filter",
+        "ItemLootTreeNodes.CarWreck.Crafting.Padlock",
+        "ItemLootTreeNodes.CarWreck.Crafting.Paper",
+        "ItemLootTreeNodes.CarWreck.Crafting.Parking_Sensor",
+        "ItemLootTreeNodes.CarWreck.Crafting.Pen",
+        "ItemLootTreeNodes.CarWreck.Crafting.Safety_pin",
+        "ItemLootTreeNodes.CarWreck.Crafting.Smartphone_Battery",
+        "ItemLootTreeNodes.CarWreck.Fishing",
+        "ItemLootTreeNodes.CarWreck.LightsFire",
+        "ItemLootTreeNodes.CarWreck.Other",
+        "ItemLootTreeNodes.CarWreck.RepairToolkits",
+        "ItemLootTreeNodes.CarWreck.Tools",
+        "ItemLootTreeNodes.CarWreck.Crafting.Nails",
+        "ItemLootTreeNodes.CarWreck.Crafting.Lead_Plate",
+        "ItemLootTreeNodes.CarWreck.Crafting.Gun_Powder",
+        "ItemLootTreeNodes.CarWreck.Crafting.Bolts",
+        "ItemLootTreeNodes.CarWreck.Crafting.Rubber_band",
+        "ItemLootTreeNodes.CarWreck.Crafting.Rubber_sheet"
+      ]
+    }
+  ],
+  "Probability": 28,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 72,
+  "RandomDamage": 27,
+  "InitialUsage": 60,
+  "RandomUsage": 40,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

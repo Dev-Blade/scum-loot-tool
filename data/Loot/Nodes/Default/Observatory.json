@@ -1507,6 +1507,18 @@
 									"Rarity": "Uncommon",
 									"Children": [
 										{
+											"Name": "Lock_Item_Advanced",
+											"Rarity": "ExtremelyRare"
+										},
+										{
+											"Name": "Lock_Item_Basic",
+											"Rarity": "Rare"
+										},
+										{
+											"Name": "Lock_Items_Medium",
+											"Rarity": "VeryRare"
+										},
+										{
 											"Name": "Padlock",
 											"Rarity": "Uncommon"
 										}
@@ -1972,6 +1984,10 @@
 															"Rarity": "ExtremelyRare"
 														}
 													]
+												},
+												{
+													"Name": "WeaponSuppressor_45ACP",
+													"Rarity": "ExtremelyRare"
 												},
 												{
 													"Name": "WeaponSuppressor_Handgun",

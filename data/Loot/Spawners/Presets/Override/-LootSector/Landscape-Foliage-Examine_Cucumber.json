@@ -5,7 +5,7 @@
       "Id": "Cucumber"
     }
   ],
-  "Probability": 45,
+  "Probability": 51,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

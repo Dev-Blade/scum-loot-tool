@@ -1,0 +1,23 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.CarWreck.Crafting.Scrap"
+			]
+		}
+	],
+	"QuantityMin": 2,
+	"QuantityMax": 3,
+	"AllowDuplicates": true,
+	"ShouldFilterItemsByZone": false,
+	"InitialDamage": 0,
+	"RandomDamage": 30,
+	"InitialUsage": 0,
+	"RandomUsage": 0,
+	"PostSpawnActions": [
+		"SetAmmoAmount_SmallStash",
+		"SetCashAmount_SmallStash",
+		"SetClothesDirtiness_DirtyClothes"
+	]
+}

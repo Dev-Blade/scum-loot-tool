@@ -21,7 +21,7 @@
       ]
     }
   ],
-  "Probability": 45,
+  "Probability": 51,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": false,

@@ -1,10 +1,14 @@
 CarRepairShop.json
 CarRepairShop.Crafting.Bolts,Uncommon,Rare,Abundant
+CarRepairShop.Crafting.ColorCan_BaronBrown,Uncommon,Rare,Uncommon
 CarRepairShop.Crafting.Fabric.EmptyBag,Uncommon,Rare,Uncommon,Rare
 CarRepairShop.Crafting.Fabric.Rag_Stripes,Uncommon,Rare,Uncommon,Uncommon
 CarRepairShop.Crafting.Fabric.Rags,Uncommon,Rare,Uncommon,Uncommon
 CarRepairShop.Crafting.Fluids.Break_Oil,Uncommon,Rare,VeryRare,Rare
 CarRepairShop.Crafting.Fluids.Isopropyl_alcohol,Uncommon,Rare,VeryRare,Rare
+CarRepairShop.Crafting.Locks.Lock_Item_Advanced,Uncommon,Rare,Rare,ExtremelyRare
+CarRepairShop.Crafting.Locks.Lock_Item_Basic,Uncommon,Rare,Rare,Rare
+CarRepairShop.Crafting.Locks.Lock_Items_Medium,Uncommon,Rare,Rare,VeryRare
 CarRepairShop.Crafting.Locks.Padlock,Uncommon,Rare,Rare,Abundant
 CarRepairShop.Crafting.Nails,Uncommon,Rare,Uncommon
 CarRepairShop.Crafting.Scrap.Metal_Scrap_01,Uncommon,Rare,Common,Common

@@ -5,7 +5,7 @@
       "Id": "Olives"
     }
   ],
-  "Probability": 45,
+  "Probability": 51,
   "QuantityMin": 2,
   "QuantityMax": 5,
   "AllowDuplicates": true,

@@ -257,6 +257,9 @@ Observatory.Items.Misc.Lockpicks.Bobby_Pin_Pacage,Uncommon,Uncommon,Uncommon,Unc
 Observatory.Items.Misc.Lockpicks.Lockpick_Advanced_Item,Uncommon,Uncommon,Uncommon,Uncommon,VeryRare
 Observatory.Items.Misc.Lockpicks.Lockpick_Item,Uncommon,Uncommon,Uncommon,Uncommon,Rare
 Observatory.Items.Misc.Lockpicks.Safety_pin,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
+Observatory.Items.Misc.Locks.Lock_Item_Advanced,Uncommon,Uncommon,Uncommon,Uncommon,ExtremelyRare
+Observatory.Items.Misc.Locks.Lock_Item_Basic,Uncommon,Uncommon,Uncommon,Uncommon,Rare
+Observatory.Items.Misc.Locks.Lock_Items_Medium,Uncommon,Uncommon,Uncommon,Uncommon,VeryRare
 Observatory.Items.Misc.Locks.Padlock,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
 Observatory.Items.Misc.Matches,Uncommon,Uncommon,Uncommon,Rare
 Observatory.Items.Misc.Needle,Uncommon,Uncommon,Uncommon,VeryRare
@@ -327,6 +330,7 @@ Observatory.Weapons.Other.Attachments.Suppressors.BowParts.BowSilencer,Uncommon,
 Observatory.Weapons.Other.Attachments.Suppressors.BowParts.BowSilencer_SlipOn,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,Rare,Rare
 Observatory.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponFlashHider,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,ExtremelyRare
 Observatory.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,ExtremelyRare
+Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,VeryRare
 Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Observatory.Weapons.Other.Magazines.AssaultRifles.Magazine_AK47,Uncommon,ExtremelyRare,Rare,Rare,ExtremelyRare,VeryRare

@@ -5,12 +5,12 @@
       "Id": "Brick"
     }
   ],
-  "Probability": 68,
+  "Probability": 59,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 16,
+  "InitialDamage": 21,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

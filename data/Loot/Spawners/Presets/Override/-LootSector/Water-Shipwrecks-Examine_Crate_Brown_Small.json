@@ -16,11 +16,11 @@
     }
   ],
   "Probability": 100,
-  "QuantityMin": 1,
-  "QuantityMax": 2,
+  "QuantityMin": 2,
+  "QuantityMax": 3,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 18,
+  "InitialDamage": 6,
   "RandomDamage": 9,
   "InitialUsage": 10,
   "RandomUsage": 30

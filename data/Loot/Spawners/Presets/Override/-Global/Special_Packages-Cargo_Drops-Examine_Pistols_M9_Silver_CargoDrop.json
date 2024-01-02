@@ -11,7 +11,7 @@
     "WeaponSuppressor_Handgun",
     "Tactical_Handgun_Holster_03"
   ],
-  "InitialDamage": 22,
+  "InitialDamage": 14,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

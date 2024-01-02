@@ -5,7 +5,7 @@
       "Id": "CementBag"
     }
   ],
-  "Probability": 60,
+  "Probability": 53,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

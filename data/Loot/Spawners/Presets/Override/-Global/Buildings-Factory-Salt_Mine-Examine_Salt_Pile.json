@@ -5,12 +5,12 @@
       "Id": "SaltGrain"
     }
   ],
-  "Probability": 60,
+  "Probability": 53,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 13,
+  "InitialDamage": 37,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

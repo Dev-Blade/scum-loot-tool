@@ -1135,6 +1135,10 @@
 									"Rarity": "Rare",
 									"Children": [
 										{
+											"Name": "WeaponSuppressor_45ACP",
+											"Rarity": "Rare"
+										},
+										{
 											"Name": "WeaponSuppressor_AK15",
 											"Rarity": "Rare"
 										},
@@ -1245,6 +1249,10 @@
 										{
 											"Name": "Magazine_RPK",
 											"Rarity": "VeryRare"
+										},
+										{
+											"Name": "Magazine_SCAR_DMR",
+											"Rarity": "Rare"
 										}
 									]
 								},
@@ -1436,6 +1444,10 @@
 								},
 								{
 									"Name": "Weapon_MK18",
+									"Rarity": "VeryRare"
+								},
+								{
+									"Name": "Weapon_SCAR_DMR",
 									"Rarity": "VeryRare"
 								}
 							]

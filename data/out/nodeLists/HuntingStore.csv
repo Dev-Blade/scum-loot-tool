@@ -284,6 +284,7 @@ HuntingStore.Firearms.AssaultRifles.AKs.Weapon_AK47_Engraved,Uncommon,VeryRare,E
 HuntingStore.Firearms.AssaultRifles.AKs.Weapon_AKM,Uncommon,VeryRare,ExtremelyRare,Rare,Rare
 HuntingStore.Firearms.AssaultRifles.Weapon_M16A4,Uncommon,VeryRare,ExtremelyRare,Rare
 HuntingStore.Firearms.AssaultRifles.Weapon_MK18,Uncommon,VeryRare,ExtremelyRare,VeryRare
+HuntingStore.Firearms.AssaultRifles.Weapon_SCAR_DMR,Uncommon,VeryRare,ExtremelyRare,VeryRare
 HuntingStore.Firearms.Handguns.DEagles.Weapon_Deagle_50,Uncommon,VeryRare,Abundant,Rare,Rare
 HuntingStore.Firearms.Handguns.DEagles.Weapon_Deagle_357,Uncommon,VeryRare,Abundant,Rare,Rare
 HuntingStore.Firearms.Handguns.DEagles.Weapon_DEagle_50Gold,Uncommon,VeryRare,Abundant,Rare,ExtremelyRare
@@ -449,6 +450,7 @@ HuntingStore.WeaponParts.Attachments.Scopes.WeaponScope_ACOG_01,Uncommon,Uncommo
 HuntingStore.WeaponParts.Attachments.Scopes.WeaponScope_Dragunov,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Scopes.WeaponScope_HuntingScope,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Scopes.WeaponScope_POSP,Uncommon,Uncommon,Rare,VeryRare,Rare
+HuntingStore.WeaponParts.Attachments.Scopes.WeaponScope_PU,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Scopes.WeaponScope_Vampyr,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Scopes.WW2s.WeaponScope_ZF39,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
 HuntingStore.WeaponParts.Attachments.Scopes.WW2s.WeaponSights_M1_ScopeAndSights,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
@@ -480,6 +482,7 @@ HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_12_Gauge,Uncom
 HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_308_Black,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_30_06,Uncommon,Uncommon,Rare,VeryRare,VeryRare
 HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_338_Black,Uncommon,Uncommon,Rare,VeryRare,Rare
+HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_5_45x39,Uncommon,Uncommon,Rare,VeryRare,VeryRare
 HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_AK15,Uncommon,Uncommon,Rare,VeryRare,Rare
 HuntingStore.WeaponParts.Attachments.Suppressors.WeaponSuppressor_Hunter,Uncommon,Uncommon,Rare,VeryRare,Uncommon
@@ -491,6 +494,7 @@ HuntingStore.WeaponParts.Magazines.AssaultRifles.Magazine_AK15,Uncommon,Uncommon
 HuntingStore.WeaponParts.Magazines.AssaultRifles.Magazine_AK47,Uncommon,Uncommon,Rare,Rare,Rare
 HuntingStore.WeaponParts.Magazines.AssaultRifles.Magazine_M16,Uncommon,Uncommon,Rare,Rare,Rare
 HuntingStore.WeaponParts.Magazines.AssaultRifles.Magazine_RPK,Uncommon,Uncommon,Rare,Rare,VeryRare
+HuntingStore.WeaponParts.Magazines.AssaultRifles.Magazine_SCAR_DMR,Uncommon,Uncommon,Rare,Rare,Rare
 HuntingStore.WeaponParts.Magazines.Handguns.Magazine_Block21,Uncommon,Uncommon,Rare,Uncommon,Uncommon
 HuntingStore.WeaponParts.Magazines.Handguns.Magazine_DEagle_50,Uncommon,Uncommon,Rare,Uncommon,Rare
 HuntingStore.WeaponParts.Magazines.Handguns.Magazine_DEagle_357,Uncommon,Uncommon,Rare,Uncommon,Uncommon

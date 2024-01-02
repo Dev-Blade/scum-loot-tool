@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Weapon_M1887_Sawed_off",
+    "12_Gauge_Buckshot_Ammobox",
+    "12_Gauge_Buckshot_Ammobox"
+  ],
+  "InitialDamage": 11,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

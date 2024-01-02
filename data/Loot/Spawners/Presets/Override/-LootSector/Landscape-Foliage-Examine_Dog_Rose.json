@@ -5,7 +5,7 @@
       "Id": "Dog_Rose"
     }
   ],
-  "Probability": 48,
+  "Probability": 55,
   "QuantityMin": 1,
   "QuantityMax": 4,
   "AllowDuplicates": true,

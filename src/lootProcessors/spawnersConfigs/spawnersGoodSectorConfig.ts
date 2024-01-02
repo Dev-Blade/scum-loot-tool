@@ -11,7 +11,7 @@ export const spawnersConfig: SpawnersConfigType = {
   defaults: {
     defaultInitialMinDamage: 0,
     defaultRandomMinDamage: 0,
-    defaultProbabilityMultiplier: 2.5,
+    defaultProbabilityMultiplier: 2.85,
     defaultInitialDamageMultiplier: 1,
     defaultRandomDamageMultiplier: 1,
     defaultInitialUsageMultiplier: 1,
@@ -21,10 +21,12 @@ export const spawnersConfig: SpawnersConfigType = {
     defaultInitialDamageRandomMaxMultiplierIfZero: 0,
   },
   filter: {
-    Shipwrecks: {
+    'Water-Shipwrecks': {
       ProbabilityMultiplier: 2,
-      InitialDamageMultiplier: 0.3,
+      InitialDamageMultiplier: 0.1,
       RandomDamageMultiplier: 0.3,
+      QuantityMinValue: 2,
+      QuantityMaxValue: 3,
     },
 
     'Attic-Barn-Examine_Crate': {
@@ -32,7 +34,7 @@ export const spawnersConfig: SpawnersConfigType = {
         Farm: {
           postAdd: [
             {
-              Rarity: 'ExtermelyRare',
+              Rarity: 'VeryRare',
               Ids: ['ItemLootTreeNodes.Barn.Other.Weapons.Shotguns'],
             },
           ],
@@ -142,10 +144,6 @@ export const spawnersConfig: SpawnersConfigType = {
             },
             {
               Rarity: 'ExtremelyRare',
-              Id: 'M1911_Rail',
-            },
-            {
-              Rarity: 'ExtremelyRare',
               Id: 'Magazine_M1911',
             },
             {
@@ -215,7 +213,6 @@ export const spawnersConfig: SpawnersConfigType = {
       RandomDamageMultiplier: 0.5,
       Nodes: {
         HuntingTower: {
-          override: 'ItemLootTreeNodes.HuntingTower',
           postAdd: [
             {
               Rarity: 'Uncommon',
@@ -232,6 +229,14 @@ export const spawnersConfig: SpawnersConfigType = {
             {
               Rarity: 'ExtremelyRare',
               Ids: ['ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_ACOG_01'],
+            },
+            {
+              Rarity: 'VeryRare',
+              Ids: ['ItemLootTreeNodes.Military.FoodDrink.Drink.Beer'],
+            },
+            {
+              Rarity: 'VeryRare',
+              Ids: ['ItemLootTreeNodes.Insects'],
             },
           ],
         },

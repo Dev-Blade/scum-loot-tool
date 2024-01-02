@@ -17,6 +17,9 @@ Workshop.Crafting.GravelBag,Uncommon,Common,VeryRare
 Workshop.Crafting.Gun_Powder,Uncommon,Common,Uncommon
 Workshop.Crafting.Hose,Uncommon,Common,Rare
 Workshop.Crafting.Lead_Plate,Uncommon,Common,Rare
+Workshop.Crafting.Locks.Lock_Item_Advanced,Uncommon,Common,Rare,ExtremelyRare
+Workshop.Crafting.Locks.Lock_Item_Basic,Uncommon,Common,Rare,Rare
+Workshop.Crafting.Locks.Lock_Items_Medium,Uncommon,Common,Rare,VeryRare
 Workshop.Crafting.Locks.Padlock,Uncommon,Common,Rare,Abundant
 Workshop.Crafting.Nails.Nails,Uncommon,Common,Abundant,Common
 Workshop.Crafting.Nails.Nails_Package_Box,Uncommon,Common,Abundant,Rare
@@ -234,6 +237,7 @@ Workshop.Other.Weapons.Other.Attachments.Suppressors.BowParts.BowSilencer,Uncomm
 Workshop.Other.Weapons.Other.Attachments.Suppressors.BowParts.BowSilencer_SlipOn,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,Rare,Rare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponFlashHider,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,Rare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,Rare
+Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,VeryRare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Workshop.Other.Weapons.Other.Magazines.AssaultRifles.Magazine_AK47,Uncommon,ExtremelyRare,ExtremelyRare,Rare,Rare,ExtremelyRare,VeryRare

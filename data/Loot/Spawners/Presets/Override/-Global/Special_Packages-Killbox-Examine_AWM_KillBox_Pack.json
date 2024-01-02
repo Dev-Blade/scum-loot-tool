@@ -1,11 +1,15 @@
 {
   "FixedItems": [
-    "Weapon_MP5",
-    "Magazine_MP5",
+    "Weapon_SF19",
+    "Magazine_SF19",
+    "Magazine_SF19",
+    "Magazine_SF19",
     "Cal_9mm_Ammobox",
-    "MP5_Rail_Short"
+    "Cal_9mm_Ammobox",
+    "WeaponSuppressor_Handgun",
+    "WeaponSights_Wasp"
   ],
-  "InitialDamage": 10,
+  "InitialDamage": 35,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

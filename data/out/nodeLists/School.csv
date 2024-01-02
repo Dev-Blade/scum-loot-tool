@@ -104,6 +104,9 @@ School.Items.Misc.Lockpicks.Bobby_Pin_Pacage,Uncommon,Uncommon,Uncommon,Uncommon
 School.Items.Misc.Lockpicks.Lockpick_Advanced_Item,Uncommon,Uncommon,Uncommon,Uncommon,VeryRare
 School.Items.Misc.Lockpicks.Lockpick_Item,Uncommon,Uncommon,Uncommon,Uncommon,Rare
 School.Items.Misc.Lockpicks.Safety_pin,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
+School.Items.Misc.Locks.Lock_Item_Advanced,Uncommon,Uncommon,Uncommon,Rare,ExtremelyRare
+School.Items.Misc.Locks.Lock_Item_Basic,Uncommon,Uncommon,Uncommon,Rare,Rare
+School.Items.Misc.Locks.Lock_Items_Medium,Uncommon,Uncommon,Uncommon,Rare,VeryRare
 School.Items.Misc.Locks.Padlock,Uncommon,Uncommon,Uncommon,Rare,Uncommon
 School.Items.Misc.Magnifying_Glass1,Uncommon,Uncommon,Uncommon,VeryRare
 School.Items.Misc.Matches,Uncommon,Uncommon,Uncommon,Rare

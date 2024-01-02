@@ -18,12 +18,12 @@
       "Id": "Hiking_Boots_04"
     }
   ],
-  "Probability": 20,
+  "Probability": 18,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 19,
+  "InitialDamage": 26,
   "RandomDamage": 8,
   "InitialUsage": 0,
   "RandomUsage": 0

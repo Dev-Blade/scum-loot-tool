@@ -9,13 +9,13 @@
       "Id": "Boar_Front_Leg"
     }
   ],
-  "Probability": 24,
+  "Probability": 21,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 48,
-  "RandomDamage": 45,
+  "InitialDamage": 60,
+  "RandomDamage": 39,
   "InitialUsage": 0,
   "RandomUsage": 75
 }

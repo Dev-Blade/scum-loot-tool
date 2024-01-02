@@ -315,6 +315,24 @@
 							"Rarity": "Rare"
 						},
 						{
+							"Name": "Locks",
+							"Rarity": "ExtremelyRare",
+							"Children": [
+								{
+									"Name": "Lock_Item_Advanced",
+									"Rarity": "ExtremelyRare"
+								},
+								{
+									"Name": "Lock_Item_Basic",
+									"Rarity": "Rare"
+								},
+								{
+									"Name": "Lock_Items_Medium",
+									"Rarity": "VeryRare"
+								}
+							]
+						},
+						{
 							"Name": "Magnifying_Glass",
 							"Rarity": "VeryRare"
 						},
@@ -369,16 +387,6 @@
 						{
 							"Name": "Safety_pin",
 							"Rarity": "Uncommon"
-						},
-						{
-							"Name": "Scrap",
-							"Rarity": "Common",
-							"Children": [
-								{
-									"Name": "Metal_Scrap_01",
-									"Rarity": "Common"
-								}
-							]
 						},
 						{
 							"Name": "Smartphone_Battery",
@@ -1806,6 +1814,10 @@
 																	"Rarity": "ExtremelyRare"
 																}
 															]
+														},
+														{
+															"Name": "WeaponSuppressor_45ACP",
+															"Rarity": "ExtremelyRare"
 														},
 														{
 															"Name": "WeaponSuppressor_Handgun",

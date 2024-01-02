@@ -35,7 +35,7 @@
       "Id": "Inmate_Hoodie_01"
     }
   ],
-  "Probability": 88,
+  "Probability": 100,
   "QuantityMin": 1,
   "QuantityMax": 1,
   "AllowDuplicates": false,

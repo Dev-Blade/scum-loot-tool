@@ -25,9 +25,21 @@
       "Ids": [
         "ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_ACOG_01"
       ]
+    },
+    {
+      "Rarity": "VeryRare",
+      "Ids": [
+        "ItemLootTreeNodes.Military.FoodDrink.Drink.Beer"
+      ]
+    },
+    {
+      "Rarity": "VeryRare",
+      "Ids": [
+        "ItemLootTreeNodes.Insects"
+      ]
     }
   ],
-  "Probability": 50,
+  "Probability": 57,
   "QuantityMin": 1,
   "QuantityMax": 3,
   "AllowDuplicates": false,
