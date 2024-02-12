@@ -10,7 +10,6 @@
         "ItemLootTreeNodes.CoalMine.WorkClothes",
         "ItemLootTreeNodes.CoalMine.Other.Ammo",
         "ItemLootTreeNodes.CoalMine.Other.Backpacks",
-        "ItemLootTreeNodes.CoalMine.Other.Explosives",
         "ItemLootTreeNodes.CoalMine.Other.Flares",
         "ItemLootTreeNodes.CoalMine.Other.Money"
       ]
@@ -18,7 +17,7 @@
   ],
   "Items": [
     {
-      "Rarity": "Rare",
+      "Rarity": "Abundant",
       "Id": "Coal_01"
     }
   ],

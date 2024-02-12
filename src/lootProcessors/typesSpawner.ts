@@ -6,10 +6,11 @@ export type ItemType = {
   postAdd?: ItemType;
 };
 
-export type FilterItemType = {
+export type SpawnerFilterItemType = {
   [Property: string]: {
     postAdd?: ItemType | Array<ItemType>;
-    override?: Partial<ItemType> | undefined;
+    override?: Partial<ItemType>;
+    Rarity?: RarityType;
   };
 };
 
@@ -17,24 +18,28 @@ export type SpawnerNodeType = {
   Rarity: string;
   Ids: Array<string>;
 };
-export type FilterNodeType = {
+export type SpawnerFilterNodeType = {
   [Property: string]: {
+    Rarity?: RarityType;
     postAdd?: SpawnerNodeType | Array<SpawnerNodeType>;
-    override?: string | undefined;
+    listAdd?: string | string[];
+    override?: string;
+    remove?: boolean;
+    replace?: [string, string];
   };
 };
 
-export type FixedItemType = {
+export type SpawnerFixedItemType = {
   [Property: string]: string | string[] | Function;
 };
 
-export interface FilterPropertyType {
+export interface SpawnerFilterPropertyType {
   excludedFilesMatches?: string[];
   additionalFilesMatches?: string[];
 
-  FixedItems?: FixedItemType;
-  Nodes?: FilterNodeType;
-  Items?: FilterItemType;
+  FixedItems?: SpawnerFixedItemType;
+  Nodes?: SpawnerFilterNodeType;
+  Items?: SpawnerFilterItemType;
 
   ProbabilityValue?: number;
   InitialDamageValue?: number;
@@ -57,8 +62,8 @@ export interface FilterPropertyType {
   postSpawnActionsMode?: 'overwrite' | 'add';
   postSpawnActions?: Array<string>;
 }
-export interface FilterType {
-  [key: string]: FilterPropertyType;
+export interface SpawnerFilterType {
+  [key: string]: SpawnerFilterPropertyType;
 }
 
 export interface SpawnersConfigType {
@@ -76,5 +81,5 @@ export interface SpawnersConfigType {
     defaultQuantityMaxMultiplier: number;
     defaultInitialDamageRandomMaxMultiplierIfZero: number;
   };
-  filter: FilterType;
+  filter: SpawnerFilterType;
 }

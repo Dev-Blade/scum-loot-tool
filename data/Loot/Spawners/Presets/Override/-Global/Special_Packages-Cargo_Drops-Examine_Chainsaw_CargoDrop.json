@@ -2,7 +2,7 @@
   "FixedItems": [
     "Chainsaw"
   ],
-  "InitialDamage": 29,
+  "InitialDamage": 11,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

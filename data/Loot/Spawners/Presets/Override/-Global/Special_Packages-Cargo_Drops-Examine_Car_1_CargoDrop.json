@@ -2,7 +2,7 @@
   "FixedItems": [
     "Tire_Repair_Kit"
   ],
-  "InitialDamage": 42,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -56,11 +56,19 @@ export const spawnersConfig: SpawnersConfigType = {
             },
             {
               Rarity: 'VeryRare',
+              Id: 'Weapon_M9_Silver',
+            },
+            {
+              Rarity: 'VeryRare',
               Id: 'Magazine_M9',
             },
             {
               Rarity: 'VeryRare',
               Id: 'Cal_9mm',
+            },
+            {
+              Rarity: 'ExtremelyRare',
+              Id: 'WeaponFlashlight_M9',
             },
           ],
         },
@@ -82,6 +90,10 @@ export const spawnersConfig: SpawnersConfigType = {
             {
               Rarity: 'VeryRare',
               Id: 'Weapon_Serpent357',
+            },
+            {
+              Rarity: 'VeryRare',
+              Id: 'Weapon_Judge44',
             },
             {
               Rarity: 'VeryRare',
@@ -187,6 +199,18 @@ export const spawnersConfig: SpawnersConfigType = {
             {
               Rarity: 'ExtremelyRare',
               Id: 'Vodka',
+            },
+            {
+              Rarity: 'ExtremelyRare',
+              Id: 'BowSilencer',
+            },
+            {
+              Rarity: 'ExtremelyRare',
+              Id: '1H_Brass_knuckles',
+            },
+            {
+              Rarity: 'ExtremelyRare',
+              Id: '1H_Improvised_metal_knife',
             },
           ],
         },

@@ -10,11 +10,19 @@
     },
     {
       "Rarity": "VeryRare",
+      "Id": "Weapon_M9_Silver"
+    },
+    {
+      "Rarity": "VeryRare",
       "Id": "Magazine_M9"
     },
     {
       "Rarity": "VeryRare",
       "Id": "Cal_9mm"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "WeaponFlashlight_M9"
     }
   ],
   "Probability": 30,

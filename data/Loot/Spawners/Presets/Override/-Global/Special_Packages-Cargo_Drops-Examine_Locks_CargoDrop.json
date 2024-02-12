@@ -3,7 +3,7 @@
     "Bobby_Pin_Pacage",
     "Lock_Item_Basic"
   ],
-  "InitialDamage": 35,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

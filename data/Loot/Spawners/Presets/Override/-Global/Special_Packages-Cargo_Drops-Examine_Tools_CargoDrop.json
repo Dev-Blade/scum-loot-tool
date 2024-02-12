@@ -3,7 +3,7 @@
     "Sledgehammer",
     "1H_KitchenKnife"
   ],
-  "InitialDamage": 26,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

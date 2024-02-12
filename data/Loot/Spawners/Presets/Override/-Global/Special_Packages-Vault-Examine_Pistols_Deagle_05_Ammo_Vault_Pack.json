@@ -4,7 +4,7 @@
     "Magazine_DEagle_50",
     "Cal_50_AE_Ammobox"
   ],
-  "InitialDamage": 25,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

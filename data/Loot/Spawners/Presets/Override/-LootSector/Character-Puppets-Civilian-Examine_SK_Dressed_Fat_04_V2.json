@@ -39,6 +39,18 @@
     {
       "Rarity": "ExtremelyRare",
       "Id": "Vodka"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "BowSilencer"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "1H_Brass_knuckles"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "1H_Improvised_metal_knife"
     }
   ],
   "QuantityMin": 1,

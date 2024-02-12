@@ -1,12 +1,14 @@
 {
   "FixedItems": [
-    "BowSilencer",
-    "BowSilencer",
-    "Recurve_Bow_60",
-    "Improvised_Quiver_01",
-    "Carbon_BroadHead_Arrow"
+    "Weapon_UMP45",
+    "Magazine_UMP45",
+    "Magazine_UMP45",
+    "Cal_45_Ammobox",
+    "Cal_45_Ammobox",
+    "WeaponSuppressor_45ACP",
+    "WeaponSights_RedDot_CA401B"
   ],
-  "InitialDamage": 44,
+  "InitialDamage": 33,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

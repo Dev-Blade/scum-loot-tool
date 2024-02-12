@@ -1,14 +1,14 @@
 {
   "FixedItems": [
-    "Weapon_Deagle_357",
-    "Magazine_DEagle_357",
-    "Magazine_DEagle_357",
-    "Cal_357_Ammobox",
-    "Cal_357_Ammobox",
-    "WeaponFlashlight_DesertEagle",
-    "WeaponSights_Deagle_RedDot"
+    "BowSilencer_SlipOn",
+    "BowSilencer_SlipOn",
+    "Recurve_Bow_70",
+    "Military_Quiver_01",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow"
   ],
-  "InitialDamage": 42,
+  "InitialDamage": 15,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -10,7 +10,7 @@
     "WeaponSuppressor_45ACP",
     "Tactical_Handgun_Holster_03"
   ],
-  "InitialDamage": 20,
+  "InitialDamage": 39,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

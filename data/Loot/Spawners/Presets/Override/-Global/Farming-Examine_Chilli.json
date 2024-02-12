@@ -9,7 +9,7 @@
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 34,
+  "InitialDamage": 25,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

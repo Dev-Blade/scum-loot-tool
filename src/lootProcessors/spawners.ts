@@ -6,14 +6,18 @@ import {ensureDirectory} from '../utils/fileUtils';
 import {isArray} from 'class-validator';
 import {spawnersConfig as spawnersBadSectorConfig} from './spawnersConfigs/spawnersBadSectorConfig';
 import {spawnersConfig as spawnersLootSectorConfig} from './spawnersConfigs/spawnersGoodSectorConfig';
+import {spawnersConfig as spawnersWorldConfig} from './spawnersConfigs/spawnersWorldConfig';
 
 const spawnersConfig = {
   bad: spawnersBadSectorConfig,
   good: spawnersLootSectorConfig,
+  world: spawnersWorldConfig,
+  //  zone1: spawnersZone1Config,
 };
 type spawnersConfigKey = keyof typeof spawnersConfig;
 
-import {FilterItemType, FilterNodeType, ItemType, SpawnerNodeType} from './typesSpawner';
+import {SpawnerFilterItemType, SpawnerFilterNodeType, ItemType, SpawnerNodeType} from './typesSpawner';
+import {randomSpawnerPackUsed} from './spawnersPacks';
 
 export const processSpawners = async (which: spawnersConfigKey) => {
   const {defaults, filter, pathSpawnersOverride, skipFilePatterns} = spawnersConfig[which];
@@ -23,7 +27,7 @@ export const processSpawners = async (which: spawnersConfigKey) => {
 
   // ----------------------------------------------------------------------------
   const processNodes = (match: string, fileName: string, nodes: Array<SpawnerNodeType>) => {
-    let f: FilterNodeType = {Items: {}};
+    let f: SpawnerFilterNodeType = {Items: {}};
     const m = filter[match];
     if (m.Nodes) f = m.Nodes;
 
@@ -42,8 +46,20 @@ export const processSpawners = async (which: spawnersConfigKey) => {
             //console.log(id, filterKey);
             const fv = filterValues[filterKeyIndex];
             if (fv.override !== undefined) {
-              //console.log('--- replacing ' + nodes[nodeIndex].Ids[idIndex] + ' by ' + fv.override);
+              //console.log('--- overriding ' + nodes[nodeIndex].Ids[idIndex] + ' with ' + fv.override);
               nodes[nodeIndex].Ids[idIndex] = fv.override;
+            }
+            if (fv.Rarity !== undefined) {
+              //console.log('--- Rarity ' + nodes[nodeIndex].Rarity + ' with ' + fv.Rarity);
+              nodes[nodeIndex].Rarity = fv.Rarity;
+            }
+            if (fv.replace !== undefined) {
+              //console.log('--- replacing ' + nodes[nodeIndex].Ids[idIndex] + ' with ' + fv.override);
+              nodes[nodeIndex].Ids[idIndex] = nodes[nodeIndex].Ids[idIndex].replace(fv.replace[0], fv.replace[1]);
+            }
+            if (fv.remove === true) {
+              console.log('--- removing ' + nodes[nodeIndex].Ids[idIndex] + ' from ' + fileName);
+              nodes[nodeIndex].Ids[idIndex] = '';
             }
 
             if (fv.postAdd) {
@@ -52,6 +68,11 @@ export const processSpawners = async (which: spawnersConfigKey) => {
               } else {
                 postAdd.push(fv.postAdd);
               }
+            }
+
+            if (fv.listAdd !== undefined) {
+              if (isArray(fv.listAdd)) node.Ids.push(...fv.listAdd);
+              else node.Ids.push(fv.listAdd);
             }
           }
           return true;
@@ -72,7 +93,7 @@ export const processSpawners = async (which: spawnersConfigKey) => {
 
   // ----------------------------------------------------------------------------
   const processItems = (match: keyof typeof filter, fileName: string, items: Array<ItemType>) => {
-    let f: FilterItemType = {Items: {}};
+    let f: SpawnerFilterItemType = {Items: {}};
     const m = filter[match];
     if (m.Items) f = m.Items;
 
@@ -87,6 +108,11 @@ export const processSpawners = async (which: spawnersConfigKey) => {
       if (index >= 0) {
         const fv = filterValues[index];
         fv.postAdd && postAdd.push(fv.postAdd);
+
+        if (fv.Rarity !== undefined) {
+          item.Rarity = fv.Rarity;
+        }
+
         return fv.override !== undefined ? {...item, ...fv.override} : item;
       }
       return item;
@@ -135,7 +161,6 @@ export const processSpawners = async (which: spawnersConfigKey) => {
 
   try {
     const files = await getFiles(pathSpawnersDefault, false);
-
     console.log('*** Processing ' + files.length + " spawners files for '" + which + "'");
 
     for (const file of files) {
@@ -160,6 +185,9 @@ export const processSpawners = async (which: spawnersConfigKey) => {
           if (probability > 100) probability = 100;
           json.Probability = probability;
         }
+
+        const fileProbability = probability;
+
         let initialDamage = parseInt(json.InitialDamage);
         if (initialDamage === 0) initialDamage = Math.random() * defaults.defaultInitialDamageRandomMaxMultiplierIfZero;
 
@@ -227,19 +255,25 @@ export const processSpawners = async (which: spawnersConfigKey) => {
         }
 
         const keys = Object.keys(filter);
-        const values = Object.values(filter);
 
         keys.forEach((key, keyIndex) => {
+          probability = fileProbability;
+
           const m = filter[key];
           if (!m) {
             console.error('Missing filter for ' + key);
             return;
           }
 
-          let matchIndex = file.indexOf(key);
+          let matchIndex = -1;
+          if (key === '*') {
+            matchIndex = 0; // always match
+          } else matchIndex = file.indexOf(key);
+
           if (matchIndex < 0) {
-            const additional = values[keys.indexOf(key)].additionalFilesMatches;
-            if (additional && additional.length > 0) {
+            //const additional = values[keys.indexOf(key)].additionalFilesMatches;
+            const additional = m.additionalFilesMatches;
+            if (additional !== undefined && additional.length > 0) {
               for (const a of additional) {
                 matchIndex = file.indexOf(a);
                 if (matchIndex >= 0) break;
@@ -250,7 +284,7 @@ export const processSpawners = async (which: spawnersConfigKey) => {
           if (matchIndex >= 0) {
             const fixedItems = json.FixedItems;
             let isExclude = false;
-            const excludes = values[keyIndex].excludedFilesMatches;
+            const excludes = m.excludedFilesMatches;
             if (excludes) {
               for (const exclude of excludes)
                 if (file.includes(exclude)) {
@@ -304,6 +338,7 @@ export const processSpawners = async (which: spawnersConfigKey) => {
               }
 
               if (!isNaN(probability) && m.ProbabilityMultiplier && !isNaN(m.ProbabilityMultiplier)) {
+                //console.log(file, key, m.ProbabilityMultiplier);
                 probability = Math.round(probability * m.ProbabilityMultiplier);
                 if (probability > 100) probability = 100;
                 json.Probability = probability;

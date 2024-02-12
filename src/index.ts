@@ -18,10 +18,12 @@ config({path: resolve(__dirname, '..', '.env')});
   if (arg.includes('spawners')) {
     await processSpawners('bad');
     await processSpawners('good');
+    await processSpawners('world');
     x = true;
   }
   if (arg.includes('economy')) {
-    await processEconomy();
+    await processEconomy('data/EconomyOverride_src.json', 'data/EconomyOverride.json', 'data/index.html');
+    await processEconomy('data/EconomyOverride_src_world.json', 'data/EconomyOverride_world.json', 'data/index_world.html');
     x = true;
   }
 

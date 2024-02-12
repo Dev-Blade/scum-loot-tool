@@ -3,7 +3,16 @@
 		{
 			"Rarity": "Uncommon",
 			"Ids": [
-				"ItemLootTreeNodes.CoalMine"
+				"ItemLootTreeNodes.CoalMine.Crafting",
+				"ItemLootTreeNodes.CoalMine.LightsFire",
+				"ItemLootTreeNodes.CoalMine.Other.Ammo",
+				"ItemLootTreeNodes.CoalMine.Other.Backpacks",
+				"ItemLootTreeNodes.CoalMine.Other.Flares",
+				"ItemLootTreeNodes.CoalMine.Other.Money",
+				"ItemLootTreeNodes.CoalMine.Other.Weapons",
+				"ItemLootTreeNodes.CoalMine.Repair",
+				"ItemLootTreeNodes.CoalMine.Tools",
+				"ItemLootTreeNodes.CoalMine.WorkClothes"
 			]
 		}
 	],

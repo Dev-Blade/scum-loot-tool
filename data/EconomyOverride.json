@@ -45,7 +45,7 @@
         {
           "tradeable-code": "Weapon_SCAR_DMR",
           "base-purchase-price": "16000",
-          "base-sell-price": "1000",
+          "base-sell-price": "1333",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4749,7 +4749,7 @@
         {
           "tradeable-code": "Weapon_VSS_VZ",
           "base-purchase-price": "12800",
-          "base-sell-price": "1667",
+          "base-sell-price": "1000",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "400"
@@ -5541,7 +5541,7 @@
         {
           "tradeable-code": "Weapon_M249",
           "base-purchase-price": "20800",
-          "base-sell-price": "1000",
+          "base-sell-price": "1333",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -18827,7 +18827,7 @@
         {
           "tradeable-code": "Weapon_SCAR_DMR",
           "base-purchase-price": "16000",
-          "base-sell-price": "1000",
+          "base-sell-price": "1333",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -23531,7 +23531,7 @@
         {
           "tradeable-code": "Weapon_VSS_VZ",
           "base-purchase-price": "12800",
-          "base-sell-price": "1667",
+          "base-sell-price": "1000",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "400"
@@ -24323,7 +24323,7 @@
         {
           "tradeable-code": "Weapon_M249",
           "base-purchase-price": "20800",
-          "base-sell-price": "1000",
+          "base-sell-price": "1333",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -37609,7 +37609,7 @@
         {
           "tradeable-code": "Weapon_SCAR_DMR",
           "base-purchase-price": "16000",
-          "base-sell-price": "1500",
+          "base-sell-price": "2000",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -42313,7 +42313,7 @@
         {
           "tradeable-code": "Weapon_VSS_VZ",
           "base-purchase-price": "12800",
-          "base-sell-price": "2501",
+          "base-sell-price": "1500",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "300"
@@ -43105,7 +43105,7 @@
         {
           "tradeable-code": "Weapon_M249",
           "base-purchase-price": "20800",
-          "base-sell-price": "1500",
+          "base-sell-price": "2000",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -56391,7 +56391,7 @@
         {
           "tradeable-code": "Weapon_SCAR_DMR",
           "base-purchase-price": "16000",
-          "base-sell-price": "1000",
+          "base-sell-price": "1333",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -61095,7 +61095,7 @@
         {
           "tradeable-code": "Weapon_VSS_VZ",
           "base-purchase-price": "12800",
-          "base-sell-price": "1667",
+          "base-sell-price": "1000",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "400"
@@ -61887,7 +61887,7 @@
         {
           "tradeable-code": "Weapon_M249",
           "base-purchase-price": "20800",
-          "base-sell-price": "1000",
+          "base-sell-price": "1333",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"

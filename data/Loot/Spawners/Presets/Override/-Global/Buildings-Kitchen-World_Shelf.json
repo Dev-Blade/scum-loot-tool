@@ -12,8 +12,8 @@
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": false,
-  "InitialDamage": 30,
-  "RandomDamage": 69,
+  "InitialDamage": 36,
+  "RandomDamage": 63,
   "InitialUsage": 0,
   "RandomUsage": 75,
   "PostSpawnActions": [

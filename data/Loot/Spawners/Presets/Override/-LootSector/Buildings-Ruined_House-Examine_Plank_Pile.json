@@ -8,7 +8,7 @@
   "Probability": 57,
   "QuantityMin": 1,
   "QuantityMax": 2,
-  "AllowDuplicates": false,
+  "AllowDuplicates": true,
   "ShouldFilterItemsByZone": true,
   "InitialDamage": 40,
   "RandomDamage": 25,

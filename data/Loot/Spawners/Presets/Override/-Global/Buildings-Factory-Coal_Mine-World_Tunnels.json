@@ -10,7 +10,6 @@
         "ItemLootTreeNodes.CoalMine.WorkClothes",
         "ItemLootTreeNodes.CoalMine.Other.Ammo",
         "ItemLootTreeNodes.CoalMine.Other.Backpacks",
-        "ItemLootTreeNodes.CoalMine.Other.Explosives",
         "ItemLootTreeNodes.CoalMine.Other.Flares",
         "ItemLootTreeNodes.CoalMine.Other.Money"
       ]
@@ -18,7 +17,7 @@
   ],
   "Items": [
     {
-      "Rarity": "Rare",
+      "Rarity": "Abundant",
       "Id": "Coal_01"
     }
   ],
@@ -27,7 +26,7 @@
   "QuantityMax": 1,
   "AllowDuplicates": false,
   "ShouldFilterItemsByZone": true,
-  "InitialDamage": 33,
+  "InitialDamage": 27,
   "RandomDamage": 30,
   "InitialUsage": 0,
   "RandomUsage": 0

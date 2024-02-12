@@ -1,10 +1,14 @@
 {
   "FixedItems": [
-    "Weapon_M1887",
-    "12_Gauge_Buckshot_Ammobox",
-    "12_Gauge_Buckshot_Ammobox"
+    "Weapon_UMP45",
+    "Magazine_UMP45",
+    "Magazine_UMP45",
+    "Cal_45_Ammobox",
+    "Cal_45_Ammobox",
+    "WeaponSuppressor_45ACP",
+    "WeaponSights_RedDot_CA401B"
   ],
-  "InitialDamage": 26,
+  "InitialDamage": 17,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0
