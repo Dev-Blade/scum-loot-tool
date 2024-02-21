@@ -342,7 +342,7 @@
                     },
                     {
                       "Name": "Tourniquet",
-                      "Rarity": "ExtremelyRare"
+                      "Rarity": "VeryRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -475,7 +475,7 @@
             },
             {
               "Name": "Thread",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             }
           ],
           "ChildrenMergeMode": "Replace"

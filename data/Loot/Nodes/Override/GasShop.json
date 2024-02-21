@@ -373,6 +373,10 @@
                     {
                       "Name": "Military_Backpack_01_03",
                       "Rarity": "VeryRare"
+                    },
+                    {
+                      "Name": "Military_Backpack_01_01",
+                      "Rarity": "VeryRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -799,10 +803,6 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -869,11 +869,11 @@
                 },
                 {
                   "Name": "Electrical_Repair_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Electrician_Tools",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Mobile_Phone",

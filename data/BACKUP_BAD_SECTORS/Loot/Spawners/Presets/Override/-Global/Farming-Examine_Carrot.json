@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Carrot"
+    }
+  ],
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 24,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

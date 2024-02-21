@@ -1,7 +1,7 @@
-import path from 'path';
+import path from "path";
 
-import {pathNodesOverride} from '../_lootPaths';
-import {NodesConfigType} from '../typesNode';
+import { pathNodesOverride } from "../_lootPaths";
+import { NodesConfigType } from "../typesNode";
 
 export const nodesConfig: NodesConfigType = {
   pathNodesOverride: pathNodesOverride,
@@ -9,35 +9,60 @@ export const nodesConfig: NodesConfigType = {
   skipFilePatterns: [],
   filter: {
     containers: {
+      M82s: {
+        Rarity: "ExtremelyRare",
+      },
       Vests: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       RubberGloves: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Power: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Car: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Compounds: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
+      LMGs: {
+        contexts: ["Military.Weapons"],
+        Rarity: "VeryRare",
+      },
+      Stabproof: {
+        contexts: ["Military"],
+        Rarity: "Uncommon",
+      },
+      Handguns: {
+        contexts: ["WW2"],
+        Rarity: "Uncommon",
+      },
+      Other: {
+        contexts: ["WW2"],
+        Rarity: "VeryRare",
+      },
+      Rifles: [
+        {
+          contexts: ["WW2"],
+          Rarity: "VeryRare",
+        },
+      ],
 
       SMGs: [
         {
-          additionalMatches: ['LMGs', 'AssaultRifles'],
-          contexts: ['Police.Weapons'],
-          Rarity: 'ExtremelyRare',
+          additionalMatches: ["LMGs", "AssaultRifles"],
+          contexts: ["Police.Weapons"],
+          Rarity: "ExtremelyRare",
           Children: [
             {
-              Name: '1H_Dildo',
-              Rarity: 'ExtremelyRare',
+              Name: "1H_Dildo",
+              Rarity: "ExtremelyRare",
             },
             {
-              Name: 'Binoculars',
-              Rarity: 'Uncommon',
+              Name: "Binoculars",
+              Rarity: "Uncommon",
             },
           ],
         },
@@ -85,186 +110,191 @@ export const nodesConfig: NodesConfigType = {
 */
 
       Boxed: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Alcoholic: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Fluids: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Sights: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
       Suppressors: [
         {
-          Rarity: 'Rare',
+          Rarity: "Rare",
         },
         {
-          contexts: ['Military'],
-          Rarity: 'Rare',
+          contexts: ["Military"],
+          Rarity: "Rare",
         },
       ],
       Magazines: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Ballistic: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Tactical: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
-      'Police.Weapons.AssaultRifles': {
-        Rarity: 'ExtremelyRare',
+      "Police.Weapons.AssaultRifles": {
+        Rarity: "ExtremelyRare",
       },
-      'Military.Weapons.AssaultRifles': {
-        Rarity: 'VeryRare',
+      "Military.Weapons.AssaultRifles": {
+        Rarity: "VeryRare",
       },
       BigStash: [
         {
-          PostSpawnActions: ['SetAmmoAmount_SmallStash'],
+          PostSpawnActions: ["SetAmmoAmount_SmallStash"],
         },
         {
-          contexts: ['Military.ammo.Arrows'],
-          PostSpawnActions: ['SetAmmoAmount_BigStash'],
+          contexts: ["Military.ammo.Arrows"],
+          PostSpawnActions: ["SetAmmoAmount_BigStash"],
         },
       ],
     },
     // ------------------------------------------------------------
     items: {
       // weapons
-
-      '2H_Katana': [
+      "2H_Katana": [
         {
-          contexts: ['WW2'],
+          contexts: ["WW2"],
           postAdd: [
             {
-              Name: '2H_Tang_Dao',
-              Rarity: 'VeryRare',
+              Name: "2H_Tang_Dao",
+              Rarity: "VeryRare",
             },
           ],
         },
         {
-          contexts: ['Bar', 'CarWreck', 'Garage', 'LivingRoom', 'Workshop'],
+          contexts: ["Military"],
+          remove: true,
+        },
+        {
+          contexts: ["Bar", "CarWreck", "Garage", "LivingRoom", "Workshop"],
           postAdd: [
             {
-              Name: '1H_KitchenKnife_04',
-              Rarity: 'ExtremelyRare',
+              Name: "1H_KitchenKnife_04",
+              Rarity: "ExtremelyRare",
             },
           ],
         },
       ],
       Compound_Bow: {
-        contexts: ['Military.Weapons.Other'],
-        Rarity: 'VeryRare',
+        contexts: ["Military.Weapons.Other"],
+        Rarity: "ExtremelyRare",
       },
       Recurve_Bow_100: {
-        Rarity: 'Rare',
+        contexts: ["Military"],
+        Rarity: "VeryRare",
         postAdd: [
-          {Name: 'Recurve_Bow_70', Rarity: 'Uncommon'},
-          {Name: '1H_Police_Baton', Rarity: 'Common'},
+          // { Name: "Weapon_M9", Rarity: "Rare" },
+          // { Name: "Weapon_M9_Silver", Rarity: "Rare" },
+          // { Name: "Weapon_Block21", Rarity: "Rare" },
         ],
       },
 
       // Make sniper rifles rarer
       Weapon_AWP: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
         postAdd: [
-          {Name: 'Weapon_DT11B_Sawed_Off', Rarity: 'VeryRare'},
-          {Name: 'Weapon_DT11B', Rarity: 'VeryRare'},
+          { Name: "Weapon_DT11B_Sawed_Off", Rarity: "VeryRare" },
+          //{ Name: "Weapon_DT11B", Rarity: "VeryRare" },
         ],
       },
       Weapon_SVD_Dragunov: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
 
       // SMGs
 
       Weapon_UMP45: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
 
       Weapon_VSS_VZ: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
         postAdd: [
-          {Name: 'Weapon_DT11B', Rarity: 'VeryRare'},
-          {Name: '1H_Shuriken', Rarity: 'Rare'},
+          { Name: "Weapon_DT11B", Rarity: "VeryRare" },
+          //{ Name: "1H_Brass_knuckles", Rarity: "Rare" },
         ],
       },
       Weapon_AKS_74U: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Weapon_AS_Val: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
 
       // LMGs
 
       Weapon_M249: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
-      'Weapon_RPK-74': {
-        Rarity: 'VeryRare',
+      "Weapon_RPK-74": {
+        Rarity: "VeryRare",
         postAdd: [
-          {Name: 'Weapon_M1887', Rarity: 'Rare'},
-          {Name: 'Weapon_M1887_Sawed_off', Rarity: 'Rare'},
+          { Name: "Weapon_M1887", Rarity: "Rare" },
+          { Name: "Weapon_M1887_Sawed_off", Rarity: "Rare" },
         ],
       },
 
       // Assault Rifles
 
       Weapon_SCAR_DMR: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
       Weapon_MK18: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Weapon_VHS2: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
       Weapon_VHS2_Rail: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
         postAdd: [
           //{Name: 'Weapon_DT11B_Sawed_Off', Rarity: 'Rare'},
           //{Name: 'Weapon_DT11B', Rarity: 'Rare'},
-          {Name: 'Weapon_Krueger', Rarity: 'VeryRare'},
+          { Name: "Weapon_Krueger", Rarity: "VeryRare" },
         ],
       },
 
       Weapon_Hunter85_V2: {
-        contexts: ['Military.Weapons.Rifles'],
-        Rarity: 'Uncommon',
+        contexts: ["Military.Weapons.Rifles"],
+        Rarity: "Rare",
       },
       Weapon_CarbonHunter: {
-        contexts: ['Military.Weapons.Rifles'],
-        Rarity: 'Rare',
+        contexts: ["Military.Weapons.Rifles"],
+        Rarity: "Rare",
       },
 
       // pistols
 
       Weapon_Judge44: {
-        contexts: ['Handguns'],
-        Rarity: 'Common',
+        contexts: ["Handguns"],
+        Rarity: "Common",
       },
       Weapon_Viper_M357: {
-        contexts: ['Handguns'],
-        Rarity: 'Common',
+        contexts: ["Handguns"],
+        Rarity: "Common",
       },
 
       // mags
 
       Magazine_HS9: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
 
       // ammo
 
       Cal_50BMG: [
         {
-          contexts: ['Regular', 'AP', 'TR'],
+          contexts: ["Regular", "AP", "TR"],
           postAdd: [
-            {Name: 'Cal_9mm_AP', Rarity: 'ExtremelyRare'},
-            {Name: 'Cal_45_AP', Rarity: 'ExtremelyRare'},
+            { Name: "Cal_9mm_AP", Rarity: "ExtremelyRare" },
+            { Name: "Cal_45_AP", Rarity: "ExtremelyRare" },
           ],
         },
       ],
@@ -335,47 +365,55 @@ export const nodesConfig: NodesConfigType = {
       // grenades
 
       Frag_Grenade: {
-        additionalMatches: ['TNT', 'EMP_Grenade'],
-        Rarity: 'ExtremelyRare',
+        additionalMatches: ["TNT"],
+        Rarity: "ExtremelyRare",
         postAdd: [
           {
-            Name: 'Cal_9mm_AP_Ammobox',
-            Rarity: 'ExtremelyRare',
+            Name: "Cal_9mm_AP_Ammobox",
+            Rarity: "ExtremelyRare",
+          },
+          {
+            Name: "Cal_45_AP_Ammobox",
+            Rarity: "ExtremelyRare",
+          },
+          {
+            Name: "Cal_50_AE_AP_Ammobox",
+            Rarity: "ExtremelyRare",
+          },
+          {
+            Name: "Cal_357_Ammobox_AP",
+            Rarity: "ExtremelyRare",
           },
         ],
       },
       Flashbang: {
-        Rarity: 'VeryRare',
+        Rarity: "Rare",
       },
-      'Cal_40_PG-7M': {
-        Rarity: 'ExtremelyRare',
+      "Cal_40_PG-7M": {
+        Rarity: "ExtremelyRare",
       },
 
       // gun repair
 
       Weapon_Cleaning_Kit: [
         {
-          contexts: ['tools', 'RepairToolkits.Weapons'],
-          Rarity: 'ExtremelyRare',
-        },
-        {
-          contexts: ['HuntingStore'],
-          remove: true,
+          contexts: ["Military", "Depository"],
+          Rarity: "ExtremelyRare",
         },
       ],
 
       // gear
 
       Night_Vision_Googles_01: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
         postAdd: [
           {
-            Name: 'Compass_Basic',
-            Rarity: 'ExtremelyRare',
+            Name: "Compass_Basic",
+            Rarity: "ExtremelyRare",
           },
           {
-            Name: '1H_Shuriken',
-            Rarity: 'ExtremelyRare',
+            Name: "1H_Shuriken",
+            Rarity: "ExtremelyRare",
           },
         ],
       },
@@ -385,47 +423,51 @@ export const nodesConfig: NodesConfigType = {
       Military_Quiver_01: {
         postAdd: [
           {
-            Name: 'Waist_Bag_Small_02',
-            Rarity: 'Rare',
+            Name: "Waist_Bag_Small_02",
+            Rarity: "Rare",
           },
         ],
       },
       Ghillie_Suit_Jacket_01: {
         postAdd: {
-          Name: 'Raincoat_01',
-          Rarity: 'Uncommon',
+          Name: "Raincoat_01",
+          Rarity: "Uncommon",
         },
       },
       Ghillie_Suit_Pants_01: {
         postAdd: {
-          Name: 'Working_pants_01_01',
-          Rarity: 'Uncommon',
+          Name: "Working_pants_01_01",
+          Rarity: "Uncommon",
         },
       },
       Scottish_Sporran_Bag_01: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
         postAdd: {
-          Name: 'Waist_Bag_Small_01',
-          Rarity: 'Rare',
+          Name: "Waist_Bag_Small_01",
+          Rarity: "Rare",
         },
       },
 
       Hiking_Backpack_01_01: {
         additionalMatches: [
-          'Military_Backpack_02_01',
-          'Military_Backpack_02_02',
-          'Military_Backpack_02_03',
-          'Military_Backpack_02_04',
-          'Military_Backpack_02_05',
+          "Military_Backpack_02_01",
+          "Military_Backpack_02_02",
+          "Military_Backpack_02_03",
+          "Military_Backpack_02_04",
+          "Military_Backpack_02_05",
         ],
         postAdd: [
           {
-            Name: 'Military_Backpack_01_02',
-            Rarity: 'VeryRare',
+            Name: "Military_Backpack_01_02",
+            Rarity: "VeryRare",
           },
           {
-            Name: 'Military_Backpack_01_03',
-            Rarity: 'VeryRare',
+            Name: "Military_Backpack_01_03",
+            Rarity: "VeryRare",
+          },
+          {
+            Name: "Military_Backpack_01_01",
+            Rarity: "VeryRare",
           },
         ],
       },
@@ -433,56 +475,56 @@ export const nodesConfig: NodesConfigType = {
       Military_Backpack_01_05: {
         postAdd: [
           {
-            Name: 'Backpack_02_04',
-            Rarity: 'Uncommon',
+            Name: "Backpack_02_04",
+            Rarity: "Uncommon",
           },
           {
-            Name: 'Backpack_02_05',
-            Rarity: 'Uncommon',
+            Name: "Backpack_02_05",
+            Rarity: "Uncommon",
           },
         ],
       },
 
       Geiger_Counter_Analogue: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "VeryRare",
       },
       Smartphone_Battery: {
-        contexts: ['Trash.tools.Electrical'],
+        contexts: ["Trash.tools.Electrical"],
         postAdd: [
           {
-            Name: 'Electrical_Repair_Kit',
-            Rarity: 'ExtremelyRare',
+            Name: "Electrical_Repair_Kit",
+            Rarity: "ExtremelyRare",
           },
           {
-            Name: 'Tool_Box_Small',
-            Rarity: 'ExtremelyRare',
+            Name: "Tool_Box_Small",
+            Rarity: "ExtremelyRare",
           },
         ],
       },
-      '1H_Cleaver': {
-        Rarity: 'VeryRare',
+      "1H_Cleaver": {
+        Rarity: "VeryRare",
       },
       Sewing_kit: {
-        contexts: ['Military.Gear.tools'],
-        Rarity: 'VeryRare',
+        contexts: ["Military.Gear.tools"],
+        Rarity: "VeryRare",
       },
 
       // helmets
 
-      'K6-3_Helmet': {
-        contexts: ['Helmets.K6-3_Helmet'],
+      "K6-3_Helmet": {
+        contexts: ["Helmets.K6-3_Helmet"],
         remove: true,
       },
       M1_Medical_Helmet: {
-        contexts: ['Helmets.Military'],
+        contexts: ["Helmets.Military"],
         postAdd: [
-          {Name: 'K6-3_Helmet', Rarity: 'ExtremelyRare'},
-          {Name: 'WW2_German_Helmet_01', Rarity: 'ExtremelyRare'},
-          {Name: 'Military_Helmet_01_01', Rarity: 'ExtremelyRare'},
-          {Name: 'Military_Helmet_01_04', Rarity: 'ExtremelyRare'},
-          {Name: 'Military_Helmet_01_05', Rarity: 'ExtremelyRare'},
-          {Name: 'WeaponSuppressor_Handgun', Rarity: 'ExtremelyRare'},
-          {Name: 'WeaponSuppressor_45ACP', Rarity: 'ExtremelyRare'},
+          { Name: "K6-3_Helmet", Rarity: "ExtremelyRare" },
+          { Name: "WW2_German_Helmet_01", Rarity: "ExtremelyRare" },
+          { Name: "Military_Helmet_01_01", Rarity: "ExtremelyRare" },
+          { Name: "Military_Helmet_01_04", Rarity: "ExtremelyRare" },
+          { Name: "Military_Helmet_01_05", Rarity: "ExtremelyRare" },
+          { Name: "WeaponSuppressor_Handgun", Rarity: "ExtremelyRare" },
+          { Name: "WeaponSuppressor_45ACP", Rarity: "ExtremelyRare" },
         ],
       },
 
@@ -490,32 +532,37 @@ export const nodesConfig: NodesConfigType = {
 
       Bulletproof_Vest_01: {
         additionalMatches: [
-          'Bulletproof_Vest_01_02',
-          'Bulletproof_Vest_01_03',
-          'Bulletproof_Vest_01_04',
-          'Bulletproof_Vest_01_05',
-          'Police_Bulletproof_Vest_01',
+          "Bulletproof_Vest_01_02",
+          "Bulletproof_Vest_01_03",
+          "Bulletproof_Vest_01_04",
+          "Bulletproof_Vest_01_05",
+          "Police_Bulletproof_Vest_01",
         ],
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
         postAdd: [
           {
-            Name: 'Tactical_Gloves_01_01',
-            Rarity: 'Rare',
+            Name: "Tactical_Gloves_01_01",
+            Rarity: "Rare",
           },
         ],
       },
 
       Armor_Police_Vest_01: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
 
       Tactical_Vest_01: {
-        additionalMatches: ['Armor_Tactical_Vest_01_01', 'Armor_Tactical_Vest_01_02', 'Armor_Tactical_Vest_01_03', 'Armor_Tactical_Vest_01_04'],
-        Rarity: 'VeryRare',
+        additionalMatches: [
+          "Armor_Tactical_Vest_01_01",
+          "Armor_Tactical_Vest_01_02",
+          "Armor_Tactical_Vest_01_03",
+          "Armor_Tactical_Vest_01_04",
+        ],
+        Rarity: "VeryRare",
         postAdd: [
           {
-            Name: 'Tactical_Gloves_01_01',
-            Rarity: 'Rare',
+            Name: "Tactical_Gloves_01_01",
+            Rarity: "Rare",
           },
         ],
       },
@@ -523,82 +570,87 @@ export const nodesConfig: NodesConfigType = {
       // gear
 
       WeaponSuppressor_SVD: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       WeaponScope_Vampyr: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
       WeaponScope_M82A1: {
-        postAdd: [{Name: 'MRE_TunaSalad', Rarity: 'Rare'}],
+        postAdd: [
+          { Name: "MRE_TunaSalad", Rarity: "Uncommon" },
+          { Name: "Spon", Rarity: "Rare" },
+        ],
       },
       WeaponScope_HuntingScope: {
-        Rarity: 'Uncommon',
+        Rarity: "Uncommon",
       },
 
       // tools
 
       Car_Repair_Kit: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
         postAdd: [
-          {Name: 'Bolts', Rarity: 'VeryRare'},
-          {Name: 'Nails', Rarity: 'VeryRare'},
+          { Name: "Bolts", Rarity: "VeryRare" },
+          { Name: "Nails", Rarity: "VeryRare" },
         ],
       },
+      /*      
       Electrical_Repair_Kit: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Electrician_Tools: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
+*/
       Duct_Tape: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Grinding_Stone_02: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
         postAdd: {
-          Name: 'Round_Sunglasses',
-          Rarity: 'VeryRare',
+          Name: "Round_Sunglasses",
+          Rarity: "VeryRare",
         },
       },
 
       // locks & picks
 
       Padlock: {
-        contexts: ['DeadPuppets'],
-        Rarity: 'Uncommon',
+        contexts: ["DeadPuppets"],
+        Rarity: "Uncommon",
       },
       BCULock_Item: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Lock_Item_Basic: {
-        overrideName: 'Paper',
+        overrideName: "Paper",
       },
       Lock_Items_Medium: {
-        overrideName: 'Padlock',
+        overrideName: "Padlock",
       },
       Lock_Item_Advanced: {
-        overrideName: 'Paper',
+        overrideName: "Paper",
       },
       DialLock_Item: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Lockpick_Advanced_Item: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Lockpick_Item: {
-        Rarity: 'VeryRare',
+        Rarity: "VeryRare",
       },
       Medical_Glove_01: {
-        additionalMatches: ['Electrician_Glove_01_01'],
-        Rarity: 'VeryRare',
+        additionalMatches: ["Electrician_Glove_01_01"],
+        Rarity: "VeryRare",
         postAdd: [
           {
-            Name: 'Wool_Gloves_01_01',
-            Rarity: 'Rare',
+            Name: "Wool_Gloves_01_01",
+            Rarity: "Rare",
           },
           {
-            Name: 'Construction_Gloves_01_01',
-            Rarity: 'Rare',
+            Name: "Construction_Gloves_01_01",
+            Rarity: "Rare",
           },
         ],
       },
@@ -620,78 +672,91 @@ export const nodesConfig: NodesConfigType = {
 */
       // misc
 
+      /*      
       Thread: [
         {
-          Rarity: 'VeryRare',
+          Rarity: "VeryRare",
         },
         {
-          contexts: ['LivingRoom'],
-          Rarity: 'Rare',
+          contexts: ["LivingRoom"],
+          Rarity: "Rare",
         },
       ],
+*/
       MetalDetector: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Compass: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
       Compass_Basic: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
+      /*      
       Tool_Box: {
-        additionalMatches: ['Tool_Box_Small'],
+        additionalMatches: ["Tool_Box_Small"],
         postAdd: {
-          Name: 'Safety_Goggles',
-          Rarity: 'Common',
+          Name: "Safety_Goggles",
+          Rarity: "Common",
         },
       },
+*/
       Rebar_Cutter: {
-        postAdd: {Name: 'Wire_Cutters_01', Rarity: 'Common'},
+        postAdd: { Name: "Wire_Cutters_01", Rarity: "Common" },
       },
-      '1H_Metal_Pipe': [
+      "1H_Metal_Pipe": [
         {
-          Rarity: 'VeryRare',
+          contexts: ["Trash"],
+          Rarity: "ExtremelyRare",
+          postAdd: {
+            Name: "Padlock",
+            Rarity: "Rare",
+          },
         },
         {
-          contexts: ['Trash'],
-          Rarity: 'ExtremelyRare',
+          contexts: ["Workshop"],
+          Rarity: "Rare",
         },
       ],
 
       // food
 
       MRE_Cheeseburger: {
-        additionalMatches: ['MRE_Stew'],
-        Rarity: 'VeryRare',
+        additionalMatches: ["MRE_Stew"],
+        Rarity: "VeryRare",
         postAdd: {
-          Name: 'Spon',
-          Rarity: 'Uncommon',
+          Name: "Spon",
+          Rarity: "Uncommon",
         },
       },
+
+      /*      
       Tourniquet: {
-        Rarity: 'ExtremelyRare',
+        Rarity: "ExtremelyRare",
       },
+      */
+
       Nails_Package_Box: {
         postAdd: [
           {
-            Name: 'Bolts',
-            Rarity: 'Rare',
+            Name: "Bolts",
+            Rarity: "Rare",
           },
         ],
       },
       Bolts_Package_Box: {
         postAdd: [
           {
-            Name: 'Nails',
-            Rarity: 'Rare',
+            Name: "Nails",
+            Rarity: "Rare",
           },
         ],
       },
       Rager_Seat_FrontLeft_Item: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
       Rager_Seat_FrontRight_Item: {
-        Rarity: 'Rare',
+        Rarity: "Rare",
       },
     },
   },

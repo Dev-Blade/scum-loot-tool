@@ -1,11 +1,7 @@
 {
   "FixedItems": [
-    "Magazine_AS_Val",
-    "Magazine_AS_Val",
-    "Magazine_AS_Val",
-    "Cal_9x39mm_Ammobox",
-    "Cal_9x39mm_Ammobox",
-    "Cal_9x39mm_Ammobox"
+    "Mine_02",
+    "Mine_01"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

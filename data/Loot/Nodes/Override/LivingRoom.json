@@ -1190,7 +1190,7 @@
                 },
                 {
                   "Name": "Thread",
-                  "Rarity": "Rare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "WineCork",
@@ -1391,6 +1391,10 @@
                     },
                     {
                       "Name": "Military_Backpack_01_03",
+                      "Rarity": "VeryRare"
+                    },
+                    {
+                      "Name": "Military_Backpack_01_01",
                       "Rarity": "VeryRare"
                     }
                   ],

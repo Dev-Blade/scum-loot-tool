@@ -750,10 +750,6 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -777,6 +773,10 @@
                 {
                   "Name": "Screwdriver_Small",
                   "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Padlock",
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"

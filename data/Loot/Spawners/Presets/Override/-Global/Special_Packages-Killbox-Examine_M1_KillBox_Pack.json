@@ -1,11 +1,14 @@
 {
   "FixedItems": [
-    "Weapon_MP5",
-    "Magazine_MP5",
-    "Cal_9mm_Ammobox",
-    "MP5_Rail_Short"
+    "BowSilencer_SlipOn",
+    "BowSilencer_SlipOn",
+    "Recurve_Bow_70",
+    "Military_Quiver_01",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow"
   ],
-  "InitialDamage": 38,
+  "InitialDamage": 30,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "Cannabis_Seed_Bag"
+  ],
+  "InitialDamage": 42,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

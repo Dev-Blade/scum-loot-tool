@@ -1,12 +1,9 @@
 {
   "FixedItems": [
-    "Magazine_RPK",
-    "Magazine_RPK",
-    "Cal_7_62x39mm_Ammobox",
-    "Cal_7_62x39mm_Ammobox",
-    "Cal_7_62x39mm_Ammobox",
-    "Cal_7_62x39mm_Ammobox",
-    "Cal_7_62x39mm_Ammobox"
+    "Weapon_MP5",
+    "Magazine_MP5",
+    "Cal_9mm_Ammobox",
+    "MP5_Rail_Short"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

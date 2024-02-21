@@ -1,9 +1,0 @@
-{
-  "FixedItems": [
-    "C4_CircuitBoard"
-  ],
-  "InitialDamage": 24,
-  "RandomDamage": 15,
-  "InitialUsage": 0,
-  "RandomUsage": 0
-}

@@ -1,0 +1,12 @@
+{
+  "FixedItems": [
+    "Weapon_UMP45",
+    "Magazine_UMP45",
+    "Cal_45_Ammobox",
+    "WeaponSuppressor_45ACP"
+  ],
+  "InitialDamage": 43,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

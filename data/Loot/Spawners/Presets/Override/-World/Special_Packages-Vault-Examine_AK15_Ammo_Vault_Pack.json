@@ -1,11 +1,9 @@
 {
   "FixedItems": [
-    "Cal_7_62x39mm_Ammobox",
-    "Cal_7_62x39mm_Ammobox",
-    "Cal_7_62x39mm_Ammobox",
-    "Magazine_AK15",
-    "Magazine_AK15",
-    "Magazine_AK15"
+    "Weapon_VSS_VZ",
+    "WeaponScope_ACOG_01",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

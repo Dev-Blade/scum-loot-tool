@@ -1,0 +1,29 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Trash"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items.Clothes",
+        "ItemLootTreeNodes.LivingRoom.Other",
+        "ItemLootTreeNodes.LivingRoom.Items.Misc.Battery",
+        "ItemLootTreeNodes.LivingRoom.Items.Misc.Cigarettes",
+        "ItemLootTreeNodes.LivingRoom.Items.Misc.Fabric"
+      ]
+    }
+  ],
+  "Probability": 21,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 30,
+  "RandomDamage": 60,
+  "InitialUsage": 20,
+  "RandomUsage": 60
+}

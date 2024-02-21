@@ -1262,7 +1262,7 @@
                 },
                 {
                   "Name": "Flashbang",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Gun_Powder",
@@ -1469,11 +1469,7 @@
                 },
                 {
                   "Name": "Weapon_Cleaning_Kit",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
+                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"

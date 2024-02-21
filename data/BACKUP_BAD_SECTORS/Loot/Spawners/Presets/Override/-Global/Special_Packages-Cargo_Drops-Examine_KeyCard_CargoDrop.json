@@ -1,0 +1,12 @@
+{
+  "FixedItems": [
+    "Paper"
+  ],
+  "InitialDamage": 10,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "KillboxKeycard_Cargo"
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "FixedItems": [
-    "Weapon_MP5",
-    "Magazine_MP5",
-    "Cal_9mm_Ammobox",
-    "MP5_Rail_Short"
+    "Weapon_VSS_VZ",
+    "WeaponScope_ACOG_01",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
-  "InitialDamage": 38,
+  "InitialDamage": 40,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

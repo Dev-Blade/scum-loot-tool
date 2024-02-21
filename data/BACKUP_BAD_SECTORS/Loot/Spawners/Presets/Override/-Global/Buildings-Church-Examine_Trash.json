@@ -1,0 +1,30 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Trash"
+      ]
+    }
+  ],
+  "Items": [
+    {
+      "Rarity": "Rare",
+      "Id": "Candle_01"
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 75,
+  "RandomDamage": 24,
+  "InitialUsage": 50,
+  "RandomUsage": 50,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash",
+    "SetAmmoAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

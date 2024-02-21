@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "Paper"
+  ],
+  "InitialDamage": 14,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -1,0 +1,16 @@
+{
+  "FixedItems": [
+    "Puppet_Eye",
+    "Recurve_Bow",
+    "Puppet_Eye",
+    "Puppet_Eye",
+    "School_Backpack_Girl_04",
+    "Feather",
+    "Feather",
+    "Feather"
+  ],
+  "InitialDamage": 30,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -1,0 +1,20 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.WW2.Clothes",
+        "ItemLootTreeNodes.WW2.FoodDrink"
+      ]
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 30,
+  "RandomDamage": 45,
+  "InitialUsage": 20,
+  "RandomUsage": 45
+}

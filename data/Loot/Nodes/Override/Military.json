@@ -1763,7 +1763,7 @@
                     },
                     {
                       "Name": "Stabproof",
-                      "Rarity": "Abundant",
+                      "Rarity": "Uncommon",
                       "Children": [
                         {
                           "Name": "Stabproof_Vest_01_01",
@@ -1916,7 +1916,7 @@
                   "Children": [
                     {
                       "Name": "M82s",
-                      "Rarity": "VeryRare",
+                      "Rarity": "ExtremelyRare",
                       "Children": [
                         {
                           "Name": "WeaponScope_M82A1",
@@ -1936,6 +1936,10 @@
                         },
                         {
                           "Name": "MRE_TunaSalad",
+                          "Rarity": "Uncommon"
+                        },
+                        {
+                          "Name": "Spon",
                           "Rarity": "Rare"
                         }
                       ],
@@ -2237,6 +2241,10 @@
                         {
                           "Name": "Military_Backpack_01_03",
                           "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -2255,6 +2263,10 @@
                         },
                         {
                           "Name": "Military_Backpack_01_03",
+                          "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
                           "Rarity": "VeryRare"
                         }
                       ],
@@ -2354,7 +2366,7 @@
                 },
                 {
                   "Name": "EMP_Grenade",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "FlareItem",
@@ -2373,7 +2385,7 @@
                 },
                 {
                   "Name": "Flashbang",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Frag_Grenade",
@@ -2401,6 +2413,18 @@
                 },
                 {
                   "Name": "Cal_9mm_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_45_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_50_AE_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_357_Ammobox_AP",
                   "Rarity": "ExtremelyRare"
                 }
               ],
@@ -2615,7 +2639,7 @@
                 },
                 {
                   "Name": "Geiger_Counter_Analogue",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Grinding_Stone_02",
@@ -2671,10 +2695,6 @@
                 {
                   "Name": "Round_Sunglasses",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2863,7 +2883,7 @@
             },
             {
               "Name": "LMGs",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Weapon_M249",
@@ -2889,28 +2909,16 @@
               "Rarity": "Rare",
               "Children": [
                 {
-                  "Name": "2H_Katana",
+                  "Name": "Compound_Bow",
                   "Rarity": "ExtremelyRare"
                 },
                 {
-                  "Name": "Compound_Bow",
-                  "Rarity": "VeryRare"
-                },
-                {
                   "Name": "Recurve_Bow_100",
-                  "Rarity": "Rare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Weapon_BlackHawk_Crossbow",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Recurve_Bow_70",
-                  "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "1H_Police_Baton",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2929,7 +2937,7 @@
                 },
                 {
                   "Name": "Weapon_Hunter85_V2",
-                  "Rarity": "Uncommon"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_M1_Garand",
@@ -3007,10 +3015,6 @@
                 {
                   "Name": "Weapon_DT11B",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "1H_Shuriken",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -3056,10 +3060,6 @@
                 },
                 {
                   "Name": "Weapon_DT11B_Sawed_Off",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Weapon_DT11B",
                   "Rarity": "VeryRare"
                 }
               ],

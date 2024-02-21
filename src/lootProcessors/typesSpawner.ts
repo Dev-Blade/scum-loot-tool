@@ -1,4 +1,4 @@
-import {RarityType} from './typesCommon';
+import { RarityType } from "./typesCommon";
 
 export type ItemType = {
   Rarity: RarityType;
@@ -57,9 +57,11 @@ export interface SpawnerFilterPropertyType {
   QuantityMinMultiplier?: number;
   QuantityMaxMultiplier?: number;
 
+  ShouldFilterItemsByZone?: boolean;
+
   AllowDuplicates?: boolean;
 
-  postSpawnActionsMode?: 'overwrite' | 'add';
+  postSpawnActionsMode?: "overwrite" | "add";
   postSpawnActions?: Array<string>;
 }
 export interface SpawnerFilterType {

@@ -1095,6 +1095,10 @@
                         {
                           "Name": "Military_Backpack_01_03",
                           "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1117,6 +1121,10 @@
                         },
                         {
                           "Name": "Military_Backpack_01_03",
+                          "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
                           "Rarity": "VeryRare"
                         }
                       ],
@@ -1345,11 +1353,7 @@
                         },
                         {
                           "Name": "Recurve_Bow_100",
-                          "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "1H_Police_Baton",
-                          "Rarity": "Common"
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1814,10 +1818,6 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "Abundant"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1908,11 +1908,11 @@
                 },
                 {
                   "Name": "Electrical_Repair_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Electrician_Tools",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Fuse_200A",
@@ -1947,7 +1947,7 @@
                 },
                 {
                   "Name": "1H_Metal_Pipe",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "1H_Wrench_Pipe",

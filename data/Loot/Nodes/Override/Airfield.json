@@ -88,7 +88,7 @@
             },
             {
               "Name": "Tourniquet",
-              "Rarity": "ExtremelyRare"
+              "Rarity": "VeryRare"
             },
             {
               "Name": "Vitamins_01",
@@ -237,7 +237,7 @@
             },
             {
               "Name": "Thread",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             }
           ],
           "ChildrenMergeMode": "Replace"
@@ -268,11 +268,11 @@
                 },
                 {
                   "Name": "Electrical_Repair_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Electrician_Tools",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Wire",
@@ -296,10 +296,6 @@
             {
               "Name": "Tool_Box_Small",
               "Rarity": "Rare"
-            },
-            {
-              "Name": "Safety_Goggles",
-              "Rarity": "Common"
             }
           ],
           "ChildrenMergeMode": "Replace"

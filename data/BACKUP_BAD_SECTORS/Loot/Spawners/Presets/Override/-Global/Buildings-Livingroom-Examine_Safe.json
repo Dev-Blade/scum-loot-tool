@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Other.Money"
+      ]
+    }
+  ],
+  "Probability": 7,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 30,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash"
+  ]
+}

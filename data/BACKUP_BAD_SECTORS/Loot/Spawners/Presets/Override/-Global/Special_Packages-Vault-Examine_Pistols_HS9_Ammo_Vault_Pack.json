@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Magazine_HS9",
+    "Magazine_HS9",
+    "Cal_9mm_Ammobox"
+  ],
+  "InitialDamage": 13,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

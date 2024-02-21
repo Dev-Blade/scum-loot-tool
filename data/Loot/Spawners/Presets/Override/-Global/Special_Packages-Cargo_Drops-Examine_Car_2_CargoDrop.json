@@ -2,7 +2,7 @@
   "FixedItems": [
     "Pine_Cone"
   ],
-  "InitialDamage": 34,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

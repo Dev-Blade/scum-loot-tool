@@ -5,7 +5,7 @@
     "Cal_45_Ammobox",
     "WeaponSuppressor_45ACP"
   ],
-  "InitialDamage": 19,
+  "InitialDamage": 29,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

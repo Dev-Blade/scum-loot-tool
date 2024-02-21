@@ -2,7 +2,7 @@
   "FixedItems": [
     "1H_Brass_knuckles"
   ],
-  "InitialDamage": 35,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

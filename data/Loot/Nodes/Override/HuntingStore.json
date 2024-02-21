@@ -1349,11 +1349,7 @@
                 },
                 {
                   "Name": "Recurve_Bow_100",
-                  "Rarity": "Rare"
-                },
-                {
-                  "Name": "1H_Police_Baton",
-                  "Rarity": "Common"
+                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2741,10 +2737,6 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2756,6 +2748,10 @@
                 {
                   "Name": "Grinding_Stone_02",
                   "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Weapon_Cleaning_Kit",
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Round_Sunglasses",
@@ -2828,6 +2824,10 @@
                         {
                           "Name": "Military_Backpack_01_03",
                           "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -2846,6 +2846,10 @@
                         },
                         {
                           "Name": "Military_Backpack_01_03",
+                          "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
                           "Rarity": "VeryRare"
                         }
                       ],
@@ -2945,11 +2949,11 @@
                 },
                 {
                   "Name": "Electrical_Repair_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Electrician_Tools",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Mobile_Phone",
@@ -3274,6 +3278,10 @@
                         },
                         {
                           "Name": "MRE_TunaSalad",
+                          "Rarity": "Uncommon"
+                        },
+                        {
+                          "Name": "Spon",
                           "Rarity": "Rare"
                         }
                       ],

@@ -1,0 +1,10 @@
+{
+  "FixedItems": [
+    "Long_wooden_stick",
+    "School_Backpack_Girl_04"
+  ],
+  "InitialDamage": 24,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

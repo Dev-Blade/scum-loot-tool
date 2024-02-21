@@ -1,13 +1,9 @@
 {
   "FixedItems": [
-    "Weapon_SF19",
-    "Magazine_SF19",
-    "Magazine_SF19",
-    "Magazine_SF19",
-    "Cal_9mm_Ammobox",
-    "Cal_9mm_Ammobox",
-    "WeaponSuppressor_Handgun",
-    "WeaponSights_Wasp"
+    "Weapon_AS_Val",
+    "WeaponSights_RedDot_CA401B",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

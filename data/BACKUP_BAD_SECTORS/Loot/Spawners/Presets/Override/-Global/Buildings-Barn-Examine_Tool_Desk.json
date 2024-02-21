@@ -1,0 +1,21 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Barn.Repair",
+        "ItemLootTreeNodes.Barn.Tools.Hand",
+        "ItemLootTreeNodes.Barn.Crafting"
+      ]
+    }
+  ],
+  "Probability": 21,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 15,
+  "RandomDamage": 75,
+  "InitialUsage": 10,
+  "RandomUsage": 75
+}

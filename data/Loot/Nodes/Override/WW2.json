@@ -716,7 +716,7 @@
                 },
                 {
                   "Name": "EMP_Grenade",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Flares",
@@ -731,7 +731,7 @@
                 },
                 {
                   "Name": "Flashbang",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Frag_Grenade",
@@ -756,6 +756,18 @@
                 {
                   "Name": "Cal_9mm_AP_Ammobox",
                   "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_45_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_50_AE_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_357_Ammobox_AP",
+                  "Rarity": "ExtremelyRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -777,7 +789,7 @@
                 },
                 {
                   "Name": "Rifles",
-                  "Rarity": "Rare",
+                  "Rarity": "VeryRare",
                   "Children": [
                     {
                       "Name": "M1_Clip",
@@ -875,15 +887,11 @@
                 },
                 {
                   "Name": "Weapon_Cleaning_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Round_Sunglasses",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -896,7 +904,7 @@
           "Children": [
             {
               "Name": "Handguns",
-              "Rarity": "Rare",
+              "Rarity": "Uncommon",
               "Children": [
                 {
                   "Name": "M1911s",
@@ -921,7 +929,7 @@
             },
             {
               "Name": "Other",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "2H_Katana",
@@ -933,7 +941,7 @@
                 },
                 {
                   "Name": "Recurve_Bow_100",
-                  "Rarity": "Rare"
+                  "Rarity": "Abundant"
                 },
                 {
                   "Name": "Weapon_BlackHawk_Crossbow",
@@ -942,21 +950,13 @@
                 {
                   "Name": "2H_Tang_Dao",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Recurve_Bow_70",
-                  "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "1H_Police_Baton",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
             },
             {
               "Name": "Rifles",
-              "Rarity": "Rare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Weapon_98k_Karabiner",

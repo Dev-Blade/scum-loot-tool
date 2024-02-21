@@ -1,14 +1,14 @@
 {
   "FixedItems": [
-    "Weapon_Deagle_357",
-    "Magazine_DEagle_357",
-    "Magazine_DEagle_357",
-    "Cal_357_Ammobox",
-    "Cal_357_Ammobox",
-    "WeaponFlashlight_DesertEagle",
-    "WeaponSights_Deagle_RedDot"
+    "Weapon_UMP45",
+    "Magazine_UMP45",
+    "Magazine_UMP45",
+    "Cal_45_Ammobox",
+    "Cal_45_Ammobox",
+    "WeaponSuppressor_45ACP",
+    "WeaponSights_RedDot_CA401B"
   ],
-  "InitialDamage": 12,
+  "InitialDamage": 30,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

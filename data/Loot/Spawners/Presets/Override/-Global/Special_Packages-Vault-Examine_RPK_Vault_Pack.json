@@ -1,11 +1,11 @@
 {
   "FixedItems": [
-    "Weapon_UMP45",
-    "Magazine_UMP45",
-    "Cal_45_Ammobox",
-    "WeaponSuppressor_45ACP"
+    "Weapon_VSS_VZ",
+    "WeaponScope_ACOG_01",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
-  "InitialDamage": 28,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

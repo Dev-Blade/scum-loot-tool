@@ -1,0 +1,13 @@
+{
+  "FixedItems": [
+    "C4_Keypad",
+    "C4_CircuitBoard"
+  ],
+  "InitialDamage": 30,
+  "RandomDamage": 15,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "KillboxKeycard_Sentry"
+  ]
+}

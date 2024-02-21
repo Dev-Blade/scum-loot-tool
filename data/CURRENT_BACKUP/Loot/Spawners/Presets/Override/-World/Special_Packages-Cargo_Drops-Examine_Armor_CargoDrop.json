@@ -1,0 +1,13 @@
+{
+  "FixedItems": [
+    "Military_Helmet_01_03",
+    "Stabproof_Vest_01_03"
+  ],
+  "InitialDamage": 0,
+  "RandomDamage": 0,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash"
+  ]
+}

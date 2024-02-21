@@ -4,7 +4,7 @@
     "WeaponFlashlight_M9",
     "Tactical_Handgun_Holster_02"
   ],
-  "InitialDamage": 40,
+  "InitialDamage": 12,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

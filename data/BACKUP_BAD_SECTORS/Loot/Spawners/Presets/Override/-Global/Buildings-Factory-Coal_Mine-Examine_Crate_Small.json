@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.CoalMine.Crafting",
+        "ItemLootTreeNodes.CoalMine.LightsFire",
+        "ItemLootTreeNodes.CoalMine.Tools.Hand",
+        "ItemLootTreeNodes.CoalMine.Repair"
+      ]
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 5,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

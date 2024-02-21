@@ -1,0 +1,24 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Trash"
+      ]
+    }
+  ],
+  "Probability": 14,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 75,
+  "RandomDamage": 24,
+  "InitialUsage": 50,
+  "RandomUsage": 50,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

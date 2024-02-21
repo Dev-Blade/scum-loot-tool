@@ -1,0 +1,35 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Clothes"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Clothes",
+        "ItemLootTreeNodes.Military.Gear.Backpacks",
+        "ItemLootTreeNodes.Observatory.Items",
+        "ItemLootTreeNodes.Military.Ammo.Tracers",
+        "ItemLootTreeNodes.Military.Gear.Tools.Sewing_kit",
+        "ItemLootTreeNodes.Observatory.Items.Misc"
+      ]
+    }
+  ],
+  "Probability": 14,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 22,
+  "RandomDamage": 77,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetAmmoAmount_SmallStash"
+  ]
+}

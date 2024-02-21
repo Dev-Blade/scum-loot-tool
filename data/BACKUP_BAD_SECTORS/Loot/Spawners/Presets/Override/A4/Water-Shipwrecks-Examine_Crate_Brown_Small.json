@@ -1,0 +1,27 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.Crafting",
+        "ItemLootTreeNodes.Workshop.Fishing",
+        "ItemLootTreeNodes.Workshop.LightsFire",
+        "ItemLootTreeNodes.Workshop.Other.Backpacks.WaistBags",
+        "ItemLootTreeNodes.Workshop.Other.Flares",
+        "ItemLootTreeNodes.Workshop.Tools.Hand",
+        "ItemLootTreeNodes.Workshop.Tools.Electrical",
+        "ItemLootTreeNodes.Workshop.Tools.Blades",
+        "ItemLootTreeNodes.Workshop.WorkClothes"
+      ]
+    }
+  ],
+  "Probability": 100,
+  "QuantityMin": 2,
+  "QuantityMax": 3,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 6,
+  "RandomDamage": 9,
+  "InitialUsage": 10,
+  "RandomUsage": 30
+}

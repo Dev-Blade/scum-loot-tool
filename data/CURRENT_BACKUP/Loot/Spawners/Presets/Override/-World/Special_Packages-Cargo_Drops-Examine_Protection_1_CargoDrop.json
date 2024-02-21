@@ -1,0 +1,13 @@
+{
+  "FixedItems": [
+    "Respirator_01",
+    "MMA_Glove_01"
+  ],
+  "InitialDamage": 0,
+  "RandomDamage": 0,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash"
+  ]
+}

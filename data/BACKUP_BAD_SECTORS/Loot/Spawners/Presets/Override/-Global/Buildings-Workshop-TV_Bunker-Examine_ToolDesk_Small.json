@@ -1,0 +1,24 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.Crafting",
+        "ItemLootTreeNodes.Workshop.LightsFire",
+        "ItemLootTreeNodes.Workshop.Tools.Hand",
+        "ItemLootTreeNodes.Workshop.Tools.Blades",
+        "ItemLootTreeNodes.Workshop.Tools.Electrical",
+        "ItemLootTreeNodes.Workshop.Tools.Power"
+      ]
+    }
+  ],
+  "Probability": 21,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 34,
+  "RandomDamage": 65,
+  "InitialUsage": 0,
+  "RandomUsage": 60
+}

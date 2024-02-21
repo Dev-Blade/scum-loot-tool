@@ -42,7 +42,7 @@
       ]
     }
   ],
-  "Probability": 11,
+  "Probability": 14,
   "QuantityMin": 1,
   "QuantityMax": 2,
   "AllowDuplicates": false,

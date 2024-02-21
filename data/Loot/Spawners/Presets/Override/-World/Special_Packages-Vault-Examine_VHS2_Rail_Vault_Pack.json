@@ -1,6 +1,9 @@
 {
   "FixedItems": [
-    "BaseExpansionKit_Lvl2"
+    "Weapon_AS_Val",
+    "WeaponSights_RedDot_CA401B",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

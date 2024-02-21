@@ -1,0 +1,40 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Puppet_Eye"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Weapon_M9"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Weapon_M9_Silver"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Magazine_M9"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_9mm"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "WeaponFlashlight_M9"
+    }
+  ],
+  "Probability": 30,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 10,
+  "RandomDamage": 20,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash"
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "FixedItems": [
-    "Lock_Security_Lvl3",
-    "Lock_Security_Lvl3",
-    "Lock_Security_Lvl3"
+    "Cal_338_Ammobox",
+    "Cal_338_Ammobox_AP",
+    "Cal_338_Ammobox_TR"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

@@ -1,14 +1,11 @@
 {
   "FixedItems": [
-    "BowSilencer_SlipOn",
-    "BowSilencer_SlipOn",
-    "Recurve_Bow_70",
-    "Military_Quiver_01",
-    "Carbon_BroadHead_Arrow",
-    "Carbon_BroadHead_Arrow",
-    "Carbon_BroadHead_Arrow"
+    "Weapon_AS_Val",
+    "WeaponSights_RedDot_CA401B",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
-  "InitialDamage": 27,
+  "InitialDamage": 22,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0

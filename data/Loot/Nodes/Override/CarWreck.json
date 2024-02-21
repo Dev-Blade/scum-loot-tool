@@ -1663,11 +1663,7 @@
                         },
                         {
                           "Name": "Recurve_Bow_100",
-                          "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "1H_Police_Baton",
-                          "Rarity": "Common"
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -2112,10 +2108,6 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "Rare"
-                },
-                {
-                  "Name": "Safety_Goggles",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2202,11 +2194,11 @@
                 },
                 {
                   "Name": "Electrical_Repair_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Electrician_Tools",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Mobile_Phone",

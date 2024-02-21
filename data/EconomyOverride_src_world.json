@@ -3949,7 +3949,7 @@
         {
           "tradeable-code": "WeaponScope_M82A1_Black",
           "base-purchase-price": "5500",
-          "base-sell-price": "2000",
+          "base-sell-price": "900",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3957,7 +3957,7 @@
         {
           "tradeable-code": "WeaponScope_M82A1_Desert",
           "base-purchase-price": "5500",
-          "base-sell-price": "2000",
+          "base-sell-price": "900",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3965,7 +3965,7 @@
         {
           "tradeable-code": "WeaponScope_M82A1_Snow",
           "base-purchase-price": "5500",
-          "base-sell-price": "2000",
+          "base-sell-price": "900",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3973,7 +3973,7 @@
         {
           "tradeable-code": "WeaponScope_Vampyr",
           "base-purchase-price": "6600",
-          "base-sell-price": "1000",
+          "base-sell-price": "600",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "450"
@@ -3981,7 +3981,7 @@
         {
           "tradeable-code": "WeaponScope_Dragunov",
           "base-purchase-price": "3300",
-          "base-sell-price": "1000",
+          "base-sell-price": "600",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "400"
@@ -3989,7 +3989,7 @@
         {
           "tradeable-code": "WeaponScope_POSP",
           "base-purchase-price": "4400",
-          "base-sell-price": "1000",
+          "base-sell-price": "500",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -3997,7 +3997,7 @@
         {
           "tradeable-code": "WeaponScope_ZF39",
           "base-purchase-price": "3300",
-          "base-sell-price": "1000",
+          "base-sell-price": "500",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4005,7 +4005,7 @@
         {
           "tradeable-code": "WeaponScope_M82A1",
           "base-purchase-price": "5500",
-          "base-sell-price": "2000",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4037,7 +4037,7 @@
         {
           "tradeable-code": "WeaponSights_Deagle_RedDot",
           "base-purchase-price": "1650",
-          "base-sell-price": "344",
+          "base-sell-price": "244",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "350"
@@ -4061,7 +4061,7 @@
         {
           "tradeable-code": "WeaponSights_MRO_Red_Dot",
           "base-purchase-price": "1650",
-          "base-sell-price": "344",
+          "base-sell-price": "244",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4101,7 +4101,7 @@
         {
           "tradeable-code": "WeaponSights_Sentry_RDRS",
           "base-purchase-price": "3000",
-          "base-sell-price": "290",
+          "base-sell-price": "240",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "250"
@@ -4109,7 +4109,7 @@
         {
           "tradeable-code": "WeaponSights_Wasp",
           "base-purchase-price": "3000",
-          "base-sell-price": "290",
+          "base-sell-price": "240",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "250"
@@ -4117,7 +4117,7 @@
         {
           "tradeable-code": "WeaponSights_Snake",
           "base-purchase-price": "3000",
-          "base-sell-price": "290",
+          "base-sell-price": "240",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "250"
@@ -4125,7 +4125,7 @@
         {
           "tradeable-code": "WeaponSights_Shark",
           "base-purchase-price": "3000",
-          "base-sell-price": "290",
+          "base-sell-price": "240",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "250"
@@ -4197,7 +4197,7 @@
         {
           "tradeable-code": "WeaponSuppressor_M82A1",
           "base-purchase-price": "5500",
-          "base-sell-price": "1000",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4205,7 +4205,7 @@
         {
           "tradeable-code": "WeaponSuppressor_M82A1_Desert",
           "base-purchase-price": "5500",
-          "base-sell-price": "1000",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4213,7 +4213,7 @@
         {
           "tradeable-code": "WeaponSuppressor_M82A1_Black",
           "base-purchase-price": "5500",
-          "base-sell-price": "1000",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -4221,7 +4221,7 @@
         {
           "tradeable-code": "WeaponSuppressor_M82A1_Snow",
           "base-purchase-price": "5500",
-          "base-sell-price": "1000",
+          "base-sell-price": "800",
           "delta-price": "-1.0",
           "can-be-purchased": "false",
           "required-famepoints": "-1"
@@ -13847,7 +13847,7 @@
         {
           "tradeable-code": "BaseExpansionKit_Lvl1",
           "base-purchase-price": "27200",
-          "base-sell-price": "9067",
+          "base-sell-price": "5000",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
@@ -13855,7 +13855,7 @@
         {
           "tradeable-code": "BaseExpansionKit_Lvl2",
           "base-purchase-price": "45400",
-          "base-sell-price": "15133",
+          "base-sell-price": "8000",
           "delta-price": "-1.0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"

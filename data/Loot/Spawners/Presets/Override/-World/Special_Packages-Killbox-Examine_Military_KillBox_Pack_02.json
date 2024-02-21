@@ -1,12 +1,6 @@
 {
   "FixedItems": [
-    "Weapon_UMP45",
-    "Magazine_UMP45",
-    "Magazine_UMP45",
-    "Cal_45_Ammobox",
-    "Cal_45_Ammobox",
-    "WeaponSuppressor_45ACP",
-    "WeaponSights_RedDot_CA401B"
+    "Cal_50BMG_AP_Ammobox"
   ],
   "InitialDamage": 0,
   "RandomDamage": 0,

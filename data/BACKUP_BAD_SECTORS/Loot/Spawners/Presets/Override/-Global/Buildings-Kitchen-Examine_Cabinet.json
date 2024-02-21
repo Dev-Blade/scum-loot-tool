@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Kitchen"
+      ]
+    }
+  ],
+  "Probability": 13,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 15,
+  "RandomDamage": 45,
+  "InitialUsage": 0,
+  "RandomUsage": 45,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash"
+  ]
+}

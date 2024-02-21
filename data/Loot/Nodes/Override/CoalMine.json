@@ -466,6 +466,10 @@
                         {
                           "Name": "Military_Backpack_01_03",
                           "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -484,6 +488,10 @@
                         },
                         {
                           "Name": "Military_Backpack_01_03",
+                          "Rarity": "VeryRare"
+                        },
+                        {
+                          "Name": "Military_Backpack_01_01",
                           "Rarity": "VeryRare"
                         }
                       ],
@@ -557,6 +565,18 @@
                 },
                 {
                   "Name": "Cal_9mm_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_45_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_50_AE_AP_Ammobox",
+                  "Rarity": "ExtremelyRare"
+                },
+                {
+                  "Name": "Cal_357_Ammobox_AP",
                   "Rarity": "ExtremelyRare"
                 }
               ],
@@ -636,11 +656,7 @@
                         },
                         {
                           "Name": "Recurve_Bow_100",
-                          "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "1H_Police_Baton",
-                          "Rarity": "Common"
+                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -713,10 +729,6 @@
             {
               "Name": "Round_Sunglasses",
               "Rarity": "VeryRare"
-            },
-            {
-              "Name": "Safety_Goggles",
-              "Rarity": "Common"
             }
           ],
           "ChildrenMergeMode": "Replace"

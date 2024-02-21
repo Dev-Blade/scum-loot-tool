@@ -1,0 +1,23 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Farm.Seeds.Seeds",
+        "ItemLootTreeNodes.Farm.Seeds.SeedBags"
+      ]
+    }
+  ],
+  "Probability": 8,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 15,
+  "RandomDamage": 75,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

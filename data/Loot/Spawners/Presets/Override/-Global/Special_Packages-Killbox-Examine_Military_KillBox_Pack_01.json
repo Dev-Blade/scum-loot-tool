@@ -1,14 +1,11 @@
 {
   "FixedItems": [
-    "Weapon_M9",
-    "Magazine_M9",
-    "Magazine_M9",
-    "Cal_9mm_Ammobox",
-    "Cal_9mm_Ammobox",
-    "WeaponFlashlight_M9",
-    "WeaponSuppressor_Handgun"
+    "Weapon_VSS_VZ",
+    "WeaponScope_ACOG_01",
+    "ScopeRail_AK47",
+    "WeaponFlashlight_AS_Val"
   ],
-  "InitialDamage": 43,
+  "InitialDamage": 10,
   "RandomDamage": 5,
   "InitialUsage": 0,
   "RandomUsage": 0
