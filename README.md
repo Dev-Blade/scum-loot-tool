@@ -124,7 +124,7 @@ sorry, not much documentation yet
 within your filter/rule use
 
 - additionalMatches
-- contexts - set it to a partial match string to apply only on nodes with that (parent) context, this is a powerful feature
+- contexts - set it to a partial match string to apply only on nodes with that (parent) contexts, this is a powerful feature
 - overrideName
 - override
 - Rarity - one of "Abundant" | "Uncommon" | "Rare" | "VeryRare" | "ExtremelyRare"
