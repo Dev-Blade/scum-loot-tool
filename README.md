@@ -123,8 +123,8 @@ sorry, not much documentation yet
 
 within your filter/rule use
 
-- additionalMatches
-- contexts - set it to a partial match string to apply only on nodes with that (parent) contexts, this is a powerful feature
+- additionalMatches - [] of matching strings, define where this rule should be applied additionally
+- contexts - partial match string to restrictively apply only on nodes with that (parent) contexts, this is a powerful feature
 - overrideName - replace the node name
 - override - { Name, Rarity ... } - completely replaces the node
 - Rarity - one of "Abundant" | "Uncommon" | "Rare" | "VeryRare" | "ExtremelyRare"
