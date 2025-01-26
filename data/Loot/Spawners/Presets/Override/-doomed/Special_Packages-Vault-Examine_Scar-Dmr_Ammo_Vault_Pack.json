@@ -1,0 +1,14 @@
+{
+  "FixedItems": [
+    "Magazine_SCAR_DMR",
+    "Magazine_SCAR_DMR",
+    "Magazine_SCAR_DMR",
+    "Cal_308_Ammobox",
+    "Cal_308_Ammobox",
+    "Cal_308_Ammobox"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -32,10 +32,6 @@
                 {
                   "Name": "Wool_Gloves_01_01",
                   "Rarity": "Rare"
-                },
-                {
-                  "Name": "Construction_Gloves_01_01",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -282,7 +278,7 @@
             },
             {
               "Name": "Duct_Tape",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             },
             {
               "Name": "Fabric",
@@ -305,7 +301,7 @@
             },
             {
               "Name": "Fluids",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "Rare",
               "Children": [
                 {
                   "Name": "Break_Oil",
@@ -339,7 +335,7 @@
               "Rarity": "ExtremelyRare",
               "Children": [
                 {
-                  "Name": "Paper",
+                  "Name": "Lock_Item_Advanced",
                   "Rarity": "ExtremelyRare"
                 },
                 {
@@ -347,7 +343,7 @@
                   "Rarity": "Rare"
                 },
                 {
-                  "Name": "Padlock",
+                  "Name": "Rubber_band",
                   "Rarity": "VeryRare"
                 }
               ],
@@ -575,7 +571,7 @@
                       "Name": "BigStash",
                       "Rarity": "Rare",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -644,7 +640,7 @@
                       "Name": "BigStash",
                       "Rarity": "Uncommon",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -712,7 +708,7 @@
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Cal_30-06_Ammobox_AP",
@@ -880,7 +876,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -918,7 +914,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -958,7 +954,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -992,7 +988,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -1030,7 +1026,7 @@
                       "Name": "BigStash",
                       "Rarity": "Uncommon",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -1102,7 +1098,7 @@
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Cal_22_Ammobox",
@@ -1255,7 +1251,7 @@
                       "Name": "BigStash",
                       "Rarity": "Uncommon",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -1327,7 +1323,7 @@
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Cal_22_Ammobox_TR",
@@ -1473,6 +1469,10 @@
                   ]
                 }
               ]
+            },
+            {
+              "Name": "Car_Radio_Item",
+              "Rarity": "Rare"
             },
             {
               "Name": "Flares",
@@ -1624,7 +1624,7 @@
                   "Children": [
                     {
                       "Name": "Compounds",
-                      "Rarity": "ExtremelyRare",
+                      "Rarity": "VeryRare",
                       "Children": [
                         {
                           "Name": "Compound_Bow",
@@ -1788,7 +1788,7 @@
                           "Children": [
                             {
                               "Name": "WeaponScope_HuntingScope",
-                              "Rarity": "Uncommon"
+                              "Rarity": "Rare"
                             },
                             {
                               "Name": "WW2s",
@@ -1810,7 +1810,7 @@
                         },
                         {
                           "Name": "Sights",
-                          "Rarity": "Rare",
+                          "Rarity": "ExtremelyRare",
                           "Children": [
                             {
                               "Name": "BowSights",
@@ -1893,6 +1893,10 @@
                               "Rarity": "VeryRare"
                             },
                             {
+                              "Name": "WeaponSuppressor_MAC10",
+                              "Rarity": "ExtremelyRare"
+                            },
+                            {
                               "Name": "WeaponSuppressor_MP5",
                               "Rarity": "ExtremelyRare"
                             }
@@ -1903,7 +1907,7 @@
                     },
                     {
                       "Name": "Magazines",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Common",
                       "Children": [
                         {
                           "Name": "AssaultRifles",
@@ -2046,17 +2050,14 @@
                     {
                       "Name": "2H_Katana1",
                       "Rarity": "ExtremelyRare"
-                    },
-                    {
-                      "Name": "1H_KitchenKnife_04",
-                      "Rarity": "ExtremelyRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
                 }
               ]
             }
-          ]
+          ],
+          "ChildrenMergeMode": "Replace"
         },
         {
           "Name": "RepairToolkits",
@@ -2064,7 +2065,7 @@
           "Children": [
             {
               "Name": "Car",
-              "Rarity": "VeryRare",
+              "Rarity": "Uncommon",
               "Children": [
                 {
                   "Name": "Car_Jack",
@@ -2084,15 +2085,7 @@
                 },
                 {
                   "Name": "Tire_Repair_Kit",
-                  "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "Bolts",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Nails",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2108,6 +2101,14 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "Rare"
+                },
+                {
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Glue",
+                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2123,10 +2124,6 @@
                 {
                   "Name": "Weapon_Cleaning_Kit",
                   "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Round_Sunglasses",
-                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2168,10 +2165,6 @@
                 {
                   "Name": "2H_Katana",
                   "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "1H_KitchenKnife_04",
-                  "Rarity": "ExtremelyRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2203,6 +2196,10 @@
                 {
                   "Name": "Mobile_Phone",
                   "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Motorbike_Battery",
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Smartphone_Battery",
@@ -2241,11 +2238,11 @@
                 },
                 {
                   "Name": "Lockpick_Advanced_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Lockpick_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Saw",
@@ -2268,7 +2265,7 @@
             },
             {
               "Name": "Power",
-              "Rarity": "VeryRare",
+              "Rarity": "ExtremelyRare",
               "Children": [
                 {
                   "Name": "Chainsaw",
@@ -2281,10 +2278,6 @@
                 {
                   "Name": "Rebar_Cutter",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Wire_Cutters_01",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"

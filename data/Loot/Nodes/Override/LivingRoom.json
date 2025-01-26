@@ -12,7 +12,7 @@
           "Children": [
             {
               "Name": "Alcoholic",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Absinthe",
@@ -625,6 +625,10 @@
                       "Rarity": "Common",
                       "Children": [
                         {
+                          "Name": "Bunny_Slippers",
+                          "Rarity": "Rare"
+                        },
+                        {
                           "Name": "Slippers_01",
                           "Rarity": "Rare"
                         },
@@ -676,7 +680,7 @@
                     },
                     {
                       "Name": "Medical_Glove_01",
-                      "Rarity": "VeryRare"
+                      "Rarity": "ExtremelyRare"
                     },
                     {
                       "Name": "RH_Arm_Guard",
@@ -684,18 +688,10 @@
                     },
                     {
                       "Name": "RubberGloves",
-                      "Rarity": "VeryRare",
+                      "Rarity": "ExtremelyRare",
                       "Children": [
                         {
                           "Name": "Electrician_Glove_01_01",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Wool_Gloves_01_01",
-                          "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "Construction_Gloves_01_01",
                           "Rarity": "Rare"
                         }
                       ],
@@ -711,14 +707,6 @@
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
-                    },
-                    {
-                      "Name": "Wool_Gloves_01_01",
-                      "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Construction_Gloves_01_01",
-                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -727,6 +715,10 @@
                   "Name": "Head",
                   "Rarity": "Rare",
                   "Children": [
+                    {
+                      "Name": "Beret_01",
+                      "Rarity": "Rare"
+                    },
                     {
                       "Name": "Caps",
                       "Rarity": "Uncommon",
@@ -999,10 +991,6 @@
                 {
                   "Name": "Crutch",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "1H_KitchenKnife_04",
-                  "Rarity": "ExtremelyRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1028,7 +1016,8 @@
                 },
                 {
                   "Name": "Bedroll",
-                  "Rarity": "VeryRare"
+                  "Rarity": "VeryRare",
+                  "PostSpawnActions": []
                 },
                 {
                   "Name": "Book_Cooking_BBQ",
@@ -1040,7 +1029,7 @@
                 },
                 {
                   "Name": "Christmas_Ball_01",
-                  "Rarity": "Common"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Cigarettes",
@@ -1082,7 +1071,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Fabric",
@@ -1121,7 +1110,7 @@
                     },
                     {
                       "Name": "Lockpick_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Safety_pin",
@@ -1135,7 +1124,7 @@
                   "Rarity": "Rare",
                   "Children": [
                     {
-                      "Name": "Paper",
+                      "Name": "Lock_Item_Advanced",
                       "Rarity": "ExtremelyRare"
                     },
                     {
@@ -1143,7 +1132,7 @@
                       "Rarity": "Rare"
                     },
                     {
-                      "Name": "Padlock",
+                      "Name": "Rubber_band",
                       "Rarity": "VeryRare"
                     },
                     {
@@ -1217,7 +1206,7 @@
                       "Name": "BigStash",
                       "Rarity": "Rare",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -1286,7 +1275,7 @@
                       "Name": "BigStash",
                       "Rarity": "Uncommon",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -1314,7 +1303,7 @@
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Cal_22_Ammobox",
@@ -1384,18 +1373,6 @@
                     {
                       "Name": "Hiking_Backpack_Tyrone",
                       "Rarity": "ExtremelyRare"
-                    },
-                    {
-                      "Name": "Military_Backpack_01_02",
-                      "Rarity": "VeryRare"
-                    },
-                    {
-                      "Name": "Military_Backpack_01_03",
-                      "Rarity": "VeryRare"
-                    },
-                    {
-                      "Name": "Military_Backpack_01_01",
-                      "Rarity": "VeryRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1463,10 +1440,6 @@
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
-                },
-                {
-                  "Name": "Waist_Bag_Small_02",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1499,7 +1472,7 @@
                     },
                     {
                       "Name": "Weapon_Judge44",
-                      "Rarity": "Common"
+                      "Rarity": "VeryRare"
                     },
                     {
                       "Name": "Weapon_Krueger",
@@ -1527,14 +1500,14 @@
                     },
                     {
                       "Name": "Weapon_Viper_M357",
-                      "Rarity": "Common"
+                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
                 },
                 {
                   "Name": "Magazines",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Common",
                   "Children": [
                     {
                       "Name": "Handguns",

@@ -1,0 +1,13 @@
+{
+  "FixedItems": [
+    "Magazine_AWP",
+    "Magazine_AWP",
+    "Cal_308_Ammobox",
+    "Cal_308_Ammobox_AP",
+    "Cal_308_Ammobox_TR"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

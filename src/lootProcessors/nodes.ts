@@ -139,6 +139,13 @@ export const processNodes = async () => {
                       parent.Children = removeDuplicates(parent.Children, 'Name');
                     }
                   }
+
+                  if (m.postSpawnActions) {
+                    if (!parent.PostSpawnActions) parent.PostSpawnActions = [];
+
+                    if (m.postSpawnActionsMode === 'overwrite') parent.PostSpawnActions = [...m.postSpawnActions];
+                    else parent.PostSpawnActions.push(...m.postSpawnActions);
+                  }
                 }
               }
             });

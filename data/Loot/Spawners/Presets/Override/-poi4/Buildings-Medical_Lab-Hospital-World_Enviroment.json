@@ -1,0 +1,42 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Hospital"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Trash"
+      ]
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Ids": [
+        "ItemLootTreeNodes.HuntingStore.Ammo.Hunting.12Gauge",
+        "ItemLootTreeNodes.HuntingStore.Ammo.Hunting.Regular",
+        "ItemLootTreeNodes.HuntingStore.Ammo.Handguns.Regular",
+        "ItemLootTreeNodes.HuntingStore.Firearms.Handguns",
+        "ItemLootTreeNodes.HuntingStore.Firearms.Shotguns",
+        "ItemLootTreeNodes.HuntingStore.Firearms.Rifles.Civilian",
+        "ItemLootTreeNodes.HuntingStore.LightsFire",
+        "ItemLootTreeNodes.HuntingStore.Melee"
+      ]
+    }
+  ],
+  "Probability": 3,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 10,
+  "RandomUsage": 45,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetCashAmount_SmallStash"
+  ]
+}

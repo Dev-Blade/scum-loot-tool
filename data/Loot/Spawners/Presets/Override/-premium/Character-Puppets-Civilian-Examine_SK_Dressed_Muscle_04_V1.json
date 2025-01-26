@@ -1,0 +1,79 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Marine_Cap_01"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Jeans_02_01_V2"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Tactical_Jacket_01_05"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Boots_07_01"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Tool_Box_Small"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Metal_Scrap_01"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Beer"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Wine"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Birthday_Cap_01"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Milk"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Whiskey"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Vodka"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Absinthe"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "BowSilencer"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "1H_Brass_knuckles"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "1H_Improvised_metal_knife"
+    }
+  ],
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 93,
+  "RandomDamage": 3,
+  "InitialUsage": 93,
+  "RandomUsage": 3,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_DeadPuppets"
+  ]
+}

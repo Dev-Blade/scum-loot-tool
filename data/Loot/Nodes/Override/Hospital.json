@@ -30,6 +30,10 @@
                   "Rarity": "Common",
                   "Children": [
                     {
+                      "Name": "Bunny_Slippers",
+                      "Rarity": "Rare"
+                    },
+                    {
                       "Name": "Slippers_01",
                       "Rarity": "Rare"
                     },
@@ -973,11 +977,11 @@
                     },
                     {
                       "Name": "Lockpick_Advanced_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Lockpick_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Saw",

@@ -18,7 +18,7 @@
                   "Name": "BigStash",
                   "Rarity": "Rare",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -87,7 +87,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -159,7 +159,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_30-06_Ammobox_AP",
@@ -481,7 +481,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -555,21 +555,13 @@
                     {
                       "Name": "FlareCartridge",
                       "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Cal_9mm_AP",
-                      "Rarity": "ExtremelyRare"
-                    },
-                    {
-                      "Name": "Cal_45_AP",
-                      "Rarity": "ExtremelyRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox",
@@ -720,14 +712,6 @@
                     {
                       "Name": "FlareCartridge",
                       "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Cal_9mm_AP",
-                      "Rarity": "ExtremelyRare"
-                    },
-                    {
-                      "Name": "Cal_45_AP",
-                      "Rarity": "ExtremelyRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -742,7 +726,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -818,7 +802,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox_TR",
@@ -1120,6 +1104,10 @@
                   "ChildrenMergeMode": "Replace"
                 },
                 {
+                  "Name": "Beret_01",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "BoonieHats",
                   "Rarity": "VeryRare",
                   "Children": [
@@ -1239,7 +1227,8 @@
                   ],
                   "ChildrenMergeMode": "Replace"
                 }
-              ]
+              ],
+              "ChildrenMergeMode": "Replace"
             },
             {
               "Name": "Legs",
@@ -1268,10 +1257,6 @@
                     {
                       "Name": "Ghillie_Suit_Pants_05",
                       "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Working_pants_01_01",
-                      "Rarity": "Uncommon"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1380,10 +1365,6 @@
                     {
                       "Name": "Ghillie_Suit_Jacket_05",
                       "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Raincoat_01",
-                      "Rarity": "Uncommon"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1424,7 +1405,7 @@
                 },
                 {
                   "Name": "Tactical_Vest_01",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "TacticalJackets",
@@ -1463,10 +1444,6 @@
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
-                },
-                {
-                  "Name": "Tactical_Gloves_01_01",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1697,10 +1674,6 @@
                       "Rarity": "Rare",
                       "Children": [
                         {
-                          "Name": "M1_Medical_Helmet",
-                          "Rarity": "VeryRare"
-                        },
-                        {
                           "Name": "Military_Helmet_01_01",
                           "Rarity": "Rare"
                         },
@@ -1711,22 +1684,6 @@
                         {
                           "Name": "Military_Helmet_01_05",
                           "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "K6-3_Helmet",
-                          "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "WW2_German_Helmet_01",
-                          "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "WeaponSuppressor_Handgun",
-                          "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "WeaponSuppressor_45ACP",
-                          "Rarity": "ExtremelyRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1736,26 +1693,22 @@
                 },
                 {
                   "Name": "Vests",
-                  "Rarity": "ExtremelyRare",
+                  "Rarity": "VeryRare",
                   "Children": [
                     {
                       "Name": "Ballistic",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Bulletproof_Vest_01",
-                          "Rarity": "VeryRare"
+                          "Rarity": "Rare"
                         },
                         {
                           "Name": "Bulletproof_Vest_01_03",
-                          "Rarity": "VeryRare"
+                          "Rarity": "Rare"
                         },
                         {
                           "Name": "Bulletproof_Vest_01_04",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Tactical_Gloves_01_01",
                           "Rarity": "Rare"
                         }
                       ],
@@ -1782,7 +1735,7 @@
                     },
                     {
                       "Name": "Tactical",
-                      "Rarity": "ExtremelyRare",
+                      "Rarity": "VeryRare",
                       "Children": [
                         {
                           "Name": "Armor_Tactical_Vest_01_01",
@@ -1795,10 +1748,6 @@
                         {
                           "Name": "Armor_Tactical_Vest_01_04",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Tactical_Gloves_01_01",
-                          "Rarity": "Rare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1916,7 +1865,7 @@
                   "Children": [
                     {
                       "Name": "M82s",
-                      "Rarity": "ExtremelyRare",
+                      "Rarity": "VeryRare",
                       "Children": [
                         {
                           "Name": "WeaponScope_M82A1",
@@ -1933,14 +1882,6 @@
                         {
                           "Name": "WeaponScope_M82A1_Snow",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "MRE_TunaSalad",
-                          "Rarity": "Uncommon"
-                        },
-                        {
-                          "Name": "Spon",
-                          "Rarity": "Rare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1955,7 +1896,7 @@
                     },
                     {
                       "Name": "WeaponScope_HuntingScope",
-                      "Rarity": "Uncommon"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "WeaponScope_POSP",
@@ -1966,8 +1907,12 @@
                       "Rarity": "Rare"
                     },
                     {
-                      "Name": "WeaponScope_Vampyr",
+                      "Name": "WeaponScope_Spektral_DR",
                       "Rarity": "Rare"
+                    },
+                    {
+                      "Name": "WeaponScope_Vampyr",
+                      "Rarity": "Common"
                     },
                     {
                       "Name": "WW2s",
@@ -1989,7 +1934,7 @@
                 },
                 {
                   "Name": "Sights",
-                  "Rarity": "Rare",
+                  "Rarity": "Common",
                   "Children": [
                     {
                       "Name": "BowSights",
@@ -2063,7 +2008,7 @@
                 },
                 {
                   "Name": "Suppressors",
-                  "Rarity": "Rare",
+                  "Rarity": "Uncommon",
                   "Children": [
                     {
                       "Name": "BowParts",
@@ -2163,6 +2108,10 @@
                       "Rarity": "VeryRare"
                     },
                     {
+                      "Name": "WeaponSuppressor_MAC10",
+                      "Rarity": "Rare"
+                    },
+                    {
                       "Name": "WeaponSuppressor_MK18",
                       "Rarity": "VeryRare"
                     },
@@ -2172,7 +2121,7 @@
                     },
                     {
                       "Name": "WeaponSuppressor_SVD",
-                      "Rarity": "VeryRare"
+                      "Rarity": "ExtremelyRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -2198,21 +2147,14 @@
                     {
                       "Name": "Military_Backpack_01_05",
                       "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Backpack_02_04",
-                      "Rarity": "Uncommon"
-                    },
-                    {
-                      "Name": "Backpack_02_05",
-                      "Rarity": "Uncommon"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
                 },
                 {
                   "Name": "Bedroll",
-                  "Rarity": "Uncommon"
+                  "Rarity": "Uncommon",
+                  "PostSpawnActions": []
                 },
                 {
                   "Name": "Hiking",
@@ -2233,18 +2175,6 @@
                         {
                           "Name": "Military_Backpack_02_05",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -2256,18 +2186,6 @@
                         {
                           "Name": "Hiking_Backpack_01_01",
                           "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -2326,10 +2244,6 @@
                     {
                       "Name": "Military_Quiver_01",
                       "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Waist_Bag_Small_02",
-                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -2354,7 +2268,7 @@
               "Children": [
                 {
                   "Name": "Cal_40_PG-7M",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Cal_40x46",
@@ -2385,11 +2299,11 @@
                 },
                 {
                   "Name": "Flashbang",
-                  "Rarity": "Rare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Frag_Grenade",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Gun_Powder",
@@ -2409,30 +2323,14 @@
                 },
                 {
                   "Name": "TNT",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_9mm_AP_Ammobox",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_45_AP_Ammobox",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_50_AE_AP_Ammobox",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_357_Ammobox_AP",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
             },
             {
               "Name": "Magazines",
-              "Rarity": "VeryRare",
+              "Rarity": "Rare",
               "Children": [
                 {
                   "Name": "AssaultRifles",
@@ -2487,7 +2385,7 @@
                     },
                     {
                       "Name": "Magazine_HS9",
-                      "Rarity": "Rare"
+                      "Rarity": "Uncommon"
                     },
                     {
                       "Name": "Magazine_M1911",
@@ -2534,6 +2432,10 @@
                     {
                       "Name": "Magazine_AS_Val",
                       "Rarity": "Rare"
+                    },
+                    {
+                      "Name": "Magazine_MAC10",
+                      "Rarity": "Uncommon"
                     },
                     {
                       "Name": "Magazine_MP5",
@@ -2600,11 +2502,11 @@
               "Children": [
                 {
                   "Name": "BCULock_Item",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Compass",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Compass_Advanced",
@@ -2612,7 +2514,7 @@
                 },
                 {
                   "Name": "DialLock_Item",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "GasMasks",
@@ -2643,7 +2545,7 @@
                 },
                 {
                   "Name": "Grinding_Stone_02",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Knives",
@@ -2678,11 +2580,11 @@
                 },
                 {
                   "Name": "MetalDetector",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Sewing_kit",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Tool_Box_Small",
@@ -2690,11 +2592,11 @@
                 },
                 {
                   "Name": "Weapon_Cleaning_Kit",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
-                  "Name": "Round_Sunglasses",
-                  "Rarity": "VeryRare"
+                  "Name": "Padlock",
+                  "Rarity": "Uncommon"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2738,10 +2640,14 @@
                 },
                 {
                   "Name": "Weapon_MK18",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_SCAR_DMR",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Weapon_SCAR_L",
                   "Rarity": "Rare"
                 },
                 {
@@ -2750,10 +2656,6 @@
                 },
                 {
                   "Name": "Weapon_VHS2_Rail",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Weapon_Krueger",
                   "Rarity": "VeryRare"
                 }
               ],
@@ -2787,11 +2689,11 @@
                   "Rarity": "Rare",
                   "Children": [
                     {
-                      "Name": "Weapon_Deagle_50",
+                      "Name": "Weapon_DEagle_50",
                       "Rarity": "Abundant"
                     },
                     {
-                      "Name": "Weapon_Deagle_357",
+                      "Name": "Weapon_DEagle_357",
                       "Rarity": "Abundant"
                     },
                     {
@@ -2845,7 +2747,7 @@
                   "Children": [
                     {
                       "Name": "Weapon_Judge44",
-                      "Rarity": "Common"
+                      "Rarity": "VeryRare"
                     },
                     {
                       "Name": "Weapon_PeaceKeeper38",
@@ -2857,7 +2759,7 @@
                     },
                     {
                       "Name": "Weapon_Viper_M357",
-                      "Rarity": "Common"
+                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -2883,23 +2785,15 @@
             },
             {
               "Name": "LMGs",
-              "Rarity": "VeryRare",
+              "Rarity": "ExtremelyRare",
               "Children": [
                 {
                   "Name": "Weapon_M249",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_RPK-74",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Weapon_M1887",
-                  "Rarity": "Rare"
-                },
-                {
-                  "Name": "Weapon_M1887_Sawed_off",
-                  "Rarity": "Rare"
+                  "Rarity": "ExtremelyRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -2909,12 +2803,16 @@
               "Rarity": "Rare",
               "Children": [
                 {
-                  "Name": "Compound_Bow",
+                  "Name": "2H_Katana",
                   "Rarity": "ExtremelyRare"
                 },
                 {
+                  "Name": "Compound_Bow",
+                  "Rarity": "Abundant"
+                },
+                {
                   "Name": "Recurve_Bow_100",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Common"
                 },
                 {
                   "Name": "Weapon_BlackHawk_Crossbow",
@@ -2933,11 +2831,11 @@
                 },
                 {
                   "Name": "Weapon_CarbonHunter",
-                  "Rarity": "Rare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Weapon_Hunter85_V2",
-                  "Rarity": "Rare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Weapon_M1_Garand",
@@ -2998,23 +2896,23 @@
                 },
                 {
                   "Name": "Weapon_AKS_74U",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_AS_Val",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Weapon_MAC10",
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_UMP45",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_VSS_VZ",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Weapon_DT11B",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -3056,10 +2954,6 @@
                 },
                 {
                   "Name": "Weapon_SVD_Dragunov",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Weapon_DT11B_Sawed_Off",
                   "Rarity": "VeryRare"
                 }
               ],

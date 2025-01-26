@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Police.Ammo",
+        "ItemLootTreeNodes.Police.Clothes",
+        "ItemLootTreeNodes.Police.FoodDrink",
+        "ItemLootTreeNodes.Police.Gear"
+      ]
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 12,
+  "RandomDamage": 36,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

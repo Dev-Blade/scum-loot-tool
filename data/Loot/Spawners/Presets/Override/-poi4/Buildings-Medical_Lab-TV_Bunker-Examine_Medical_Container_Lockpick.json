@@ -1,0 +1,29 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "PainKillers_03"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Emergency_bandage_Big"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Isopropyl_alcohol"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Antibiotics_03"
+    }
+  ],
+  "Probability": 30,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

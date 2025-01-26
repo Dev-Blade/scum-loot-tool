@@ -1,0 +1,45 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.CarRepairShop.Tools",
+        "ItemLootTreeNodes.CarRepairShop.Crafting",
+        "ItemLootTreeNodes.CarRepairShop.LightsFire"
+      ]
+    },
+    {
+      "Ids": [
+        "ItemLootTreeNodes.CarRepairShop.RepairToolkits"
+      ],
+      "Rarity": "Uncommon"
+    },
+    {
+      "Ids": [
+        "ItemLootTreeNodes.CarRepairShop.WorkClothes"
+      ],
+      "Rarity": "Uncommon"
+    },
+    {
+      "Ids": [
+        "ItemLootTreeNodes.Garage"
+      ],
+      "Rarity": "Uncommon"
+    },
+    {
+      "Ids": [
+        "ItemLootTreeNodes.FoodStore.Items.Misc"
+      ],
+      "Rarity": "Uncommon"
+    }
+  ],
+  "Probability": 8,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 69
+}

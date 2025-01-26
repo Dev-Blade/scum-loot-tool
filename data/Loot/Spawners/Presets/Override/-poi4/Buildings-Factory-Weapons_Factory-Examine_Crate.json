@@ -1,0 +1,29 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Weapons",
+        "ItemLootTreeNodes.Military.Ammo"
+      ]
+    }
+  ],
+  "Probability": 3,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash"
+  ]
+}

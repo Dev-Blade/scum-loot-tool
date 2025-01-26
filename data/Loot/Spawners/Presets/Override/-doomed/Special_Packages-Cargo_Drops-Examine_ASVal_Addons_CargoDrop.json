@@ -1,0 +1,16 @@
+{
+  "FixedItems": [
+    "Magazine_AS_Val",
+    "Magazine_AS_Val",
+    "Magazine_AS_Val",
+    "Cal_9x39mm_Ammobox",
+    "Cal_9x39mm_Ammobox",
+    "Cal_9x39mm_Ammobox",
+    "WeaponScope_POSP",
+    "WeaponFlashlight_AS_Val"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

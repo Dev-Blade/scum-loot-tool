@@ -1,0 +1,33 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Metal_Scrap_01"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Metal_Scrap_02"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Metal_Scrap_03"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Metal_Scrap_04"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Metal_Scrap_05"
+    }
+  ],
+  "Probability": 30,
+  "QuantityMin": 2,
+  "QuantityMax": 3,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 10,
+  "RandomUsage": 45
+}

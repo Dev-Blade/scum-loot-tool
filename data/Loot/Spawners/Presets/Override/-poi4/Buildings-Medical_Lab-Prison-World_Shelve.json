@@ -1,0 +1,35 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Pharmacy"
+      ]
+    },
+    {
+      "Rarity": "Common",
+      "Ids": [
+        "ItemLootTreeNodes.Pharmacy.Items"
+      ]
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Ids": [
+        "ItemLootTreeNodes.Pharmacy.Other"
+      ]
+    }
+  ],
+  "Probability": 3,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 10,
+  "RandomUsage": 45,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetCashAmount_SmallStash"
+  ]
+}

@@ -28,7 +28,7 @@
             },
             {
               "Name": "Duct_Tape",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             },
             {
               "Name": "Fabric",
@@ -58,7 +58,7 @@
               "Rarity": "Rare",
               "Children": [
                 {
-                  "Name": "Paper",
+                  "Name": "Lock_Item_Advanced",
                   "Rarity": "ExtremelyRare"
                 },
                 {
@@ -66,7 +66,7 @@
                   "Rarity": "Rare"
                 },
                 {
-                  "Name": "Padlock",
+                  "Name": "Rubber_band",
                   "Rarity": "VeryRare"
                 },
                 {
@@ -742,14 +742,6 @@
                 {
                   "Name": "Wire",
                   "Rarity": "Common"
-                },
-                {
-                  "Name": "Electrical_Repair_Kit",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Tool_Box_Small",
-                  "Rarity": "ExtremelyRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -764,11 +756,11 @@
                 },
                 {
                   "Name": "1H_Metal_Pipe",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Lockpick_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Screwdriver_Small",

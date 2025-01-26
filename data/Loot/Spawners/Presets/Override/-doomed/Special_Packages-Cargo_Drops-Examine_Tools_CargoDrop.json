@@ -1,0 +1,14 @@
+{
+  "FixedItems": [
+    "Tool_Box",
+    "Sledgehammer",
+    "1H_KitchenKnife",
+    "Nails_Package_Box",
+    "Bolts_Package_Box",
+    "2H_Axe"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

@@ -1,0 +1,18 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Abundant",
+      "Ids": [
+        "ItemLootTreeNodes.Trash.Crafting.Scrap"
+      ]
+    }
+  ],
+  "QuantityMin": 2,
+  "QuantityMax": 3,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -44,7 +44,7 @@
             },
             {
               "Name": "Duct_Tape",
-              "Rarity": "VeryRare"
+              "Rarity": "Uncommon"
             },
             {
               "Name": "Fabric",
@@ -67,7 +67,7 @@
             },
             {
               "Name": "Fluids",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "Uncommon",
               "Children": [
                 {
                   "Name": "Break_Oil",
@@ -102,7 +102,7 @@
             },
             {
               "Name": "Lockpick_Item",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             },
             {
               "Name": "Locks",
@@ -113,7 +113,7 @@
                   "Rarity": "Rare"
                 },
                 {
-                  "Name": "Padlock",
+                  "Name": "Rubber_band",
                   "Rarity": "VeryRare"
                 },
                 {
@@ -329,7 +329,7 @@
                       "Name": "BigStash",
                       "Rarity": "Rare",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -421,7 +421,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -459,7 +459,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -499,7 +499,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -533,7 +533,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -571,7 +571,7 @@
                       "Name": "BigStash",
                       "Rarity": "Rare",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -705,18 +705,6 @@
                         {
                           "Name": "Military_Backpack_02_05",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -731,18 +719,6 @@
                         },
                         {
                           "Name": "Hiking_Backpack_Tyrone",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
                           "Rarity": "VeryRare"
                         }
                       ],
@@ -799,7 +775,8 @@
             },
             {
               "Name": "Bedroll",
-              "Rarity": "Rare"
+              "Rarity": "Rare",
+              "PostSpawnActions": []
             },
             {
               "Name": "Flares",
@@ -916,7 +893,7 @@
                   "Children": [
                     {
                       "Name": "Compounds",
-                      "Rarity": "ExtremelyRare",
+                      "Rarity": "VeryRare",
                       "Children": [
                         {
                           "Name": "Compound_Bow",
@@ -1000,7 +977,7 @@
                   "Children": [
                     {
                       "Name": "Magazines",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Uncommon",
                       "Children": [
                         {
                           "Name": "Handguns",
@@ -1116,10 +1093,6 @@
                     {
                       "Name": "2H_Katana",
                       "Rarity": "ExtremelyRare"
-                    },
-                    {
-                      "Name": "1H_KitchenKnife_04",
-                      "Rarity": "ExtremelyRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1135,7 +1108,7 @@
           "Children": [
             {
               "Name": "Car",
-              "Rarity": "VeryRare",
+              "Rarity": "Uncommon",
               "Children": [
                 {
                   "Name": "Car_Repair_Kit",
@@ -1151,15 +1124,7 @@
                 },
                 {
                   "Name": "Tire_Repair_Kit",
-                  "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "Bolts",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Nails",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1175,6 +1140,14 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "Rare"
+                },
+                {
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Glue",
+                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1185,15 +1158,11 @@
               "Children": [
                 {
                   "Name": "Grinding_Stone_02",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Weapon_Cleaning_Kit",
                   "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Round_Sunglasses",
-                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1214,7 +1183,7 @@
                 },
                 {
                   "Name": "1H_Cleaver",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "1H_KitchenKnife",
@@ -1276,7 +1245,7 @@
                 },
                 {
                   "Name": "Lockpick_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Screwdriver",
@@ -1295,7 +1264,7 @@
             },
             {
               "Name": "Power",
-              "Rarity": "VeryRare",
+              "Rarity": "ExtremelyRare",
               "Children": [
                 {
                   "Name": "Drill",
@@ -1304,10 +1273,6 @@
                 {
                   "Name": "Rebar_Cutter",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Wire_Cutters_01",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1342,6 +1307,30 @@
                   "Rarity": "Uncommon"
                 },
                 {
+                  "Name": "Car_Radio_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Cruiser_Brakelight_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Cruiser_Headlight_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Cruiser_Wind_Deflector_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Dirtbike_Brakelight_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Dirtbike_Headlight_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
                   "Name": "Laika_Engine_Alternator_Item",
                   "Rarity": "Rare"
                 },
@@ -1362,6 +1351,10 @@
                   "Rarity": "Rare"
                 },
                 {
+                  "Name": "Motorbike_Battery",
+                  "Rarity": "Uncommon"
+                },
+                {
                   "Name": "Rager_Engine_Alternator_Item",
                   "Rarity": "Uncommon"
                 },
@@ -1380,6 +1373,30 @@
                 {
                   "Name": "Rager_Lights_RearRight",
                   "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Rager_Lights_RearTop",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "RIS_BrakeLight_Center_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "RIS_BrakeLight_Left_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "RIS_BrakeLight_Right_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "RIS_Headlight_Left_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "RIS_Headlight_Right_Item",
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "WW_Engine_Alternator_Item",
@@ -1434,11 +1451,59 @@
               "Rarity": "Uncommon",
               "Children": [
                 {
+                  "Name": "Cruiser_Fender_Front_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Cruiser_Fender_Rear_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Dirtbike_Body_Hellrider_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Dirtbike_Body_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Dirtbike_Fender_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Dirtbike_Front_Shield_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Dirtbike_Hellrider_Skull_Item",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "Laika_Bumper_Back_Item",
                   "Rarity": "Rare"
                 },
                 {
                   "Name": "Laika_Bumper_Front_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "RIS_Armor_Military_Front_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "RIS_Bars_Civilian_Back_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "RIS_Bars_Civilian_Front_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "RIS_Hand_Guards_Civilian_Item",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "RIS_Light_Shades_Civilian_Item",
                   "Rarity": "Rare"
                 },
                 {
@@ -1516,6 +1581,28 @@
               "Rarity": "Uncommon",
               "Children": [
                 {
+                  "Name": "Dirtbike",
+                  "Rarity": "Uncommon",
+                  "Children": [
+                    {
+                      "Name": "Dirtbike_Front_Wheel_Cover_Item",
+                      "Rarity": "Uncommon"
+                    }
+                  ],
+                  "ChildrenMergeMode": "Replace"
+                },
+                {
+                  "Name": "Quad",
+                  "Rarity": "Uncommon",
+                  "Children": [
+                    {
+                      "Name": "RIS_Wheel_Armor_Item",
+                      "Rarity": "Uncommon"
+                    }
+                  ],
+                  "ChildrenMergeMode": "Replace"
+                },
+                {
                   "Name": "Rager",
                   "Rarity": "Uncommon",
                   "Children": [
@@ -1568,6 +1655,14 @@
                   "Rarity": "Rare"
                 },
                 {
+                  "Name": "Cruiser_Wheel_155_66_R17",
+                  "Rarity": "Rare"
+                },
+                {
+                  "Name": "Cruiser_Wheel_188_53_R17",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "Dirtbike_Wheel_110_80_R19_Item",
                   "Rarity": "Rare"
                 },
@@ -1580,12 +1675,16 @@
                   "Rarity": "Rare"
                 },
                 {
+                  "Name": "Wheel_205_80_R12_Item",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "Wheel_255_55_R16_Item",
                   "Rarity": "Rare"
                 },
                 {
                   "Name": "Wheel_265_60_R18_Item",
-                  "Rarity": "Uncommon"
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1594,6 +1693,14 @@
               "Name": "Seats",
               "Rarity": "Rare",
               "Children": [
+                {
+                  "Name": "Cruiser_Seat_Front_Item",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Cruiser_Seat_Rear_Item",
+                  "Rarity": "Uncommon"
+                },
                 {
                   "Name": "Laika_Seat_FrontLeft_Item",
                   "Rarity": "Rare"
@@ -1604,11 +1711,11 @@
                 },
                 {
                   "Name": "Rager_Seat_FrontLeft_Item",
-                  "Rarity": "Rare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Rager_Seat_FrontRight_Item",
-                  "Rarity": "Rare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "WW_Seat_BackLeft_Item",
@@ -1703,15 +1810,7 @@
                     },
                     {
                       "Name": "Medical_Glove_01",
-                      "Rarity": "VeryRare"
-                    },
-                    {
-                      "Name": "Wool_Gloves_01_01",
-                      "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Construction_Gloves_01_01",
-                      "Rarity": "Rare"
+                      "Rarity": "ExtremelyRare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"

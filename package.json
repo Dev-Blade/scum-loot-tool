@@ -10,6 +10,7 @@
     "s": "npm run start sectors",
     "l": "npm run start spawners",
     "e": "npm run start economy",
+    "ffp": "npm run start ffp",
     "n": "npm run start nodes"
   },
   "dependencies": {

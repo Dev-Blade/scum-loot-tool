@@ -18,7 +18,7 @@
                   "Name": "BigStash",
                   "Rarity": "Rare",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -87,7 +87,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -111,7 +111,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_30-06_Ammobox_AP",
@@ -168,7 +168,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -192,7 +192,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_30-06_Ammobox",
@@ -249,7 +249,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -273,7 +273,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_30-06_Ammobox_TR",
@@ -588,11 +588,11 @@
                   "Children": [
                     {
                       "Name": "WW2",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "M1_Medical_Helmet",
-                          "Rarity": "Rare"
+                          "Rarity": "VeryRare"
                         },
                         {
                           "Name": "M1_Vietnam_Helmet",
@@ -609,7 +609,7 @@
                 },
                 {
                   "Name": "Vests",
-                  "Rarity": "ExtremelyRare",
+                  "Rarity": "VeryRare",
                   "Children": [
                     {
                       "Name": "Stabproof",
@@ -731,11 +731,11 @@
                 },
                 {
                   "Name": "Flashbang",
-                  "Rarity": "Rare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Frag_Grenade",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Gun_Powder",
@@ -752,29 +752,13 @@
                 {
                   "Name": "Smoke_Grenade",
                   "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "Cal_9mm_AP_Ammobox",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_45_AP_Ammobox",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_50_AE_AP_Ammobox",
-                  "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Cal_357_Ammobox_AP",
-                  "Rarity": "ExtremelyRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
             },
             {
               "Name": "Magazines",
-              "Rarity": "VeryRare",
+              "Rarity": "Uncommon",
               "Children": [
                 {
                   "Name": "Handguns",
@@ -789,7 +773,7 @@
                 },
                 {
                   "Name": "Rifles",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "M1_Clip",
@@ -817,11 +801,11 @@
               "Children": [
                 {
                   "Name": "Compass",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "GasMasks",
-                  "Rarity": "VeryRare",
+                  "Rarity": "ExtremelyRare",
                   "Children": [
                     {
                       "Name": "Gas_Mask_01",
@@ -844,7 +828,7 @@
                 },
                 {
                   "Name": "Grinding_Stone_02",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Head_Bags_01",
@@ -890,8 +874,12 @@
                   "Rarity": "VeryRare"
                 },
                 {
-                  "Name": "Round_Sunglasses",
-                  "Rarity": "VeryRare"
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Glue",
+                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -904,7 +892,7 @@
           "Children": [
             {
               "Name": "Handguns",
-              "Rarity": "Uncommon",
+              "Rarity": "Rare",
               "Children": [
                 {
                   "Name": "M1911s",
@@ -929,7 +917,7 @@
             },
             {
               "Name": "Other",
-              "Rarity": "VeryRare",
+              "Rarity": "ExtremelyRare",
               "Children": [
                 {
                   "Name": "2H_Katana",
@@ -956,7 +944,7 @@
             },
             {
               "Name": "Rifles",
-              "Rarity": "VeryRare",
+              "Rarity": "Rare",
               "Children": [
                 {
                   "Name": "Weapon_98k_Karabiner",

@@ -246,6 +246,7 @@ CarWreck.Other.ammo.Tracers.SmallStash.Cal_7_62x54mmR_TR,Uncommon,ExtremelyRare,
 CarWreck.Other.ammo.Tracers.SmallStash.Cal_7_92x57mm_TR,Uncommon,ExtremelyRare,VeryRare,VeryRare,Common,VeryRare
 CarWreck.Other.ammo.Tracers.SmallStash.Cal_9mm_TR,Uncommon,ExtremelyRare,VeryRare,VeryRare,Common,Common
 CarWreck.Other.ammo.Tracers.SmallStash.Cal_9x39mm_TR,Uncommon,ExtremelyRare,VeryRare,VeryRare,Common,Uncommon
+CarWreck.Other.Car_Radio_Item,Uncommon,ExtremelyRare,Rare
 CarWreck.Other.Flares.FlareItem,Uncommon,ExtremelyRare,Rare,Rare
 CarWreck.Other.FoodAndDrink.Cans.BakedBeans,Uncommon,ExtremelyRare,Rare,Uncommon,Rare
 CarWreck.Other.FoodAndDrink.Cans.BeefRavioli,Uncommon,ExtremelyRare,Rare,Uncommon,Rare
@@ -311,6 +312,7 @@ CarWreck.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponFlashHider,Un
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,VeryRare
+CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MAC10,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 CarWreck.Other.Weapons.Other.Magazines.AssaultRifles.Magazine_AK47,Uncommon,ExtremelyRare,ExtremelyRare,Rare,Common,ExtremelyRare,VeryRare
 CarWreck.Other.Weapons.Other.Magazines.AssaultRifles.Magazine_RPK,Uncommon,ExtremelyRare,ExtremelyRare,Rare,Common,ExtremelyRare,ExtremelyRare
@@ -355,6 +357,7 @@ CarWreck.tools.Electrical.Car_Battery_Cables,Uncommon,VeryRare,VeryRare,Rare
 CarWreck.tools.Electrical.Electrical_Repair_Kit,Uncommon,VeryRare,VeryRare,VeryRare
 CarWreck.tools.Electrical.Electrician_Tools,Uncommon,VeryRare,VeryRare,Rare
 CarWreck.tools.Electrical.Mobile_Phone,Uncommon,VeryRare,VeryRare,VeryRare
+CarWreck.tools.Electrical.Motorbike_Battery,Uncommon,VeryRare,VeryRare,Rare
 CarWreck.tools.Electrical.Smartphone_Battery,Uncommon,VeryRare,VeryRare,Rare
 CarWreck.tools.Electrical.Wire,Uncommon,VeryRare,VeryRare,Common
 CarWreck.tools.Electrical.Wire_Cutters_01,Uncommon,VeryRare,VeryRare,Uncommon

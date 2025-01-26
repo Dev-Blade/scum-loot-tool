@@ -19,6 +19,8 @@ export interface NodeFilterItemPropertyType {
   override?: Node;
   Rarity?: RarityType;
   postAdd?: Node | Array<Node>;
+  postSpawnActions?: string[];
+  postSpawnActionsMode?: 'overwrite' | 'add';
 }
 
 export interface NodeFilterContainerPropertyType {

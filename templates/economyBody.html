@@ -66,44 +66,54 @@
   <script>
     function myFunction(index) {
       // Declare variables
-      var input, filter, table, tr, td, i, txtValue;
-      input = document.getElementById("myInput" + index);
-      filter = input.value.toUpperCase();
-      table = document.getElementById("myTable");
 
-      sf = table.getElementsByClassName("search");
-      for (i = 0; i < sf.length; i++) {
-        if (sf[i].getAttribute("data-id") != index)
-          sf[i].value = "";
-      }
+      indexItem = 0;
+      indexAvailabilty = 3;
 
+      const filter = [];
+      filter[0] = document.getElementById("myInput" + indexItem).value.toUpperCase();
+      filter[3] = document.getElementById("myInput" + indexAvailabilty).value.toUpperCase();
 
-      tr = table.getElementsByTagName("tr");
+      console.log(filter)
+
+      const table = document.getElementById("myTable");
+      const tr = table.getElementsByTagName("tr");
 
       // Loop through all table rows, and hide those who don't match the search query
-      let lastTitle = undefined;
-      for (i = 2; i < tr.length; i++) { // skip first 2 rows
-        tr[i].style.display = "none";
+      let lastTitle = undefined, visible = 0;
+      for (let i = 2; i < tr.length; i++) { // skip first 2 rows
         // header row
         if (tr[i].classList.contains("header")) {
-          if (lastTitle && visible > 0)
-            lastTitle.style.display = "";
           visible = 0;
           lastTitle = tr[i];
         } else {
-          td = tr[i].getElementsByTagName("td")[index];
-          if (td) {
-            txtValue = td.textContent || td.innerText;
-            if (txtValue.toUpperCase().indexOf(filter) >= 0) {
-              tr[i].style.display = "";
-              visible++;
+          const tds = tr[i].getElementsByTagName("td");
+          let hits = 0
+          let needed = 0;
+          for (let j = 0; j < tds.length; j++) {
+            const td = tds[j];
+            if (td) {
+              let txtValue = td.textContent || td.innerText;
+              if (filter[j] !== undefined) {
+                needed++;
+                if (filter[j] === '' || txtValue.toUpperCase().indexOf(filter[j]) >= 0)
+                  hits++;
+              }
             }
           }
+          if (hits === needed) {
+            tr[i].style.display = "";
+            visible++;
+          } else
+            tr[i].style.display = "none";
+        }
+        if (lastTitle !== undefined) {
+          if (visible > 0)
+            lastTitle.style.display = "";
+          else
+            lastTitle.style.display = "none";
         }
       }
-      if (lastTitle && visible > 0)
-        lastTitle.style.display = "";
-
     }
   </script>
 
@@ -122,12 +132,12 @@
         <th>Fame Points needed</th>
       </tr>
       <tr>
-        <th><input data-id="0" type="text" class="search" id="myInput0" onkeyup="myFunction(0)"
+        <th><input data-id="0" type="text" class="search" id="myInput0" onkeyup="myFunction()"
             placeholder="Search for items..">
         </th>
         <th></th>
         <th></th>
-        <th><input data-id="3" type="text" class="search" id="myInput3" onkeyup="myFunction(3)"
+        <th><input data-id="3" type="text" class="search" id="myInput3" onkeyup="myFunction()"
             placeholder="Search for items..">
         </th>
         <th></th>

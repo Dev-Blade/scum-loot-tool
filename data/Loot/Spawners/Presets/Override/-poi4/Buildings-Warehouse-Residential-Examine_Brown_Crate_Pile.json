@@ -1,0 +1,19 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop"
+      ]
+    }
+  ],
+  "Probability": 6,
+  "QuantityMin": 1,
+  "QuantityMax": 3,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 75
+}

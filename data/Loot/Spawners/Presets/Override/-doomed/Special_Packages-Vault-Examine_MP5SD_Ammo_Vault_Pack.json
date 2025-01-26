@@ -1,0 +1,14 @@
+{
+  "FixedItems": [
+    "Magazine_MP5",
+    "Magazine_MP5",
+    "Magazine_MP5",
+    "Cal_9mm_Ammobox",
+    "Cal_9mm_Ammobox",
+    "Cal_9mm_Ammobox"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

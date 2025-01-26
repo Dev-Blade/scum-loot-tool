@@ -1,0 +1,19 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Farm.Seeds"
+      ]
+    }
+  ],
+  "Probability": 7,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 0,
+  "RandomDamage": 72,
+  "InitialUsage": 0,
+  "RandomUsage": 38
+}

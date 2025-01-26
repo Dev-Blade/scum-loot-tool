@@ -40,6 +40,7 @@ CarRepairShop.tools.Electrical.Car_Battery_Cables,Uncommon,Uncommon,Uncommon,Rar
 CarRepairShop.tools.Electrical.Electrical_Repair_Kit,Uncommon,Uncommon,Uncommon,Rare
 CarRepairShop.tools.Electrical.Electrician_Tools,Uncommon,Uncommon,Uncommon,Rare
 CarRepairShop.tools.Electrical.Mobile_Phone,Uncommon,Uncommon,Uncommon,VeryRare
+CarRepairShop.tools.Electrical.Motorbike_Battery,Uncommon,Uncommon,Uncommon,Rare
 CarRepairShop.tools.Electrical.Smartphone_Battery,Uncommon,Uncommon,Uncommon,VeryRare
 CarRepairShop.tools.Electrical.Wire,Uncommon,Uncommon,Uncommon,Abundant
 CarRepairShop.tools.Electrical.Wire_Cutters_01,Uncommon,Uncommon,Uncommon,Uncommon
@@ -63,6 +64,7 @@ CarRepairShop.WorkClothes.Head.Beanies.Beenie_01,Uncommon,VeryRare,VeryRare,Very
 CarRepairShop.WorkClothes.Head.Beanies.RK_Beanie_01,Uncommon,VeryRare,VeryRare,VeryRare,ExtremelyRare
 CarRepairShop.WorkClothes.Head.Caps.Baseball_Cap_13,Uncommon,VeryRare,VeryRare,Common,VeryRare
 CarRepairShop.WorkClothes.Head.Caps.Baseball_Cap_01,Uncommon,VeryRare,VeryRare,Common,Rare
+CarRepairShop.WorkClothes.Head.Caps.BP_HeadLamp,Uncommon,VeryRare,VeryRare,Common,Rare
 CarRepairShop.WorkClothes.Head.EarProtection.Ear_Plugs,Uncommon,VeryRare,VeryRare,Uncommon,Rare
 CarRepairShop.WorkClothes.Head.EarProtection.EarMuffs.Construction_Earmuffs_01,Uncommon,VeryRare,VeryRare,Uncommon,VeryRare,VeryRare
 CarRepairShop.WorkClothes.Head.Extreme_Helmet_01,Uncommon,VeryRare,VeryRare,ExtremelyRare

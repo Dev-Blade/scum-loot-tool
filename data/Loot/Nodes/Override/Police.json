@@ -18,7 +18,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -38,7 +38,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "12_Gauge_Birdshot_Ammobox",
@@ -87,7 +87,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -135,7 +135,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_357_Ammobox_AP",
@@ -240,7 +240,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -292,7 +292,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox",
@@ -405,7 +405,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -453,7 +453,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox_TR",
@@ -648,6 +648,10 @@
                   "ChildrenMergeMode": "Replace"
                 },
                 {
+                  "Name": "Beret_01",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "Caps",
                   "Rarity": "Common",
                   "Children": [
@@ -707,7 +711,8 @@
                   ],
                   "ChildrenMergeMode": "Replace"
                 }
-              ]
+              ],
+              "ChildrenMergeMode": "Replace"
             },
             {
               "Name": "Legs",
@@ -985,10 +990,6 @@
                       "ChildrenMergeMode": "Replace"
                     },
                     {
-                      "Name": "Police_Helmet_01",
-                      "Rarity": "Rare"
-                    },
-                    {
                       "Name": "Riot_Helmet_02",
                       "Rarity": "Rare"
                     }
@@ -997,7 +998,7 @@
                 },
                 {
                   "Name": "Vests",
-                  "Rarity": "ExtremelyRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Ballistic",
@@ -1006,10 +1007,6 @@
                         {
                           "Name": "Police_Bulletproof_Vest_01",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Tactical_Gloves_01_01",
-                          "Rarity": "Rare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1027,18 +1024,14 @@
                     },
                     {
                       "Name": "Tactical",
-                      "Rarity": "ExtremelyRare",
+                      "Rarity": "VeryRare",
                       "Children": [
                         {
                           "Name": "Armor_Police_Vest_01",
-                          "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "Tactical_Vest_01",
                           "Rarity": "VeryRare"
                         },
                         {
-                          "Name": "Tactical_Gloves_01_01",
+                          "Name": "Tactical_Vest_01",
                           "Rarity": "Rare"
                         }
                       ],
@@ -1117,12 +1110,12 @@
                   "Rarity": "VeryRare",
                   "Children": [
                     {
-                      "Name": "WeaponScope_ACOG_01",
+                      "Name": "WeaponScope_HuntingScope",
                       "Rarity": "Rare"
                     },
                     {
-                      "Name": "WeaponScope_HuntingScope",
-                      "Rarity": "Uncommon"
+                      "Name": "WeaponScope_Spektral_DR",
+                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1193,6 +1186,10 @@
                     {
                       "Name": "WeaponSuppressor_Handgun",
                       "Rarity": "Uncommon"
+                    },
+                    {
+                      "Name": "WeaponSuppressor_MAC10",
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "WeaponSuppressor_MK18",
@@ -1281,7 +1278,7 @@
             },
             {
               "Name": "Magazines",
-              "Rarity": "VeryRare",
+              "Rarity": "Uncommon",
               "Children": [
                 {
                   "Name": "AssaultRifles",
@@ -1358,6 +1355,10 @@
                       "Rarity": "Rare"
                     },
                     {
+                      "Name": "Magazine_MAC10",
+                      "Rarity": "Uncommon"
+                    },
+                    {
                       "Name": "Magazine_MP5",
                       "Rarity": "Uncommon"
                     },
@@ -1403,7 +1404,7 @@
                 },
                 {
                   "Name": "Compass",
-                  "Rarity": "ExtremelyRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "GasMasks",
@@ -1470,6 +1471,14 @@
                 {
                   "Name": "Weapon_Cleaning_Kit",
                   "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Glue",
+                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1485,20 +1494,43 @@
               "Rarity": "ExtremelyRare",
               "Children": [
                 {
-                  "Name": "1H_Dildo",
-                  "Rarity": "ExtremelyRare"
+                  "Name": "AKs",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Weapon_AK15",
+                      "Rarity": "VeryRare"
+                    },
+                    {
+                      "Name": "Weapon_AK47",
+                      "Rarity": "Rare"
+                    },
+                    {
+                      "Name": "Weapon_AK47_Engraved",
+                      "Rarity": "ExtremelyRare"
+                    },
+                    {
+                      "Name": "Weapon_AKM",
+                      "Rarity": "Rare"
+                    }
+                  ],
+                  "ChildrenMergeMode": "Replace"
                 },
                 {
-                  "Name": "Binoculars",
-                  "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "Weapon_M1887",
+                  "Name": "Weapon_M16A4",
                   "Rarity": "Rare"
                 },
                 {
-                  "Name": "Weapon_M1887_Sawed_off",
-                  "Rarity": "Rare"
+                  "Name": "Weapon_MK18",
+                  "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Weapon_SCAR_DMR",
+                  "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Weapon_SCAR_L",
+                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1512,11 +1544,11 @@
                   "Rarity": "Rare",
                   "Children": [
                     {
-                      "Name": "Weapon_Deagle_50",
+                      "Name": "Weapon_DEagle_50",
                       "Rarity": "Abundant"
                     },
                     {
-                      "Name": "Weapon_Deagle_357",
+                      "Name": "Weapon_DEagle_357",
                       "Rarity": "Abundant"
                     },
                     {
@@ -1574,7 +1606,7 @@
                 },
                 {
                   "Name": "Weapon_Judge44",
-                  "Rarity": "Common"
+                  "Rarity": "VeryRare"
                 },
                 {
                   "Name": "Weapon_PeaceKeeper38",
@@ -1590,7 +1622,7 @@
                 },
                 {
                   "Name": "Weapon_Viper_M357",
-                  "Rarity": "Common"
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1600,20 +1632,8 @@
               "Rarity": "ExtremelyRare",
               "Children": [
                 {
-                  "Name": "1H_Dildo",
+                  "Name": "Weapon_RPK-74",
                   "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Binoculars",
-                  "Rarity": "Uncommon"
-                },
-                {
-                  "Name": "Weapon_M1887",
-                  "Rarity": "Rare"
-                },
-                {
-                  "Name": "Weapon_M1887_Sawed_off",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1643,23 +1663,42 @@
             },
             {
               "Name": "SMGs",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "Rare",
               "Children": [
                 {
-                  "Name": "1H_Dildo",
-                  "Rarity": "ExtremelyRare"
+                  "Name": "MP5s",
+                  "Rarity": "VeryRare",
+                  "Children": [
+                    {
+                      "Name": "Weapon_MP5",
+                      "Rarity": "Common"
+                    },
+                    {
+                      "Name": "Weapon_MP5_K",
+                      "Rarity": "Rare"
+                    },
+                    {
+                      "Name": "Weapon_MP5_SD",
+                      "Rarity": "VeryRare"
+                    }
+                  ],
+                  "ChildrenMergeMode": "Replace"
                 },
                 {
-                  "Name": "Binoculars",
-                  "Rarity": "Uncommon"
+                  "Name": "Weapon_AKS_74U",
+                  "Rarity": "VeryRare"
                 },
                 {
-                  "Name": "Weapon_M1887",
+                  "Name": "Weapon_AS_Val",
+                  "Rarity": "VeryRare"
+                },
+                {
+                  "Name": "Weapon_MAC10",
                   "Rarity": "Rare"
                 },
                 {
-                  "Name": "Weapon_M1887_Sawed_off",
-                  "Rarity": "Rare"
+                  "Name": "Weapon_UMP45",
+                  "Rarity": "VeryRare"
                 }
               ],
               "ChildrenMergeMode": "Replace"

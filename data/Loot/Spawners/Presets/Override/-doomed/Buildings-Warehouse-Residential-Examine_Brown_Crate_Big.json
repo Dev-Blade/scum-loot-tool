@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.Crafting",
+        "ItemLootTreeNodes.Workshop.LightsFire",
+        "ItemLootTreeNodes.Workshop.Tools.Heavy",
+        "ItemLootTreeNodes.Workshop.WorkClothes"
+      ]
+    }
+  ],
+  "Probability": 5,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 75
+}

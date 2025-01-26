@@ -64,14 +64,6 @@
                     {
                       "Name": "Medical_Glove_01",
                       "Rarity": "VeryRare"
-                    },
-                    {
-                      "Name": "Wool_Gloves_01_01",
-                      "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Construction_Gloves_01_01",
-                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -997,11 +989,11 @@
                     },
                     {
                       "Name": "Lockpick_Advanced_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Lockpick_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Saw",

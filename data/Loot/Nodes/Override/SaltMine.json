@@ -123,14 +123,11 @@
                           "Rarity": "VeryRare"
                         }
                       ],
-                      "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
-                      ],
                       "ChildrenMergeMode": "Replace"
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "12_Gauge_Birdshot_Ammobox",
@@ -204,9 +201,6 @@
                                   "Rarity": "VeryRare"
                                 }
                               ],
-                              "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
-                              ],
                               "ChildrenMergeMode": "Replace"
                             },
                             {
@@ -234,9 +228,6 @@
                                   "Name": "Metal_BroadHead_Arrow",
                                   "Rarity": "VeryRare"
                                 }
-                              ],
-                              "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
                               ],
                               "ChildrenMergeMode": "Replace"
                             },
@@ -272,9 +263,6 @@
                                   "Rarity": "VeryRare"
                                 }
                               ],
-                              "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
-                              ],
                               "ChildrenMergeMode": "Replace"
                             },
                             {
@@ -302,9 +290,6 @@
                                   "Name": "Metal_Arrow",
                                   "Rarity": "VeryRare"
                                 }
-                              ],
-                              "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
                               ],
                               "ChildrenMergeMode": "Replace"
                             },
@@ -354,14 +339,11 @@
                           "Rarity": "VeryRare"
                         }
                       ],
-                      "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
-                      ],
                       "ChildrenMergeMode": "Replace"
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Cal_22_Ammobox",
@@ -444,18 +426,6 @@
                         {
                           "Name": "Military_Backpack_02_05",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -467,18 +437,6 @@
                         {
                           "Name": "Hiking_Backpack_01_01",
                           "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -533,10 +491,6 @@
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
-                },
-                {
-                  "Name": "Waist_Bag_Small_02",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -576,7 +530,7 @@
                   "Children": [
                     {
                       "Name": "Compounds",
-                      "Rarity": "ExtremelyRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Compound_Bow",
@@ -675,7 +629,7 @@
           "Children": [
             {
               "Name": "Grinding_Stone_02",
-              "Rarity": "VeryRare"
+              "Rarity": "Uncommon"
             },
             {
               "Name": "Tool_Box",
@@ -686,8 +640,12 @@
               "Rarity": "VeryRare"
             },
             {
-              "Name": "Round_Sunglasses",
-              "Rarity": "VeryRare"
+              "Name": "Wire_Cutters_01",
+              "Rarity": "Uncommon"
+            },
+            {
+              "Name": "Glue",
+              "Rarity": "Common"
             }
           ],
           "ChildrenMergeMode": "Replace"
@@ -718,11 +676,11 @@
                 },
                 {
                   "Name": "Lockpick_Advanced_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Lockpick_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Saw",

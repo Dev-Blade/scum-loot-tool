@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Magazine_M82A1",
+    "Cal_50BMG_Ammobox",
+    "WeaponSuppressor_M82A1"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

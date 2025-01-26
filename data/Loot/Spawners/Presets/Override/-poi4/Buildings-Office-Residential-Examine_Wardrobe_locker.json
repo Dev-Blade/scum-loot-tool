@@ -1,0 +1,24 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Items.Clothes"
+      ]
+    }
+  ],
+  "Probability": 6,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes",
+    "SetAmmoAmount_SmallStash"
+  ]
+}

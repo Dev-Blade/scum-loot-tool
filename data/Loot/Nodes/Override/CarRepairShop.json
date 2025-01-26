@@ -39,7 +39,7 @@
             },
             {
               "Name": "Fluids",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Break_Oil",
@@ -57,7 +57,7 @@
               "Rarity": "Rare",
               "Children": [
                 {
-                  "Name": "Paper",
+                  "Name": "Lock_Item_Advanced",
                   "Rarity": "ExtremelyRare"
                 },
                 {
@@ -65,7 +65,7 @@
                   "Rarity": "Rare"
                 },
                 {
-                  "Name": "Padlock",
+                  "Name": "Rubber_band",
                   "Rarity": "VeryRare"
                 },
                 {
@@ -221,7 +221,7 @@
           "Children": [
             {
               "Name": "Car",
-              "Rarity": "VeryRare",
+              "Rarity": "Common",
               "Children": [
                 {
                   "Name": "Car_Repair_Kit",
@@ -229,15 +229,7 @@
                 },
                 {
                   "Name": "Tire_Repair_Kit",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Bolts",
-                  "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Nails",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -253,6 +245,14 @@
                 {
                   "Name": "Tool_Box_Small",
                   "Rarity": "Rare"
+                },
+                {
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Uncommon"
+                },
+                {
+                  "Name": "Glue",
+                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -292,6 +292,10 @@
                   "Rarity": "VeryRare"
                 },
                 {
+                  "Name": "Motorbike_Battery",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "Smartphone_Battery",
                   "Rarity": "VeryRare"
                 },
@@ -328,11 +332,11 @@
                 },
                 {
                   "Name": "Lockpick_Advanced_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Lockpick_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Screwdriver",
@@ -351,7 +355,7 @@
             },
             {
               "Name": "Power",
-              "Rarity": "VeryRare",
+              "Rarity": "Rare",
               "Children": [
                 {
                   "Name": "Drill",
@@ -360,10 +364,6 @@
                 {
                   "Name": "Rebar_Cutter",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Wire_Cutters_01",
-                  "Rarity": "Common"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -434,14 +434,6 @@
                   "Children": [
                     {
                       "Name": "Electrician_Glove_01_01",
-                      "Rarity": "VeryRare"
-                    },
-                    {
-                      "Name": "Wool_Gloves_01_01",
-                      "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Construction_Gloves_01_01",
                       "Rarity": "Rare"
                     }
                   ],
@@ -478,6 +470,10 @@
                     },
                     {
                       "Name": "Baseball_Cap_01",
+                      "Rarity": "Rare"
+                    },
+                    {
+                      "Name": "BP_HeadLamp",
                       "Rarity": "Rare"
                     }
                   ],

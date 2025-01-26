@@ -1,0 +1,22 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Police.Weapons.SMGs",
+        "ItemLootTreeNodes.Police.Weapons.Handguns",
+        "ItemLootTreeNodes.Police.Weapons.Shotguns",
+        "ItemLootTreeNodes.Police.Weapons"
+      ]
+    }
+  ],
+  "Probability": 32,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

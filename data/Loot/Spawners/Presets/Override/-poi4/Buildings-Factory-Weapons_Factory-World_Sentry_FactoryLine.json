@@ -1,0 +1,28 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.RepairToolkits.General",
+        "ItemLootTreeNodes.Workshop.RepairToolkits.Weapons",
+        "ItemLootTreeNodes.Workshop.Tools",
+        "ItemLootTreeNodes.Workshop.WorkClothes"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Military"
+      ]
+    }
+  ],
+  "Probability": 11,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 30
+}

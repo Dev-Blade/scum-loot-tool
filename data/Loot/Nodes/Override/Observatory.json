@@ -18,7 +18,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -38,7 +38,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "12_Gauge_Birdshot_Ammobox",
@@ -87,7 +87,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -155,7 +155,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox_TR",
@@ -387,7 +387,7 @@
                           "Name": "BigStash",
                           "Rarity": "VeryRare",
                           "PostSpawnActions": [
-                            "SetAmmoAmount_SmallStash"
+                            "SetAmmoAmount_BigStash"
                           ],
                           "Children": [
                             {
@@ -425,7 +425,7 @@
                           "Name": "BigStash",
                           "Rarity": "VeryRare",
                           "PostSpawnActions": [
-                            "SetAmmoAmount_SmallStash"
+                            "SetAmmoAmount_BigStash"
                           ],
                           "Children": [
                             {
@@ -465,7 +465,7 @@
                           "Name": "BigStash",
                           "Rarity": "VeryRare",
                           "PostSpawnActions": [
-                            "SetAmmoAmount_SmallStash"
+                            "SetAmmoAmount_BigStash"
                           ],
                           "Children": [
                             {
@@ -499,7 +499,7 @@
                           "Name": "BigStash",
                           "Rarity": "VeryRare",
                           "PostSpawnActions": [
-                            "SetAmmoAmount_SmallStash"
+                            "SetAmmoAmount_BigStash"
                           ],
                           "Children": [
                             {
@@ -537,7 +537,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -609,7 +609,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox",
@@ -762,7 +762,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -834,7 +834,7 @@
                 },
                 {
                   "Name": "Boxed",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Cal_22_Ammobox_TR",
@@ -987,7 +987,7 @@
           "Children": [
             {
               "Name": "Alcoholic",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Absinthe",
@@ -1218,6 +1218,10 @@
                       "Rarity": "Rare",
                       "Children": [
                         {
+                          "Name": "Bunny_Slippers",
+                          "Rarity": "Rare"
+                        },
+                        {
                           "Name": "Christmas_Slippers",
                           "Rarity": "ExtremelyRare"
                         },
@@ -1268,14 +1272,6 @@
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
-                    },
-                    {
-                      "Name": "Wool_Gloves_01_01",
-                      "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Construction_Gloves_01_01",
-                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1500,7 +1496,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Fabric",
@@ -1550,7 +1546,7 @@
                     },
                     {
                       "Name": "Lockpick_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Safety_pin",
@@ -1564,7 +1560,7 @@
                   "Rarity": "Uncommon",
                   "Children": [
                     {
-                      "Name": "Paper",
+                      "Name": "Lock_Item_Advanced",
                       "Rarity": "ExtremelyRare"
                     },
                     {
@@ -1572,7 +1568,7 @@
                       "Rarity": "Rare"
                     },
                     {
-                      "Name": "Padlock",
+                      "Name": "Rubber_band",
                       "Rarity": "VeryRare"
                     },
                     {
@@ -1642,14 +1638,6 @@
                     {
                       "Name": "Military_Backpack_01_05",
                       "Rarity": "VeryRare"
-                    },
-                    {
-                      "Name": "Backpack_02_04",
-                      "Rarity": "Uncommon"
-                    },
-                    {
-                      "Name": "Backpack_02_05",
-                      "Rarity": "Uncommon"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -1677,18 +1665,6 @@
                         {
                           "Name": "Military_Backpack_02_05",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1700,18 +1676,6 @@
                         {
                           "Name": "Hiking_Backpack_01_01",
                           "Rarity": "Rare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -1782,10 +1746,6 @@
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
-                },
-                {
-                  "Name": "Waist_Bag_Small_02",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -1831,7 +1791,7 @@
               "Children": [
                 {
                   "Name": "Compounds",
-                  "Rarity": "ExtremelyRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "Compound_Bow",
@@ -2010,7 +1970,7 @@
                       "Children": [
                         {
                           "Name": "WeaponScope_HuntingScope",
-                          "Rarity": "Uncommon"
+                          "Rarity": "Rare"
                         },
                         {
                           "Name": "WW2s",
@@ -2032,7 +1992,7 @@
                     },
                     {
                       "Name": "Sights",
-                      "Rarity": "Rare",
+                      "Rarity": "ExtremelyRare",
                       "Children": [
                         {
                           "Name": "BowSights",
@@ -2115,6 +2075,10 @@
                           "Rarity": "VeryRare"
                         },
                         {
+                          "Name": "WeaponSuppressor_MAC10",
+                          "Rarity": "ExtremelyRare"
+                        },
+                        {
                           "Name": "WeaponSuppressor_MP5",
                           "Rarity": "ExtremelyRare"
                         }
@@ -2125,7 +2089,7 @@
                 },
                 {
                   "Name": "Magazines",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Rare",
                   "Children": [
                     {
                       "Name": "AssaultRifles",

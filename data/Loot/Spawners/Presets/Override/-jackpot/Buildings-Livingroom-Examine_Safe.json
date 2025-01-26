@@ -1,0 +1,28 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Common",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Other.Money"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.AmmoBoxes"
+      ]
+    }
+  ],
+  "Probability": 50,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 0,
+  "RandomDamage": 0,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetCashAmount_BigStash"
+  ]
+}

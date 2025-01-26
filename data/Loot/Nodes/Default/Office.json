@@ -243,6 +243,10 @@
 											"Rarity": "Rare",
 											"Children": [
 												{
+													"Name": "Bunny_Slippers",
+													"Rarity": "Rare"
+												},
+												{
 													"Name": "Slippers_01",
 													"Rarity": "Rare"
 												},
@@ -455,6 +459,10 @@
 											"Rarity": "Rare"
 										}
 									]
+								},
+								{
+									"Name": "Christmas_Ball_01",
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "Cigarettes",

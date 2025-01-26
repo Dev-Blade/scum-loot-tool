@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Lockpick_Advanced_Item",
+    "Lockpick_Advanced_Item",
+    "Lockpick_Advanced_Item"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

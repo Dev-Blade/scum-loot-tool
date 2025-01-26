@@ -1,0 +1,23 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.CarRepairShop.Crafting",
+        "ItemLootTreeNodes.CarRepairShop.LightsFire",
+        "ItemLootTreeNodes.CarRepairShop.Other.FoodAndDrink",
+        "ItemLootTreeNodes.CarRepairShop.Other.Flares"
+      ]
+    }
+  ],
+  "Probability": 5,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 95,
+  "RandomDamage": 4,
+  "InitialUsage": 65,
+  "RandomUsage": 65,
+  "RandomUsageMultiplier": 35
+}

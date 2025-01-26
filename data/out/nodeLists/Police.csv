@@ -111,6 +111,7 @@ Police.Clothes.Feet.Sportswear.HighTops.HighTop_Shoes,Uncommon,Rare,Rare,VeryRar
 Police.Clothes.Hands.Police_Gloves_01,Uncommon,Rare,Rare,Rare
 Police.Clothes.Hands.Police_Open_Finger_Gloves_01,Uncommon,Rare,Rare,VeryRare
 Police.Clothes.Head.Balaclavas.Police_Mask_01,Uncommon,Rare,Uncommon,Uncommon,Uncommon
+Police.Clothes.Head.Beret_01,Uncommon,Rare,Uncommon,Rare
 Police.Clothes.Head.Caps.Police_Beanie_01,Uncommon,Rare,Uncommon,Common,Rare
 Police.Clothes.Head.Caps.Police_Boonie_Hat_01,Uncommon,Rare,Uncommon,Common,Rare
 Police.Clothes.Head.Caps.Police_Cap_01,Uncommon,Rare,Uncommon,Common,Rare
@@ -164,7 +165,6 @@ Police.FoodDrink.Food.Snacks.Pastries.Toaster_Pastries,Uncommon,Rare,Uncommon,Ra
 Police.Gear.Armor.Helmets.Military.Military_Helmet_01_01,Uncommon,Uncommon,Rare,Rare,VeryRare,Rare
 Police.Gear.Armor.Helmets.Military.Military_Helmet_01_04,Uncommon,Uncommon,Rare,Rare,VeryRare,Rare
 Police.Gear.Armor.Helmets.Military.Military_Helmet_01_05,Uncommon,Uncommon,Rare,Rare,VeryRare,Rare
-Police.Gear.Armor.Helmets.Police_Helmet_01,Uncommon,Uncommon,Rare,Rare,Rare
 Police.Gear.Armor.Helmets.Riot_Helmet_02,Uncommon,Uncommon,Rare,Rare,Rare
 Police.Gear.Armor.Vests.Ballistic.Police_Bulletproof_Vest_01,Uncommon,Uncommon,Rare,Rare,VeryRare,VeryRare
 Police.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_09,Uncommon,Uncommon,Rare,Rare,Uncommon,Uncommon
@@ -178,8 +178,8 @@ Police.Gear.Attachments.Flashlights.WeaponFlashlight_DesertEagle,Uncommon,Uncomm
 Police.Gear.Attachments.Flashlights.WeaponFlashlight_M9,Uncommon,Uncommon,VeryRare,Rare,Uncommon
 Police.Gear.Attachments.Rails.MP5_Rail_Short,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Attachments.Rails.ScopeRail_AK47,Uncommon,Uncommon,VeryRare,Rare,Rare
-Police.Gear.Attachments.Scopes.WeaponScope_ACOG_01,Uncommon,Uncommon,VeryRare,VeryRare,Rare
 Police.Gear.Attachments.Scopes.WeaponScope_HuntingScope,Uncommon,Uncommon,VeryRare,VeryRare,Rare
+Police.Gear.Attachments.Scopes.WeaponScope_Spektral_DR,Uncommon,Uncommon,VeryRare,VeryRare,Rare
 Police.Gear.Attachments.Sights.WeaponSights_AimPRO,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Attachments.Sights.WeaponSights_Deagle_RedDot,Uncommon,Uncommon,VeryRare,Rare,Uncommon
 Police.Gear.Attachments.Sights.WeaponSights_M16A4_FoldingSights,Uncommon,Uncommon,VeryRare,Rare,Uncommon
@@ -194,6 +194,7 @@ Police.Gear.Attachments.Sights.WeaponSights_XPS300_Holographic,Uncommon,Uncommon
 Police.Gear.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Attachments.Suppressors.WeaponSuppressor_AK15,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,Uncommon,VeryRare,Rare,Uncommon
+Police.Gear.Attachments.Suppressors.WeaponSuppressor_MAC10,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Attachments.Suppressors.WeaponSuppressor_MK18,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,Uncommon,VeryRare,Rare,Rare
 Police.Gear.Backpacks.Plain.Backpack_02_01,Uncommon,Uncommon,ExtremelyRare,Rare,Uncommon
@@ -221,6 +222,7 @@ Police.Gear.Magazines.Handguns.Magazine_M9,Uncommon,Uncommon,Uncommon,Uncommon,U
 Police.Gear.Magazines.Handguns.Magazine_SF19,Uncommon,Uncommon,Uncommon,Uncommon,Rare
 Police.Gear.Magazines.SMGs.Magazine_AKS_74U,Uncommon,Uncommon,Uncommon,Rare,Rare
 Police.Gear.Magazines.SMGs.Magazine_AS_Val,Uncommon,Uncommon,Uncommon,Rare,Rare
+Police.Gear.Magazines.SMGs.Magazine_MAC10,Uncommon,Uncommon,Uncommon,Rare,Uncommon
 Police.Gear.Magazines.SMGs.Magazine_MP5,Uncommon,Uncommon,Uncommon,Rare,Uncommon
 Police.Gear.Magazines.SMGs.Magazine_UMP45,Uncommon,Uncommon,Uncommon,Rare,Uncommon
 Police.Gear.Optics.Binoculars,Uncommon,Uncommon,VeryRare,Rare
@@ -247,8 +249,9 @@ Police.Weapons.AssaultRifles.AKs.Weapon_AKM,Uncommon,ExtremelyRare,ExtremelyRare
 Police.Weapons.AssaultRifles.Weapon_M16A4,Uncommon,ExtremelyRare,ExtremelyRare,Rare
 Police.Weapons.AssaultRifles.Weapon_MK18,Uncommon,ExtremelyRare,ExtremelyRare,VeryRare
 Police.Weapons.AssaultRifles.Weapon_SCAR_DMR,Uncommon,ExtremelyRare,ExtremelyRare,VeryRare
-Police.Weapons.Handguns.DEagles.Weapon_Deagle_50,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
-Police.Weapons.Handguns.DEagles.Weapon_Deagle_357,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
+Police.Weapons.AssaultRifles.Weapon_SCAR_L,Uncommon,ExtremelyRare,ExtremelyRare,VeryRare
+Police.Weapons.Handguns.DEagles.Weapon_DEagle_50,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
+Police.Weapons.Handguns.DEagles.Weapon_DEagle_357,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
 Police.Weapons.Handguns.DEagles.Weapon_DEagle_50Gold,Uncommon,ExtremelyRare,Abundant,Rare,ExtremelyRare
 Police.Weapons.Handguns.M1911s.Weapon_M1911,Uncommon,ExtremelyRare,Abundant,Abundant,Abundant
 Police.Weapons.Handguns.M1911s.Weapon_M1911_Engraved,Uncommon,ExtremelyRare,Abundant,Abundant,VeryRare
@@ -273,4 +276,5 @@ Police.Weapons.SMGs.MP5s.Weapon_MP5_K,Uncommon,ExtremelyRare,Rare,VeryRare,Rare
 Police.Weapons.SMGs.MP5s.Weapon_MP5_SD,Uncommon,ExtremelyRare,Rare,VeryRare,VeryRare
 Police.Weapons.SMGs.Weapon_AKS_74U,Uncommon,ExtremelyRare,Rare,VeryRare
 Police.Weapons.SMGs.Weapon_AS_Val,Uncommon,ExtremelyRare,Rare,VeryRare
+Police.Weapons.SMGs.Weapon_MAC10,Uncommon,ExtremelyRare,Rare,Rare
 Police.Weapons.SMGs.Weapon_UMP45,Uncommon,ExtremelyRare,Rare,VeryRare

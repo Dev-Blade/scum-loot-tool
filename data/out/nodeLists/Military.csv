@@ -186,6 +186,7 @@ Military.Clothes.Head.Beanies.Military_Beanie_01,Uncommon,Rare,Abundant,Common,U
 Military.Clothes.Head.Beanies.Military_Beanie_04,Uncommon,Rare,Abundant,Common,Uncommon
 Military.Clothes.Head.Beanies.Military_Beanie_05,Uncommon,Rare,Abundant,Common,Uncommon
 Military.Clothes.Head.Beanies.RK_Beanie_01,Uncommon,Rare,Abundant,Common,ExtremelyRare
+Military.Clothes.Head.Beret_01,Uncommon,Rare,Abundant,Rare
 Military.Clothes.Head.BoonieHats.Military_Boonie_Hat_01,Uncommon,Rare,Abundant,VeryRare,Rare
 Military.Clothes.Head.BoonieHats.Military_Boonie_Hat_04,Uncommon,Rare,Abundant,VeryRare,Rare
 Military.Clothes.Head.BoonieHats.Military_Boonie_Hat_05,Uncommon,Rare,Abundant,VeryRare,Rare
@@ -270,16 +271,15 @@ Military.Gear.Armor.Helmets.Combat.Combat_Helmet_01,Uncommon,Uncommon,Rare,Rare,
 Military.Gear.Armor.Helmets.Combat.Combat_Helmet_03,Uncommon,Uncommon,Rare,Rare,VeryRare,VeryRare
 Military.Gear.Armor.Helmets.Combat.Combat_Helmet_04,Uncommon,Uncommon,Rare,Rare,VeryRare,VeryRare
 Military.Gear.Armor.Helmets.K6-3_Helmet,Uncommon,Uncommon,Rare,Rare,ExtremelyRare
-Military.Gear.Armor.Helmets.Military.M1_Medical_Helmet,Uncommon,Uncommon,Rare,Rare,Rare,VeryRare
 Military.Gear.Armor.Helmets.Military.Military_Helmet_01_01,Uncommon,Uncommon,Rare,Rare,Rare,Rare
 Military.Gear.Armor.Helmets.Military.Military_Helmet_01_04,Uncommon,Uncommon,Rare,Rare,Rare,Rare
 Military.Gear.Armor.Helmets.Military.Military_Helmet_01_05,Uncommon,Uncommon,Rare,Rare,Rare,Rare
 Military.Gear.Armor.Vests.Ballistic.Bulletproof_Vest_01,Uncommon,Uncommon,Rare,VeryRare,Rare,Rare
 Military.Gear.Armor.Vests.Ballistic.Bulletproof_Vest_01_03,Uncommon,Uncommon,Rare,VeryRare,Rare,Rare
 Military.Gear.Armor.Vests.Ballistic.Bulletproof_Vest_01_04,Uncommon,Uncommon,Rare,VeryRare,Rare,Rare
-Military.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_01,Uncommon,Uncommon,Rare,VeryRare,Abundant,Uncommon
-Military.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_04,Uncommon,Uncommon,Rare,VeryRare,Abundant,Uncommon
-Military.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_05,Uncommon,Uncommon,Rare,VeryRare,Abundant,Uncommon
+Military.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_01,Uncommon,Uncommon,Rare,VeryRare,Uncommon,Uncommon
+Military.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_04,Uncommon,Uncommon,Rare,VeryRare,Uncommon,Uncommon
+Military.Gear.Armor.Vests.Stabproof.Stabproof_Vest_01_05,Uncommon,Uncommon,Rare,VeryRare,Uncommon,Uncommon
 Military.Gear.Armor.Vests.Tactical.Armor_Tactical_Vest_01_01,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
 Military.Gear.Armor.Vests.Tactical.Armor_Tactical_Vest_01_03,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
 Military.Gear.Armor.Vests.Tactical.Armor_Tactical_Vest_01_04,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
@@ -308,6 +308,7 @@ Military.Gear.Attachments.Scopes.WeaponScope_Dragunov,Uncommon,Uncommon,Rare,Ver
 Military.Gear.Attachments.Scopes.WeaponScope_HuntingScope,Uncommon,Uncommon,Rare,VeryRare,Rare
 Military.Gear.Attachments.Scopes.WeaponScope_POSP,Uncommon,Uncommon,Rare,VeryRare,Rare
 Military.Gear.Attachments.Scopes.WeaponScope_PU,Uncommon,Uncommon,Rare,VeryRare,Rare
+Military.Gear.Attachments.Scopes.WeaponScope_Spektral_DR,Uncommon,Uncommon,Rare,VeryRare,Rare
 Military.Gear.Attachments.Scopes.WeaponScope_Vampyr,Uncommon,Uncommon,Rare,VeryRare,Common
 Military.Gear.Attachments.Scopes.WW2s.WeaponScope_ZF39,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
 Military.Gear.Attachments.Scopes.WW2s.WeaponSights_M1_ScopeAndSights,Uncommon,Uncommon,Rare,VeryRare,VeryRare,VeryRare
@@ -345,6 +346,7 @@ Military.Gear.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,Uncommon,R
 Military.Gear.Attachments.Suppressors.WeaponSuppressor_5_45x39,Uncommon,Uncommon,Rare,Uncommon,VeryRare
 Military.Gear.Attachments.Suppressors.WeaponSuppressor_AK15,Uncommon,Uncommon,Rare,Uncommon,Rare
 Military.Gear.Attachments.Suppressors.WeaponSuppressor_M1891,Uncommon,Uncommon,Rare,Uncommon,VeryRare
+Military.Gear.Attachments.Suppressors.WeaponSuppressor_MAC10,Uncommon,Uncommon,Rare,Uncommon,Rare
 Military.Gear.Attachments.Suppressors.WeaponSuppressor_MK18,Uncommon,Uncommon,Rare,Uncommon,VeryRare
 Military.Gear.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,Uncommon,Rare,Uncommon,Rare
 Military.Gear.Attachments.Suppressors.WeaponSuppressor_SVD,Uncommon,Uncommon,Rare,Uncommon,ExtremelyRare
@@ -396,6 +398,7 @@ Military.Gear.Magazines.Rifles.Magazine_CarbonHunter,Uncommon,Uncommon,Rare,Rare
 Military.Gear.Magazines.Rifles.Magazine_Hunter85_V2,Uncommon,Uncommon,Rare,Rare,Rare
 Military.Gear.Magazines.SMGs.Magazine_AKS_74U,Uncommon,Uncommon,Rare,Uncommon,Rare
 Military.Gear.Magazines.SMGs.Magazine_AS_Val,Uncommon,Uncommon,Rare,Uncommon,Rare
+Military.Gear.Magazines.SMGs.Magazine_MAC10,Uncommon,Uncommon,Rare,Uncommon,Uncommon
 Military.Gear.Magazines.SMGs.Magazine_MP5,Uncommon,Uncommon,Rare,Uncommon,Uncommon
 Military.Gear.Magazines.SMGs.Magazine_UMP45,Uncommon,Uncommon,Rare,Uncommon,Uncommon
 Military.Gear.Magazines.Snipers.Magazine_AWM,Uncommon,Uncommon,Rare,VeryRare,Rare
@@ -431,13 +434,14 @@ Military.Weapons.AssaultRifles.AKs.Weapon_AKM,Uncommon,ExtremelyRare,VeryRare,Un
 Military.Weapons.AssaultRifles.Weapon_M16A4,Uncommon,ExtremelyRare,VeryRare,Rare
 Military.Weapons.AssaultRifles.Weapon_MK18,Uncommon,ExtremelyRare,VeryRare,Rare
 Military.Weapons.AssaultRifles.Weapon_SCAR_DMR,Uncommon,ExtremelyRare,VeryRare,Uncommon
+Military.Weapons.AssaultRifles.Weapon_SCAR_L,Uncommon,ExtremelyRare,VeryRare,Rare
 Military.Weapons.AssaultRifles.Weapon_VHS2,Uncommon,ExtremelyRare,VeryRare,Rare
 Military.Weapons.AssaultRifles.Weapon_VHS2_Rail,Uncommon,ExtremelyRare,VeryRare,VeryRare
 Military.Weapons.GrenadeLaunchers.Weapon_AT4_HEAT,Uncommon,ExtremelyRare,ExtremelyRare,Uncommon
 Military.Weapons.GrenadeLaunchers.Weapon_RPG7,Uncommon,ExtremelyRare,ExtremelyRare,Uncommon
 Military.Weapons.GrenadeLaunchers.Weapon_VHS_BG,Uncommon,ExtremelyRare,ExtremelyRare,Rare
-Military.Weapons.Handguns.DEagles.Weapon_Deagle_50,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
-Military.Weapons.Handguns.DEagles.Weapon_Deagle_357,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
+Military.Weapons.Handguns.DEagles.Weapon_DEagle_50,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
+Military.Weapons.Handguns.DEagles.Weapon_DEagle_357,Uncommon,ExtremelyRare,Abundant,Rare,Abundant
 Military.Weapons.Handguns.DEagles.Weapon_DEagle_50Gold,Uncommon,ExtremelyRare,Abundant,Rare,ExtremelyRare
 Military.Weapons.Handguns.M1911s.Weapon_M1911,Uncommon,ExtremelyRare,Abundant,Common,Abundant
 Military.Weapons.Handguns.M1911s.Weapon_M1911_Engraved,Uncommon,ExtremelyRare,Abundant,Common,VeryRare
@@ -473,6 +477,7 @@ Military.Weapons.SMGs.MP5s.Weapon_MP5_K,Uncommon,ExtremelyRare,Rare,Rare,Rare
 Military.Weapons.SMGs.MP5s.Weapon_MP5_SD,Uncommon,ExtremelyRare,Rare,Rare,VeryRare
 Military.Weapons.SMGs.Weapon_AKS_74U,Uncommon,ExtremelyRare,Rare,Rare
 Military.Weapons.SMGs.Weapon_AS_Val,Uncommon,ExtremelyRare,Rare,Rare
+Military.Weapons.SMGs.Weapon_MAC10,Uncommon,ExtremelyRare,Rare,Rare
 Military.Weapons.SMGs.Weapon_UMP45,Uncommon,ExtremelyRare,Rare,Rare
 Military.Weapons.SMGs.Weapon_VSS_VZ,Uncommon,ExtremelyRare,Rare,Rare
 Military.Weapons.Snipers.M82A1s.Weapon_M82A1,Uncommon,ExtremelyRare,ExtremelyRare,VeryRare,VeryRare

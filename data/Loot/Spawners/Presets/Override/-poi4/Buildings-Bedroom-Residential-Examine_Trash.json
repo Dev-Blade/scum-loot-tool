@@ -1,0 +1,23 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items.Misc",
+        "ItemLootTreeNodes.LivingRoom.Items.Clothes"
+      ]
+    }
+  ],
+  "Probability": 5,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 95,
+  "RandomDamage": 40,
+  "InitialUsage": 20,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

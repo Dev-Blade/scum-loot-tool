@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "Weapon_AKS_74U"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

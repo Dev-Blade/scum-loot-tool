@@ -1,0 +1,17 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "SaltGrain"
+    }
+  ],
+  "Probability": 18,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

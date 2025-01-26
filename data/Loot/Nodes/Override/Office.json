@@ -12,7 +12,7 @@
           "Children": [
             {
               "Name": "Alcoholic",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Absinthe",
@@ -253,6 +253,10 @@
                       "Rarity": "Rare",
                       "Children": [
                         {
+                          "Name": "Bunny_Slippers",
+                          "Rarity": "Rare"
+                        },
+                        {
                           "Name": "Slippers_01",
                           "Rarity": "Rare"
                         },
@@ -294,14 +298,6 @@
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
-                    },
-                    {
-                      "Name": "Wool_Gloves_01_01",
-                      "Rarity": "Rare"
-                    },
-                    {
-                      "Name": "Construction_Gloves_01_01",
-                      "Rarity": "Rare"
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
@@ -488,6 +484,10 @@
                   "ChildrenMergeMode": "Replace"
                 },
                 {
+                  "Name": "Christmas_Ball_01",
+                  "Rarity": "Uncommon"
+                },
+                {
                   "Name": "Cigarettes",
                   "Rarity": "Rare",
                   "Children": [
@@ -527,7 +527,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Fabric",
@@ -577,7 +577,7 @@
                     },
                     {
                       "Name": "Lockpick_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "Rare"
                     },
                     {
                       "Name": "Safety_pin",
@@ -591,7 +591,7 @@
                   "Rarity": "Common",
                   "Children": [
                     {
-                      "Name": "Paper",
+                      "Name": "Lock_Item_Advanced",
                       "Rarity": "ExtremelyRare"
                     },
                     {
@@ -599,7 +599,7 @@
                       "Rarity": "Rare"
                     },
                     {
-                      "Name": "Padlock",
+                      "Name": "Rubber_band",
                       "Rarity": "VeryRare"
                     },
                     {
@@ -719,7 +719,7 @@
                           "Name": "BigStash",
                           "Rarity": "Uncommon",
                           "PostSpawnActions": [
-                            "SetAmmoAmount_SmallStash"
+                            "SetAmmoAmount_BigStash"
                           ],
                           "Children": [
                             {
@@ -835,7 +835,7 @@
                 },
                 {
                   "Name": "Magazines",
-                  "Rarity": "VeryRare",
+                  "Rarity": "Common",
                   "Children": [
                     {
                       "Name": "Magazine_Block21",

@@ -1,0 +1,24 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.CarWreck"
+      ]
+    }
+  ],
+  "Probability": 25,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 72,
+  "RandomDamage": 27,
+  "InitialUsage": 60,
+  "RandomUsage": 38,
+  "PostSpawnActions": [
+    "SetAmmoAmount_SmallStash",
+    "SetCashAmount_SmallStash",
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

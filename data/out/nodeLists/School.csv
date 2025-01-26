@@ -64,6 +64,7 @@ School.Items.Clothes.Feet.Shoes.LeatherShoes.Leather_Shoes,Uncommon,Uncommon,Ver
 School.Items.Clothes.Feet.Shoes.LeatherShoes.RH_Shoe_01,Uncommon,Uncommon,VeryRare,Uncommon,VeryRare,Rare,VeryRare
 School.Items.Clothes.Feet.Shoes.Sneakers.HighTop_Shoes,Uncommon,Uncommon,VeryRare,Uncommon,VeryRare,Common,Uncommon
 School.Items.Clothes.Feet.Shoes.Sneakers.Sneakers_02_01,Uncommon,Uncommon,VeryRare,Uncommon,VeryRare,Common,Uncommon
+School.Items.Clothes.Feet.Slippers.Bunny_Slippers,Uncommon,Uncommon,VeryRare,Uncommon,Rare,Rare
 School.Items.Clothes.Feet.Slippers.Christmas_Slippers,Uncommon,Uncommon,VeryRare,Uncommon,Rare,ExtremelyRare
 School.Items.Clothes.Feet.Slippers.Slippers_01,Uncommon,Uncommon,VeryRare,Uncommon,Rare,Rare
 School.Items.Clothes.Feet.Slippers.Slippers_03,Uncommon,Uncommon,VeryRare,Uncommon,Rare,Rare
@@ -88,7 +89,6 @@ School.Items.Misc.Battery.Batteries,Uncommon,Uncommon,Uncommon,Rare,Rare
 School.Items.Misc.Battery.Smartphone_Battery,Uncommon,Uncommon,Uncommon,Rare,Rare
 School.Items.Misc.Books.Book_Cooking_BBQ,Uncommon,Uncommon,Uncommon,VeryRare,Rare
 School.Items.Misc.Books.Diary,Uncommon,Uncommon,Uncommon,VeryRare,Rare
-School.Items.Misc.Christmas_Ball_01,Uncommon,Uncommon,Uncommon,Uncommon
 School.Items.Misc.Cigarettes.Cigarettes,Uncommon,Uncommon,Uncommon,Rare,Rare
 School.Items.Misc.Devices.BoomBox_01,Uncommon,Uncommon,Uncommon,Rare,VeryRare
 School.Items.Misc.Devices.Mobile_Phone,Uncommon,Uncommon,Uncommon,Rare,Rare

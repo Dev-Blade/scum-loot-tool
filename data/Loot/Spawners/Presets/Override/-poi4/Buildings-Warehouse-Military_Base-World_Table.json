@@ -1,0 +1,31 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Abundant",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Ammo"
+      ]
+    },
+    {
+      "Rarity": "Abundant",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Clothes"
+      ]
+    },
+    {
+      "Rarity": "Abundant",
+      "Ids": [
+        "ItemLootTreeNodes.Military.Gear"
+      ]
+    }
+  ],
+  "Probability": 3,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 30
+}

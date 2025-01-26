@@ -115,27 +115,31 @@
           "Children": [
             {
               "Name": "BCULock_Item",
-              "Rarity": "ExtremelyRare"
-            },
-            {
-              "Name": "DialLock_Item",
-              "Rarity": "ExtremelyRare"
-            },
-            {
-              "Name": "Geiger_Counter_Analogue",
               "Rarity": "VeryRare"
             },
             {
-              "Name": "Paper",
+              "Name": "DialLock_Item",
+              "Rarity": "VeryRare"
+            },
+            {
+              "Name": "Geiger_Counter_Analogue",
+              "Rarity": "Uncommon"
+            },
+            {
+              "Name": "Lock_Item_Advanced",
               "Rarity": "Uncommon"
             },
             {
               "Name": "Lockpick_Advanced_Item",
-              "Rarity": "VeryRare"
+              "Rarity": "Uncommon"
             },
             {
               "Name": "Smartphone_Battery",
               "Rarity": "Rare"
+            },
+            {
+              "Name": "Padlock",
+              "Rarity": "Uncommon"
             }
           ],
           "ChildrenMergeMode": "Replace"
@@ -162,11 +166,11 @@
             },
             {
               "Name": "Grinding_Stone_02",
-              "Rarity": "VeryRare"
+              "Rarity": "Uncommon"
             },
             {
               "Name": "MetalDetector",
-              "Rarity": "ExtremelyRare"
+              "Rarity": "Uncommon"
             },
             {
               "Name": "Screwdriver_Small",
@@ -182,11 +186,15 @@
             },
             {
               "Name": "Weapon_Cleaning_Kit",
-              "Rarity": "ExtremelyRare"
+              "Rarity": "Uncommon"
             },
             {
-              "Name": "Round_Sunglasses",
-              "Rarity": "VeryRare"
+              "Name": "Wire_Cutters_01",
+              "Rarity": "Uncommon"
+            },
+            {
+              "Name": "Glue",
+              "Rarity": "Common"
             }
           ],
           "ChildrenMergeMode": "Replace"

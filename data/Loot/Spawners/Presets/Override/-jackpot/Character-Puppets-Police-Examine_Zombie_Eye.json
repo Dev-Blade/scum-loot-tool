@@ -1,0 +1,112 @@
+{
+  "Items": [
+    {
+      "Rarity": "Abundant",
+      "Id": "Cash"
+    },
+    {
+      "Rarity": "Common",
+      "Id": "Cash"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cash"
+    },
+    {
+      "Rarity": "Rare",
+      "Id": "Puppet_Eye"
+    },
+    {
+      "Rarity": "Rare",
+      "Id": "Currant"
+    },
+    {
+      "Rarity": "Rare",
+      "Id": "Cigarettes"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "1H_Crowbar"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Fuse_600A"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "12_Gauge_Slug_Ammobox"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "1H_Bushman"
+    },
+    {
+      "Rarity": "Rare",
+      "Id": "Tangerine"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Rice"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_9mm_Ammobox"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_45_Ammobox"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_5_45x39mm_Ammobox"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_5_56x45mm_Ammobox"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_7_62x39mm_Ammobox"
+    },
+    {
+      "Rarity": "VeryRare",
+      "Id": "Cal_9x39mm_Ammobox"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Cal_7_62x54mmR_Ammobox"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Cal_7_92x57mm_Ammobox"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Cal_308_Ammobox"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Cal_338_Ammobox"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Cal_30-06_Ammobox"
+    },
+    {
+      "Rarity": "ExtremelyRare",
+      "Id": "Cal_40x46"
+    }
+  ],
+  "Probability": 75,
+  "QuantityMin": 2,
+  "QuantityMax": 2,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 0,
+  "RandomDamage": 0,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash"
+  ]
+}

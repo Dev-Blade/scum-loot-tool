@@ -1,0 +1,10 @@
+{
+  "FixedItems": [
+    "Cal_40x46",
+    "Cal_40x46"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

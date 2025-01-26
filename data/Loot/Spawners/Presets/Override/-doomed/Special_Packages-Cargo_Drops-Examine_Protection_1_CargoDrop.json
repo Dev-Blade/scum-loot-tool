@@ -1,0 +1,10 @@
+{
+  "FixedItems": [
+    "Respirator_01",
+    "Medical_Glove_01"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

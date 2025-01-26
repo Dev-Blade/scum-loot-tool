@@ -1,0 +1,17 @@
+{
+  "FixedItems": [
+    "Magazine_AK15",
+    "Magazine_AK15",
+    "Magazine_AK15",
+    "WeaponScope_ACOG_01",
+    "Cal_7_62x39mm_Ammobox",
+    "Cal_7_62x39mm_Ammobox",
+    "Cal_7_62x39mm_Ammobox",
+    "ScopeRail_AK47",
+    "WeaponScope_Spektral_DR"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

@@ -1,0 +1,25 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items",
+        "ItemLootTreeNodes.LivingRoom.Other"
+      ]
+    }
+  ],
+  "Probability": 4,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 75,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash",
+    "SetAmmoAmount_SmallStash",
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

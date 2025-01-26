@@ -33,6 +33,7 @@ Office.Items.Clothes.Feet.Shoes.LeatherShoes.Leather_Shoes,Uncommon,Abundant,Ver
 Office.Items.Clothes.Feet.Shoes.LeatherShoes.RH_Shoe_01,Uncommon,Abundant,VeryRare,Uncommon,VeryRare,Uncommon,VeryRare
 Office.Items.Clothes.Feet.Shoes.Sneakers.HighTop_Shoes,Uncommon,Abundant,VeryRare,Uncommon,VeryRare,Rare,Uncommon
 Office.Items.Clothes.Feet.Shoes.Sneakers.Sneakers_02_01,Uncommon,Abundant,VeryRare,Uncommon,VeryRare,Rare,Uncommon
+Office.Items.Clothes.Feet.Slippers.Bunny_Slippers,Uncommon,Abundant,VeryRare,Uncommon,Rare,Rare
 Office.Items.Clothes.Feet.Slippers.Slippers_01,Uncommon,Abundant,VeryRare,Uncommon,Rare,Rare
 Office.Items.Clothes.Feet.Slippers.Slippers_03,Uncommon,Abundant,VeryRare,Uncommon,Rare,Rare
 Office.Items.Clothes.Hands.DrivingGloves.Driving_Gloves_01_01,Uncommon,Abundant,VeryRare,VeryRare,Rare,Rare
@@ -63,6 +64,7 @@ Office.Items.Melee.1H_Scout_Black,Uncommon,Abundant,ExtremelyRare,Rare
 Office.Items.Melee.1H_Shuriken,Uncommon,Abundant,ExtremelyRare,Rare
 Office.Items.Misc.Battery.Batteries,Uncommon,Abundant,Uncommon,Rare,Rare
 Office.Items.Misc.Battery.Smartphone_Battery,Uncommon,Abundant,Uncommon,Rare,Rare
+Office.Items.Misc.Christmas_Ball_01,Uncommon,Abundant,Uncommon,Uncommon
 Office.Items.Misc.Cigarettes.Cigarettes,Uncommon,Abundant,Uncommon,Rare,Rare
 Office.Items.Misc.Cigarettes.Cuban_Cigar,Uncommon,Abundant,Uncommon,Rare,VeryRare
 Office.Items.Misc.Devices.BoomBox_01,Uncommon,Abundant,Uncommon,Rare,VeryRare

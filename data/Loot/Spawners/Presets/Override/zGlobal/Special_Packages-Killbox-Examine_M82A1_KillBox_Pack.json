@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Lock_Security_Lvl2",
+    "Lock_Security_Lvl2",
+    "Lock_Security_Lvl2"
+  ],
+  "InitialDamage": 0,
+  "RandomDamage": 10,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

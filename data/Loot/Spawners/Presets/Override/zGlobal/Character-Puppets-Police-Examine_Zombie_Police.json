@@ -1,0 +1,20 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.DeadPuppets.Police.Ammo",
+        "ItemLootTreeNodes.DeadPuppets.Police.Items"
+      ]
+    }
+  ],
+  "Probability": 35,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 95,
+  "RandomDamage": 10,
+  "InitialUsage": 80,
+  "RandomUsage": 19
+}

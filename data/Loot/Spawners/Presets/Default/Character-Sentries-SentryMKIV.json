@@ -8,7 +8,10 @@
 		"Frag_Grenade",
 		"TearGasGrenade",
 		"TearGasGrenade",
-		"KeyCard"
+		"KeyCard",
+		"Sentry_Aiming_Kit",
+		"Cal_50BMG_Ammobox",
+		"Cal_50BMG_Ammobox"
 	],
 	"InitialDamage": 20,
 	"RandomDamage": 10,

@@ -12,7 +12,7 @@
           "Children": [
             {
               "Name": "Alcoholic",
-              "Rarity": "ExtremelyRare",
+              "Rarity": "VeryRare",
               "Children": [
                 {
                   "Name": "Absinthe",
@@ -650,7 +650,7 @@
                 },
                 {
                   "Name": "1H_Cleaver",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "1H_KitchenKnife",
@@ -719,7 +719,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Fabric",

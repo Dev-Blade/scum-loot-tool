@@ -1,0 +1,31 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.CoalMine.Crafting",
+        "ItemLootTreeNodes.CoalMine.LightsFire",
+        "ItemLootTreeNodes.CoalMine.Other.Ammo",
+        "ItemLootTreeNodes.CoalMine.Other.Backpacks",
+        "ItemLootTreeNodes.CoalMine.Other.Flares",
+        "ItemLootTreeNodes.CoalMine.Other.Money",
+        "ItemLootTreeNodes.CoalMine.Other.Weapons",
+        "ItemLootTreeNodes.CoalMine.Repair",
+        "ItemLootTreeNodes.CoalMine.Tools",
+        "ItemLootTreeNodes.CoalMine.WorkClothes"
+      ]
+    }
+  ],
+  "Probability": 14,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 12,
+  "RandomDamage": 36,
+  "InitialUsage": 0,
+  "RandomUsage": 38,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_DirtyClothes"
+  ]
+}

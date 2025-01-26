@@ -209,6 +209,7 @@ Observatory.Food.Snacks.Pastries.Toaster_Pastries,Uncommon,Rare,Rare,Rare,Rare
 Observatory.Items.Clothes.Feet.HighTop_Shoes,Uncommon,Uncommon,VeryRare,Uncommon,Uncommon
 Observatory.Items.Clothes.Feet.Shoes.Leather_Shoes,Uncommon,Uncommon,VeryRare,Uncommon,VeryRare,Rare
 Observatory.Items.Clothes.Feet.Shoes.RH_Shoe_01,Uncommon,Uncommon,VeryRare,Uncommon,VeryRare,VeryRare
+Observatory.Items.Clothes.Feet.Slippers.Bunny_Slippers,Uncommon,Uncommon,VeryRare,Uncommon,Rare,Rare
 Observatory.Items.Clothes.Feet.Slippers.Christmas_Slippers,Uncommon,Uncommon,VeryRare,Uncommon,Rare,ExtremelyRare
 Observatory.Items.Clothes.Feet.Slippers.Slippers_01,Uncommon,Uncommon,VeryRare,Uncommon,Rare,Rare
 Observatory.Items.Clothes.Feet.Slippers.Slippers_03,Uncommon,Uncommon,VeryRare,Uncommon,Rare,Rare
@@ -332,6 +333,7 @@ Observatory.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponFlashHider,Uncom
 Observatory.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,ExtremelyRare
 Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,VeryRare
+Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MAC10,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Observatory.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Observatory.Weapons.Other.Magazines.AssaultRifles.Magazine_AK47,Uncommon,ExtremelyRare,Rare,Rare,ExtremelyRare,VeryRare
 Observatory.Weapons.Other.Magazines.AssaultRifles.Magazine_RPK,Uncommon,ExtremelyRare,Rare,Rare,ExtremelyRare,ExtremelyRare

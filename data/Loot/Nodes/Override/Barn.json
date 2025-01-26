@@ -133,7 +133,7 @@
                       "Name": "BigStash",
                       "Rarity": "Rare",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -225,7 +225,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -259,7 +259,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -299,7 +299,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -333,7 +333,7 @@
                               "Name": "BigStash",
                               "Rarity": "VeryRare",
                               "PostSpawnActions": [
-                                "SetAmmoAmount_SmallStash"
+                                "SetAmmoAmount_BigStash"
                               ],
                               "Children": [
                                 {
@@ -371,7 +371,7 @@
                       "Name": "BigStash",
                       "Rarity": "Uncommon",
                       "PostSpawnActions": [
-                        "SetAmmoAmount_SmallStash"
+                        "SetAmmoAmount_BigStash"
                       ],
                       "Children": [
                         {
@@ -399,7 +399,7 @@
                     },
                     {
                       "Name": "Boxed",
-                      "Rarity": "VeryRare",
+                      "Rarity": "Rare",
                       "Children": [
                         {
                           "Name": "Cal_22_Ammobox",
@@ -485,18 +485,6 @@
                         {
                           "Name": "Military_Backpack_02_05",
                           "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -512,18 +500,6 @@
                         {
                           "Name": "Hiking_Backpack_Tyrone",
                           "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_02",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_03",
-                          "Rarity": "VeryRare"
-                        },
-                        {
-                          "Name": "Military_Backpack_01_01",
-                          "Rarity": "VeryRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -533,10 +509,6 @@
                 {
                   "Name": "Knife_Sheath",
                   "Rarity": "VeryRare"
-                },
-                {
-                  "Name": "Military_Quiver_01",
-                  "Rarity": "ExtremelyRare"
                 },
                 {
                   "Name": "Plain",
@@ -578,10 +550,6 @@
                     }
                   ],
                   "ChildrenMergeMode": "Replace"
-                },
-                {
-                  "Name": "Waist_Bag_Small_02",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"
@@ -732,7 +700,7 @@
           "Children": [
             {
               "Name": "Grinding_Stone_02",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             },
             {
               "Name": "Tool_Box",
@@ -743,8 +711,16 @@
               "Rarity": "Rare"
             },
             {
-              "Name": "Round_Sunglasses",
-              "Rarity": "VeryRare"
+              "Name": "Geek_Goggels",
+              "Rarity": "Uncommon"
+            },
+            {
+              "Name": "Wire_Cutters_01",
+              "Rarity": "Uncommon"
+            },
+            {
+              "Name": "Glue",
+              "Rarity": "Common"
             }
           ],
           "ChildrenMergeMode": "Replace"
@@ -779,11 +755,11 @@
                 },
                 {
                   "Name": "Lockpick_Advanced_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Lockpick_Item",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Rare"
                 },
                 {
                   "Name": "Saw",

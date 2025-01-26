@@ -1,0 +1,19 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "ExtremelyRare",
+      "Ids": [
+        "ItemLootTreeNodes.Trash.Tools.Hand.1H_Metal_Pipe"
+      ]
+    }
+  ],
+  "Probability": 1,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 40,
+  "RandomDamage": 59,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

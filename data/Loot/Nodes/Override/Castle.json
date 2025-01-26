@@ -18,7 +18,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -76,7 +76,7 @@
                   "Name": "BigStash",
                   "Rarity": "Uncommon",
                   "PostSpawnActions": [
-                    "SetAmmoAmount_SmallStash"
+                    "SetAmmoAmount_BigStash"
                   ],
                   "Children": [
                     {
@@ -168,10 +168,6 @@
                 {
                   "Name": "Scottish_Sporran_Bag_01",
                   "Rarity": "ExtremelyRare"
-                },
-                {
-                  "Name": "Waist_Bag_Small_01",
-                  "Rarity": "Rare"
                 }
               ],
               "ChildrenMergeMode": "Replace"

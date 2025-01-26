@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "Weapon_RPG7"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

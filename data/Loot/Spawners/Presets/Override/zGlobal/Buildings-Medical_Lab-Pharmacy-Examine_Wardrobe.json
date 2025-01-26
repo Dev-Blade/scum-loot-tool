@@ -1,0 +1,26 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Pharmacy.Clothes"
+      ]
+    },
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.Office.Items.Misc",
+        "ItemLootTreeNodes.Office.Other.Weapons"
+      ]
+    }
+  ],
+  "Probability": 13,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 12,
+  "RandomDamage": 36,
+  "InitialUsage": 0,
+  "RandomUsage": 38
+}

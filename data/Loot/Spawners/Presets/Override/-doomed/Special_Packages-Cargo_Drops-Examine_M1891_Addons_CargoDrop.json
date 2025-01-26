@@ -1,0 +1,14 @@
+{
+  "FixedItems": [
+    "Cal_7_62x54mmR_Ammobox",
+    "Cal_7_62x54mmR_Ammobox",
+    "Cal_7_62x54mmR_Ammobox",
+    "WeaponSuppressor_M1891",
+    "WeaponScope_Dragunov",
+    "ImprovisedRail_Side"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

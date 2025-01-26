@@ -1,0 +1,23 @@
+{
+  "Items": [
+    {
+      "Rarity": "Abundant",
+      "Id": "Stone_Small"
+    },
+    {
+      "Rarity": "Common",
+      "Id": "Stone"
+    }
+  ],
+  "FixedItems": [
+    "Stone_Small"
+  ],
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

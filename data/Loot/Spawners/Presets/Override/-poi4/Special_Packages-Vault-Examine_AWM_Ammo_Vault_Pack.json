@@ -1,0 +1,12 @@
+{
+  "FixedItems": [
+    "Cal_338_Ammobox",
+    "Cal_338_Ammobox_AP",
+    "Cal_338_Ammobox_TR",
+    "Magazine_AWM"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

@@ -1,0 +1,9 @@
+{
+  "FixedItems": [
+    "2H_Katana"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

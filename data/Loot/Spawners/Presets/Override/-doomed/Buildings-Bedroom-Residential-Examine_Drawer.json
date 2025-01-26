@@ -1,0 +1,36 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Rare",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Other"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items.Clothes.Hands",
+        "ItemLootTreeNodes.LivingRoom.Items.Clothes.Head"
+      ]
+    },
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.LivingRoom.Items.Melee",
+        "ItemLootTreeNodes.LivingRoom.Items.Misc"
+      ]
+    }
+  ],
+  "Probability": 7,
+  "QuantityMin": 1,
+  "QuantityMax": 2,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 30,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "FixedItems": [
+    "Weapon_DEagle_357",
+    "WeaponFlashlight_DesertEagle",
+    "WeaponSights_Deagle_RedDot",
+    "Tactical_Handgun_Holster_03"
+  ],
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

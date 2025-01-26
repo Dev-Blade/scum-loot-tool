@@ -1,0 +1,19 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.FoodStore.Food.Snacks.NutsAndBerries.Hazelnuts"
+      ]
+    }
+  ],
+  "Probability": 5,
+  "QuantityMin": 2,
+  "QuantityMax": 4,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

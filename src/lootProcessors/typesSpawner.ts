@@ -1,4 +1,4 @@
-import { RarityType } from "./typesCommon";
+import {RarityType} from './typesCommon';
 
 export type ItemType = {
   Rarity: RarityType;
@@ -61,7 +61,7 @@ export interface SpawnerFilterPropertyType {
 
   AllowDuplicates?: boolean;
 
-  postSpawnActionsMode?: "overwrite" | "add";
+  postSpawnActionsMode?: 'overwrite' | 'add';
   postSpawnActions?: Array<string>;
 }
 export interface SpawnerFilterType {
@@ -71,6 +71,7 @@ export interface SpawnerFilterType {
 export interface SpawnersConfigType {
   pathSpawnersOverride: string;
   skipFilePatterns: Array<string>;
+  exportOnlyAffectedFiles: boolean;
   defaults: {
     defaultInitialMinDamage: number;
     defaultRandomMinDamage: number;

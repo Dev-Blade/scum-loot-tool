@@ -602,6 +602,10 @@
 											"Rarity": "Common",
 											"Children": [
 												{
+													"Name": "Bunny_Slippers",
+													"Rarity": "Rare"
+												},
+												{
 													"Name": "Slippers_01",
 													"Rarity": "Rare"
 												},
@@ -681,6 +685,10 @@
 									"Name": "Head",
 									"Rarity": "Rare",
 									"Children": [
+										{
+											"Name": "Beret_01",
+											"Rarity": "Rare"
+										},
 										{
 											"Name": "Caps",
 											"Rarity": "Uncommon",
@@ -963,7 +971,8 @@
 								},
 								{
 									"Name": "Bedroll",
-									"Rarity": "VeryRare"
+									"Rarity": "VeryRare",
+									"PostSpawnActions": []
 								},
 								{
 									"Name": "Book_Cooking_BBQ",
@@ -975,7 +984,7 @@
 								},
 								{
 									"Name": "Christmas_Ball_01",
-									"Rarity": "Common"
+									"Rarity": "Uncommon"
 								},
 								{
 									"Name": "Cigarettes",

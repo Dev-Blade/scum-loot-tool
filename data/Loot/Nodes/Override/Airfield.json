@@ -34,6 +34,10 @@
               "Rarity": "Uncommon",
               "Children": [
                 {
+                  "Name": "BP_HeadLamp",
+                  "Rarity": "Rare"
+                },
+                {
                   "Name": "Pilot_Glasses",
                   "Rarity": "Common"
                 },
@@ -134,7 +138,7 @@
             },
             {
               "Name": "Duct_Tape",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             },
             {
               "Name": "EmptyBag",
@@ -156,7 +160,7 @@
               "Rarity": "Rare"
             },
             {
-              "Name": "Paper",
+              "Name": "Lock_Item_Advanced",
               "Rarity": "ExtremelyRare"
             },
             {
@@ -164,7 +168,7 @@
               "Rarity": "Rare"
             },
             {
-              "Name": "Padlock",
+              "Name": "Rubber_band",
               "Rarity": "VeryRare"
             },
             {
@@ -173,7 +177,7 @@
             },
             {
               "Name": "Lockpick_Item",
-              "Rarity": "VeryRare"
+              "Rarity": "Rare"
             },
             {
               "Name": "Magnifying_Glass1",
@@ -286,6 +290,10 @@
               "ChildrenMergeMode": "Replace"
             },
             {
+              "Name": "Motorbike_Battery",
+              "Rarity": "Rare"
+            },
+            {
               "Name": "Smartphone_Battery",
               "Rarity": "Rare"
             },
@@ -296,6 +304,14 @@
             {
               "Name": "Tool_Box_Small",
               "Rarity": "Rare"
+            },
+            {
+              "Name": "Wire_Cutters_01",
+              "Rarity": "Uncommon"
+            },
+            {
+              "Name": "Glue",
+              "Rarity": "Common"
             }
           ],
           "ChildrenMergeMode": "Replace"

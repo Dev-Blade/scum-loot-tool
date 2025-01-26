@@ -31,7 +31,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Fabric",
@@ -70,7 +70,7 @@
                     },
                     {
                       "Name": "Lockpick_Advanced_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "ExtremelyRare"
                     },
                     {
                       "Name": "Lockpick_Item",
@@ -159,7 +159,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "Fabric",
@@ -262,7 +262,7 @@
                     },
                     {
                       "Name": "Lockpick_Advanced_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "ExtremelyRare"
                     },
                     {
                       "Name": "Lockpick_Item",
@@ -518,14 +518,6 @@
                         {
                           "Name": "FlareCartridge",
                           "Rarity": "Uncommon"
-                        },
-                        {
-                          "Name": "Cal_9mm_AP",
-                          "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "Cal_45_AP",
-                          "Rarity": "ExtremelyRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -643,7 +635,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "EmptyBag",
@@ -667,7 +659,7 @@
                     },
                     {
                       "Name": "Lockpick_Advanced_Item",
-                      "Rarity": "VeryRare"
+                      "Rarity": "ExtremelyRare"
                     },
                     {
                       "Name": "Lockpick_Item",
@@ -847,14 +839,6 @@
                         {
                           "Name": "FlareCartridge",
                           "Rarity": "Uncommon"
-                        },
-                        {
-                          "Name": "Cal_9mm_AP",
-                          "Rarity": "ExtremelyRare"
-                        },
-                        {
-                          "Name": "Cal_45_AP",
-                          "Rarity": "ExtremelyRare"
                         }
                       ],
                       "ChildrenMergeMode": "Replace"
@@ -972,7 +956,7 @@
                 },
                 {
                   "Name": "Duct_Tape",
-                  "Rarity": "VeryRare"
+                  "Rarity": "Uncommon"
                 },
                 {
                   "Name": "EmptyBag",

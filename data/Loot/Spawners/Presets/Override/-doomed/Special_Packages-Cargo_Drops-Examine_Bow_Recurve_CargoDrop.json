@@ -1,0 +1,19 @@
+{
+  "FixedItems": [
+    "BowSilencer",
+    "Recurve_Bow_60",
+    "BowSilencer",
+    "Improvised_Quiver_01",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow",
+    "RH_Tights",
+    "RH_Jacket",
+    "RH_Bycoket_01",
+    "RH_Arm_Guard",
+    "RH_Shoe_01"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

@@ -1,0 +1,11 @@
+{
+  "FixedItems": [
+    "Rebar_Cutter",
+    "Electrician_Tools",
+    "Electrician_Glove_01_01"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

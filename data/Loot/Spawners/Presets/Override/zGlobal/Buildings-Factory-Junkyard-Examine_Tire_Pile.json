@@ -1,0 +1,25 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "VeryRare",
+      "Ids": [
+        "ItemLootTreeNodes.Garage.VehicleAttachments.Pneumatics"
+      ]
+    }
+  ],
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Rubber_sheet"
+    }
+  ],
+  "Probability": 35,
+  "QuantityMin": 2,
+  "QuantityMax": 5,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 24,
+  "RandomDamage": 60,
+  "InitialUsage": 20,
+  "RandomUsage": 63
+}

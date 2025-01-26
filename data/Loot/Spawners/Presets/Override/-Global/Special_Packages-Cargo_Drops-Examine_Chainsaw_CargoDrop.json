@@ -1,9 +1,0 @@
-{
-  "FixedItems": [
-    "Chainsaw"
-  ],
-  "InitialDamage": 30,
-  "RandomDamage": 5,
-  "InitialUsage": 0,
-  "RandomUsage": 0
-}

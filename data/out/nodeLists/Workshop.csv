@@ -239,6 +239,7 @@ Workshop.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponFlashHider,Un
 Workshop.Other.Weapons.Other.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare,Rare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_45ACP,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_Handgun,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,VeryRare
+Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MAC10,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Workshop.Other.Weapons.Other.Attachments.Suppressors.WeaponSuppressor_MP5,Uncommon,ExtremelyRare,ExtremelyRare,Rare,VeryRare,Rare,ExtremelyRare
 Workshop.Other.Weapons.Other.Magazines.AssaultRifles.Magazine_AK47,Uncommon,ExtremelyRare,ExtremelyRare,Rare,Rare,ExtremelyRare,VeryRare
 Workshop.Other.Weapons.Other.Magazines.AssaultRifles.Magazine_RPK,Uncommon,ExtremelyRare,ExtremelyRare,Rare,Rare,ExtremelyRare,ExtremelyRare
@@ -321,6 +322,7 @@ Workshop.WorkClothes.Head.Beanies.Beenie_01,Uncommon,Common,Uncommon,Rare,Common
 Workshop.WorkClothes.Head.Beanies.RK_Beanie_01,Uncommon,Common,Uncommon,Rare,ExtremelyRare
 Workshop.WorkClothes.Head.Caps.Baseball_Cap_13,Uncommon,Common,Uncommon,Uncommon,VeryRare
 Workshop.WorkClothes.Head.Caps.Baseball_Cap_01,Uncommon,Common,Uncommon,Uncommon,Rare
+Workshop.WorkClothes.Head.Caps.BP_HeadLamp,Uncommon,Common,Uncommon,Uncommon,Rare
 Workshop.WorkClothes.Head.EarProtection.Ear_Plugs,Uncommon,Common,Uncommon,Uncommon,Rare
 Workshop.WorkClothes.Head.EarProtection.EarMuffs.Construction_Earmuffs_01,Uncommon,Common,Uncommon,Uncommon,VeryRare,VeryRare
 Workshop.WorkClothes.Head.GasMasks.Gas_Mask_01,Uncommon,Common,Uncommon,ExtremelyRare,Uncommon

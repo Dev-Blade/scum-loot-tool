@@ -1,0 +1,98 @@
+{
+  "FixedItems": [
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash",
+    "Cash"
+  ],
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "2H_Katana"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Night_Vision_Googles_01"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_9mm_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_45_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_5_45x39mm_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_5_56x45mm_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_7_62x54mmR_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_7_92x57mm_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_7_62x39mm_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_308_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_338_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_30-06_Ammobox"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "WeaponScope_Dragunov"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Cal_40x46"
+    },
+    {
+      "Rarity": "Uncommon",
+      "Id": "Armor_Tactical_Vest_01_01"
+    }
+  ],
+  "Probability": 100,
+  "QuantityMin": 1,
+  "QuantityMax": 1,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": false,
+  "InitialDamage": 0,
+  "RandomDamage": 0,
+  "InitialUsage": 0,
+  "RandomUsage": 0,
+  "PostSpawnActions": [
+    "SetCashAmount_SmallStash"
+  ]
+}

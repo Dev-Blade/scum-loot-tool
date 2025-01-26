@@ -1,9 +1,0 @@
-{
-  "FixedItems": [
-    "Tire_Repair_Kit"
-  ],
-  "InitialDamage": 42,
-  "RandomDamage": 5,
-  "InitialUsage": 0,
-  "RandomUsage": 0
-}

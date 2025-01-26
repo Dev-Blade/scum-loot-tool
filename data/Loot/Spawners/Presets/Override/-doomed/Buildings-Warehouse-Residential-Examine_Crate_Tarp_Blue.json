@@ -1,0 +1,24 @@
+{
+  "Nodes": [
+    {
+      "Rarity": "Uncommon",
+      "Ids": [
+        "ItemLootTreeNodes.Workshop.WorkClothes",
+        "ItemLootTreeNodes.Workshop.Tools",
+        "ItemLootTreeNodes.Workshop.Crafting"
+      ]
+    }
+  ],
+  "Probability": 5,
+  "QuantityMin": 1,
+  "QuantityMax": 3,
+  "AllowDuplicates": false,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 40,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 30,
+  "PostSpawnActions": [
+    "SetClothesDirtiness_ResidentialClothes"
+  ]
+}

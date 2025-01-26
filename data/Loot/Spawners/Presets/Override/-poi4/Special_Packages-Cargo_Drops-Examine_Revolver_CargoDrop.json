@@ -1,0 +1,14 @@
+{
+  "FixedItems": [
+    "Weapon_Viper_M357",
+    "WeaponSights_Shark",
+    "Cal_357_Ammobox",
+    "Cal_357_Ammobox_AP",
+    "Cal_357_Ammobox_TR",
+    "Belt_Pistol_Holster"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}

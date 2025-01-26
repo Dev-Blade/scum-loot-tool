@@ -1,0 +1,17 @@
+{
+  "Items": [
+    {
+      "Rarity": "Uncommon",
+      "Id": "Brick"
+    }
+  ],
+  "Probability": 100,
+  "QuantityMin": 2,
+  "QuantityMax": 5,
+  "AllowDuplicates": true,
+  "ShouldFilterItemsByZone": true,
+  "InitialDamage": 10,
+  "RandomDamage": 50,
+  "InitialUsage": 0,
+  "RandomUsage": 0
+}

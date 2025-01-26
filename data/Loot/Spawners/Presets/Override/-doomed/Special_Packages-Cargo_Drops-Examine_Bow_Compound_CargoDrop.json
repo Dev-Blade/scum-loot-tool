@@ -1,0 +1,17 @@
+{
+  "FixedItems": [
+    "BowSilencer_SlipOn",
+    "Compound_Bow",
+    "BowSilencer_SlipOn",
+    "Bow_MicroStabilizer",
+    "CompoundBowSight_5_Pin",
+    "Military_Quiver_03",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow",
+    "Carbon_BroadHead_Arrow"
+  ],
+  "InitialDamage": 20,
+  "RandomDamage": 40,
+  "InitialUsage": 10,
+  "RandomUsage": 40
+}
