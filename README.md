@@ -125,7 +125,7 @@ use either \*_Value_ or \*_Multiplier_ to select between absolute value or a mul
 - **\*:** for whole replacement, set array of item names then...
   or use partial match string to work on single items to replace, set item name as value
 
-Hint: There are also spawner packs and the function randomFixedItemsPack() to select a random pack or generally functions to generate thing while processing, see JackpotConfig.ts and ammoBoxes.ts how it uses collections that you can tweak with your desired rarity.
+**Hint:** There are also spawner packs and the function randomFixedItemsPack() to select a random pack or generally functions to generate thing while processing, see _JackpotConfig.ts_ and _ammoBoxes.ts_ how it uses collections that you can tweak with your desired rarity.
 
 ## nodes
 
