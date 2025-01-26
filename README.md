@@ -8,7 +8,7 @@
 
 - create a subfolder to put in rules files.
 - add a spawner configuration typescript code file (as example below)
-- modify lootProcessors/SpawnersConfigs/config.ts (add all spawner configurations you want to process in one go)
+- modify lootProcessors/SpawnersConfigs/config.ts (add all spawner configurations you want to process at one go)
 
 example spawner configuration
 
