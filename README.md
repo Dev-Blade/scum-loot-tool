@@ -1,5 +1,7 @@
 # Loot Processors
 
+**prerequisite:** put current default SCUM export files into respective Loot/\*/Default
+
 ## spawners
 
 - **folder:** lootProcessors/SpawnersConfigs
