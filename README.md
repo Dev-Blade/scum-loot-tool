@@ -127,7 +127,7 @@ within your filter/rule use
 - contexts
 - overrideName
 - override
-- Rarity
+- Rarity - one of "Abundant" | "Uncommon" | "Rare" | "VeryRare" | "ExtremelyRare"
 - postAdd
 - postSpawnActions
 - postSpawnActionsMode (set it to "override" then all previouse postSpawnActions will be overwritten, otherwise your postSpawnActions[] will be added to existing ones)
