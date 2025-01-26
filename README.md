@@ -130,7 +130,7 @@ within your filter/rule use
 - Rarity
 - postAdd
 - postSpawnActions
-- postSpawnActionsMode (override to replace, otherwise postSpawnActions[] will be added)
+- postSpawnActionsMode (set it to "override" then all previouse postSpawnActions will be overwritten, otherwise your postSpawnActions[] will be added to existing ones)
 
 The implementation also aviods generating duplicates
 
