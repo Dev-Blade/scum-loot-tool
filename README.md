@@ -4,11 +4,11 @@
 
 ## spawners
 
-- **folder:** lootProcessors/SpawnersConfigs
+- **folder:** src/lootProcessors/SpawnersConfigs
 
 - create a subfolder to put in rules files (recommended but not necessary)
 - add a spawner configuration typescript code file (as example below)
-- modify lootProcessors/SpawnersConfigs/config.ts (add all spawner configurations you want to process at one go)
+- modify src/lootProcessors/SpawnersConfigs/config.ts (add all spawner configurations you want to process at one go)
 
 example spawner configuration
 
@@ -125,11 +125,11 @@ within your filter/rule use
 
 - additionalMatches
 - contexts - set it to a partial match string to apply only on nodes with that (parent) contexts, this is a powerful feature
-- overrideName
-- override
+- overrideName - replace the node name
+- override - { Name, Rarity ... } - completely replaces the node
 - Rarity - one of "Abundant" | "Uncommon" | "Rare" | "VeryRare" | "ExtremelyRare"
-- postAdd
-- postSpawnActions
+- postAdd - [{ Name, Rarity ... }] - adds nodes to the list where the match happened
+- postSpawnActions - adds actions to the node where the match happened
 - postSpawnActionsMode (set it to "override" then all previouse postSpawnActions will be overwritten, otherwise your postSpawnActions[] will be added to existing ones)
 
 The implementation also aviods generating duplicates
