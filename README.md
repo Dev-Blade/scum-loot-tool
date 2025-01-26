@@ -1,8 +1,16 @@
 # Loot Processors
 
+**Description:**
+
+This tool generates modified spawner and node files from the default ones.
+The modifications are represented by rules you define.
+That way you can easily keep changes to the loot tables of SCUM even when they change (you simply re-run the processor with the updated original files).
+
 **prerequisite:** put current default SCUM export files into respective Loot/\*/Default
 
 ## spawners
+
+implementation see src/lootProcessors/spawners.ts
 
 - **folder:** src/lootProcessors/SpawnersConfigs
 
@@ -117,9 +125,12 @@ use either \*_Value_ or \*_Multiplier_ to select between absolute value or a mul
 - **\*:** for whole replacement, set array of item names then...
   or use partial match string to work on single items to replace, set item name as value
 
+Hint: There are also spawner packs and the function randomFixedItemsPack() to select a random pack or generally functions to generate thing while processing, see JackpotConfig.ts and ammoBoxes.ts how it uses collections that you can tweak with your desired rarity.
+
 ## nodes
 
 sorry, not much documentation yet
+implementation see src/lootProcessors/nodes.ts
 
 within your filter/rule use
 
@@ -139,7 +150,7 @@ sideinfo: it also creates CSV files for each node file and puts them to data/out
 ## economy
 
 sorry, no documentation yet
-but it works ;) just analyze the code, see src/lootProcessors/nodes.ts
+implementation see src/lootProcessors/economy.ts
 
 info: it's for having one template outpost (A0) and then copies it to all other traders
 C2 will be modified (mulipliers are hardcoded, see economy.ts, selling \* 1.5 and purchasing \* 0.75, for PVP outpost with better conditions).
