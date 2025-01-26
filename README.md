@@ -38,7 +38,7 @@ export const spawnersConfig: SpawnersConfigType = {
 };
 ```
 
-a filter example (makes no sense, only shows what you can do):
+a filter/rule example (makes no sense, only shows what you can do):
 
 ```typescript
 {
@@ -117,13 +117,25 @@ use either \*_Value_ or \*_Multiplier_ to select between absolute value or a mul
 
 ## nodes
 
-sorry, no documentation yet
+sorry, not much documentation yet
+
+within your filter/rule use
+
+- additionalMatches
+- contexts
+- overrideName
+- override
+- Rarity
+- postAdd
+- postSpawnActions
+- postSpawnActionsMode (override to replace, otherwise postSpawnActions[] will be added)
 
 sideinfo: it also creates CSV files for each node file and puts them to data/out/nodeLists
 
 ## economy
 
 sorry, no documentation yet
+but it works ;) just analyze the code, see src/lootProcessors/nodes.ts
 
 info: it's for having one template outpost (A0) and then copies it to all other traders
 C2 will be modified (mulipliers are hardcoded, see economy.ts, selling \* 1.5 and purchasing \* 0.75, for PVP outpost with better conditions)
