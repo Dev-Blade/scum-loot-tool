@@ -154,3 +154,5 @@ implementation see src/lootProcessors/economy.ts
 
 info: it's for having one template outpost (A0) and then copies it to all other traders
 C2 will be modified (mulipliers are hardcoded, see economy.ts, selling \* 1.5 and purchasing \* 0.75, for PVP outpost with better conditions).
+
+also generates a HTML file you can upload to a webserver to have a nice overview of all traders
