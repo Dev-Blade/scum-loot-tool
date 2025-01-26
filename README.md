@@ -130,6 +130,8 @@ within your filter/rule use
 - postSpawnActions
 - postSpawnActionsMode (override to replace, otherwise postSpawnActions[] will be added)
 
+The implementation also aviods generating duplicates
+
 sideinfo: it also creates CSV files for each node file and puts them to data/out/nodeLists
 
 ## economy
