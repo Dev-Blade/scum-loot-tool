@@ -145,7 +145,7 @@ within your filter/rule use
 
 The implementation also aviods generating duplicates
 
-sideinfo: it also creates CSV files for each node file and puts them to data/out/nodeLists
+sideinfo: it also creates CSV files for each **original** node file and puts them to data/out/nodeLists. I planned to detatch this functionality to a separate processor, but it's not done yet.
 
 ## economy
 
