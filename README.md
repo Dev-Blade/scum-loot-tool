@@ -184,6 +184,8 @@ note:
 - path to spawners folder is relative to data/Loot/Spawners/Presets
 - path to nodes folder is relative to data/Loot/Nodes
 
+if ommitted, Default and Default are used for folder paths.
+
 example:
 
 ```
