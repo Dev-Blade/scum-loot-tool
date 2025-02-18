@@ -186,9 +186,10 @@ note:
 
 if omitted, Default and Default are used for folder paths.
 
-example:
+examples:
 
 ```
+npm run calc Screwdriver # will use Default for both folders
 npm run calc Screwdriver Test Test
 ```
 
