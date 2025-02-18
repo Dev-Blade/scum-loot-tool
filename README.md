@@ -156,3 +156,11 @@ info: it's for having one template outpost (A0) and then copies it to all other 
 C2 will be modified (mulipliers are hardcoded, see economy.ts, selling \* 1.5 and purchasing \* 0.75, for PVP outpost with better conditions).
 
 also generates a HTML file you can upload to a webserver to have a nice overview of all traders
+
+## calc
+
+this little tool calculates actual probabilities for spawning items (nodes) in the game
+
+npm run calc <wanted node name> <path to spawner folder> <path to node folder>
+
+you can also use it on nodes in the middle of node trees like "Drinks" (in node files collecting milk, alcohol etc.) or "hand" for "tools.hand" - must be any node name (or "Id" from item list) - it doesn't process "FixedItems"
