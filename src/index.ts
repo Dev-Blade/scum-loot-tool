@@ -2,8 +2,9 @@ import {resolve} from 'path';
 import {config} from 'dotenv';
 import {processSpawners} from './lootProcessors/spawners';
 import {processNodes} from './lootProcessors/nodes';
-import {fixFP, processEconomy} from './lootProcessors/economy';
+import {processEconomy} from './lootProcessors/economy';
 import {processSectors, selectRandomSectors} from './sectorSelector';
+import {calc} from './lootCalculator';
 
 config({path: resolve(__dirname, '..', '.env')});
 
@@ -28,13 +29,6 @@ config({path: resolve(__dirname, '..', '.env')});
     x = true;
   }
 
-  // not necessary anymore
-  if (arg.includes('ffp')) {
-    //    await processEconomy('data/EconomyOverride_src.json', 'data/EconomyOverride.json', 'data/index.html');
-    await fixFP('data/EconomyOverride_src_world.json', 'data/EconomyOverride_src_FP.json');
-    x = true;
-  }
-
   if (arg.includes('nodes')) {
     await processNodes();
     x = true;
@@ -45,8 +39,16 @@ config({path: resolve(__dirname, '..', '.env')});
     x = true;
   }
 
+  if (arg.includes('calc')) {
+    const item = arg[1];
+    const sp = arg[2];
+    const nd = arg[3];
+    calc(item, sp, nd);
+    x = true;
+  }
+
   if (process.argv.length === 2 || !x) {
-    console.error('Expected arguments at least one of <spawners|nodes|economy|sectors|ffp>');
+    console.error('Expected arguments at least one of <spawners|nodes|economy|sectors|calc>');
     process.exit(1);
   }
 

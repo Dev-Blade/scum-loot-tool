@@ -10,8 +10,8 @@
     "s": "npm run start sectors",
     "l": "npm run start spawners",
     "e": "npm run start economy",
-    "ffp": "npm run start ffp",
-    "n": "npm run start nodes"
+    "n": "npm run start nodes",
+    "calc": "npm run start calc"
   },
   "dependencies": {
     "class-validator": "^0.14.0",

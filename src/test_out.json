@@ -1,0 +1,730 @@
+{
+  "Name": "ItemLootTreeNodes",
+  "Rarity": "Uncommon",
+  "Children": [
+    {
+      "Name": "CarRepairShop",
+      "Rarity": "Uncommon",
+      "Children": [
+        {
+          "Name": "Crafting",
+          "Rarity": "Rare",
+          "Children": [
+            {
+              "Name": "Bolts",
+              "Rarity": "Abundant",
+              "probability": 4.318488529014844
+            },
+            {
+              "Name": "ColorCan_BaronBrown",
+              "Rarity": "Uncommon",
+              "probability": 1.079622132253711
+            },
+            {
+              "Name": "Fabric",
+              "Rarity": "Uncommon",
+              "Children": [
+                {
+                  "Name": "EmptyBag",
+                  "Rarity": "Rare",
+                  "probability": 0.2159244264507422
+                },
+                {
+                  "Name": "Rag_Stripes",
+                  "Rarity": "Uncommon",
+                  "probability": 0.4318488529014844
+                },
+                {
+                  "Name": "Rags",
+                  "Rarity": "Uncommon",
+                  "probability": 0.4318488529014844
+                }
+              ],
+              "probability": 1.079622132253711
+            },
+            {
+              "Name": "Fluids",
+              "Rarity": "VeryRare",
+              "Children": [
+                {
+                  "Name": "Break_Oil",
+                  "Rarity": "Rare",
+                  "probability": 0.13495276653171387
+                },
+                {
+                  "Name": "Isopropyl_alcohol",
+                  "Rarity": "Rare",
+                  "probability": 0.13495276653171387
+                }
+              ],
+              "probability": 0.26990553306342774
+            },
+            {
+              "Name": "Locks",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "Lock_Item_Advanced",
+                  "Rarity": "ExtremelyRare",
+                  "probability": 0.013841309387868088
+                },
+                {
+                  "Name": "Lock_Item_Basic",
+                  "Rarity": "Rare",
+                  "probability": 0.05536523755147235
+                },
+                {
+                  "Name": "Lock_Items_Medium",
+                  "Rarity": "VeryRare",
+                  "probability": 0.027682618775736176
+                },
+                {
+                  "Name": "Padlock",
+                  "Rarity": "Abundant",
+                  "probability": 0.4429219004117788
+                }
+              ],
+              "probability": 0.5398110661268555
+            },
+            {
+              "Name": "Nails",
+              "Rarity": "Uncommon",
+              "probability": 1.079622132253711
+            },
+            {
+              "Name": "Scrap",
+              "Rarity": "Common",
+              "Children": [
+                {
+                  "Name": "Metal_Scrap_01",
+                  "Rarity": "Common",
+                  "probability": 2.159244264507422
+                }
+              ],
+              "probability": 2.159244264507422
+            }
+          ],
+          "probability": 10.526315789473683
+        },
+        {
+          "Name": "LightsFire",
+          "Rarity": "Rare",
+          "Children": [
+            {
+              "Name": "GasLantern",
+              "Rarity": "Rare",
+              "probability": 5.263157894736842
+            },
+            {
+              "Name": "PortableWorkLight",
+              "Rarity": "Rare",
+              "probability": 5.263157894736842
+            }
+          ],
+          "probability": 10.526315789473683
+        },
+        {
+          "Name": "Other",
+          "Rarity": "Rare",
+          "Children": [
+            {
+              "Name": "Flares",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "FlareItem",
+                  "Rarity": "Uncommon",
+                  "probability": 4.678362573099414
+                }
+              ],
+              "probability": 4.678362573099414
+            },
+            {
+              "Name": "FoodAndDrink",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "Cans",
+                  "Rarity": "Uncommon",
+                  "Children": [
+                    {
+                      "Name": "BakedBeans",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "BeefRavioli",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "BeefStew",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "BlackOlives",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "CannedGoulash",
+                      "Rarity": "VeryRare",
+                      "probability": 0.11138958507379557
+                    },
+                    {
+                      "Name": "CannedSardine",
+                      "Rarity": "Uncommon",
+                      "probability": 0.44555834029518226
+                    },
+                    {
+                      "Name": "CannedSpaghetti",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "Chow_Mein",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "MRE_Cheeseburger",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    },
+                    {
+                      "Name": "Spon",
+                      "Rarity": "Rare",
+                      "probability": 0.22277917014759113
+                    }
+                  ],
+                  "probability": 2.339181286549707
+                },
+                {
+                  "Name": "Drink",
+                  "Rarity": "Uncommon",
+                  "Children": [
+                    {
+                      "Name": "Can01",
+                      "Rarity": "Rare",
+                      "probability": 0.8506113769271663
+                    },
+                    {
+                      "Name": "GlassBottle01",
+                      "Rarity": "Rare",
+                      "probability": 0.8506113769271663
+                    },
+                    {
+                      "Name": "Kicmovaca",
+                      "Rarity": "ExtremelyRare",
+                      "probability": 0.21265284423179157
+                    },
+                    {
+                      "Name": "PETBottle01",
+                      "Rarity": "VeryRare",
+                      "probability": 0.42530568846358313
+                    }
+                  ],
+                  "probability": 2.339181286549707
+                }
+              ],
+              "probability": 4.678362573099414
+            },
+            {
+              "Name": "Money",
+              "Rarity": "ExtremelyRare",
+              "PostSpawnActions": [
+                "SetCashAmount_SmallStash"
+              ],
+              "Children": [
+                {
+                  "Name": "Cash",
+                  "Rarity": "Rare",
+                  "probability": 1.1695906432748535
+                }
+              ],
+              "probability": 1.1695906432748535
+            }
+          ],
+          "probability": 10.526315789473683
+        },
+        {
+          "Name": "RepairToolkits",
+          "Rarity": "Common",
+          "Children": [
+            {
+              "Name": "Car",
+              "Rarity": "Common",
+              "Children": [
+                {
+                  "Name": "Car_Repair_Kit",
+                  "Rarity": "Rare",
+                  "probability": 22.45614035087719
+                },
+                {
+                  "Name": "Tire_Repair_Kit",
+                  "Rarity": "VeryRare",
+                  "probability": 11.228070175438596
+                }
+              ],
+              "probability": 33.68421052631579
+            },
+            {
+              "Name": "General",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "Tool_Box",
+                  "Rarity": "ExtremelyRare",
+                  "probability": 1.6842105263157894
+                },
+                {
+                  "Name": "Tool_Box_Small",
+                  "Rarity": "Rare",
+                  "probability": 6.7368421052631575
+                }
+              ],
+              "probability": 8.421052631578947
+            }
+          ],
+          "probability": 42.10526315789473
+        },
+        {
+          "Name": "tools",
+          "Rarity": "Uncommon",
+          "Children": [
+            {
+              "Name": "Electrical",
+              "Rarity": "Uncommon",
+              "Children": [
+                {
+                  "Name": "Batteries",
+                  "Rarity": "VeryRare",
+                  "probability": 0.2551834130781499
+                },
+                {
+                  "Name": "Car_Battery",
+                  "Rarity": "Rare",
+                  "probability": 0.5103668261562998
+                },
+                {
+                  "Name": "Car_Battery_Cables",
+                  "Rarity": "Rare",
+                  "probability": 0.5103668261562998
+                },
+                {
+                  "Name": "Electrical_Repair_Kit",
+                  "Rarity": "Rare",
+                  "probability": 0.5103668261562998
+                },
+                {
+                  "Name": "Electrician_Tools",
+                  "Rarity": "Rare",
+                  "probability": 0.5103668261562998
+                },
+                {
+                  "Name": "Mobile_Phone",
+                  "Rarity": "VeryRare",
+                  "probability": 0.2551834130781499
+                },
+                {
+                  "Name": "Motorbike_Battery",
+                  "Rarity": "Rare",
+                  "probability": 0.5103668261562998
+                },
+                {
+                  "Name": "Smartphone_Battery",
+                  "Rarity": "VeryRare",
+                  "probability": 0.2551834130781499
+                },
+                {
+                  "Name": "Wire",
+                  "Rarity": "Abundant",
+                  "probability": 4.082934609250398
+                },
+                {
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Uncommon",
+                  "probability": 1.0207336523125996
+                }
+              ],
+              "probability": 8.421052631578947
+            },
+            {
+              "Name": "Hand",
+              "Rarity": "Uncommon",
+              "Children": [
+                {
+                  "Name": "1H_Crowbar",
+                  "Rarity": "Rare",
+                  "probability": 0.7017543859649122
+                },
+                {
+                  "Name": "1H_Metal_Pipe",
+                  "Rarity": "VeryRare",
+                  "probability": 0.3508771929824561
+                },
+                {
+                  "Name": "1H_Wrench_Pipe",
+                  "Rarity": "Uncommon",
+                  "probability": 1.4035087719298245
+                },
+                {
+                  "Name": "CanOpener",
+                  "Rarity": "Rare",
+                  "probability": 0.7017543859649122
+                },
+                {
+                  "Name": "Lockpick_Advanced_Item",
+                  "Rarity": "Rare",
+                  "probability": 0.7017543859649122
+                },
+                {
+                  "Name": "Lockpick_Item",
+                  "Rarity": "Rare",
+                  "probability": 0.7017543859649122
+                },
+                {
+                  "Name": "Screwdriver",
+                  "Rarity": "VeryRare",
+                  "probability": 0.3508771929824561
+                },
+                {
+                  "Name": "Screwdriver_Small",
+                  "Rarity": "Common",
+                  "probability": 2.807017543859649
+                },
+                {
+                  "Name": "Wire_Cutters_01",
+                  "Rarity": "Rare",
+                  "probability": 0.7017543859649122
+                }
+              ],
+              "probability": 8.421052631578947
+            },
+            {
+              "Name": "Power",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "Drill",
+                  "Rarity": "VeryRare",
+                  "probability": 2.1052631578947367
+                },
+                {
+                  "Name": "Rebar_Cutter",
+                  "Rarity": "VeryRare",
+                  "probability": 2.1052631578947367
+                }
+              ],
+              "probability": 4.2105263157894735
+            }
+          ],
+          "probability": 21.052631578947366
+        },
+        {
+          "Name": "WorkClothes",
+          "Rarity": "VeryRare",
+          "Children": [
+            {
+              "Name": "Feet",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "ConstructionBoots",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Boots_06_01",
+                      "Rarity": "Rare",
+                      "probability": 0.42105263157894735
+                    }
+                  ],
+                  "probability": 0.42105263157894735
+                },
+                {
+                  "Name": "HikingBoots",
+                  "Rarity": "VeryRare",
+                  "Children": [
+                    {
+                      "Name": "Hiking_Boots_01",
+                      "Rarity": "Rare",
+                      "probability": 0.21052631578947367
+                    }
+                  ],
+                  "probability": 0.21052631578947367
+                },
+                {
+                  "Name": "RubberBoots",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Boots_07_01",
+                      "Rarity": "Rare",
+                      "probability": 0.42105263157894735
+                    }
+                  ],
+                  "probability": 0.42105263157894735
+                }
+              ],
+              "probability": 1.0526315789473684
+            },
+            {
+              "Name": "Hands",
+              "Rarity": "Uncommon",
+              "Children": [
+                {
+                  "Name": "ConstructionGloves",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Construction_Gloves_01_01",
+                      "Rarity": "Rare",
+                      "probability": 1.0526315789473684
+                    }
+                  ],
+                  "probability": 1.0526315789473684
+                },
+                {
+                  "Name": "RubberGloves",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Electrician_Glove_01_01",
+                      "Rarity": "Rare",
+                      "probability": 1.0526315789473684
+                    }
+                  ],
+                  "probability": 1.0526315789473684
+                }
+              ],
+              "probability": 2.1052631578947367
+            },
+            {
+              "Name": "Head",
+              "Rarity": "VeryRare",
+              "Children": [
+                {
+                  "Name": "Beanies",
+                  "Rarity": "VeryRare",
+                  "Children": [
+                    {
+                      "Name": "Beenie_01",
+                      "Rarity": "Common",
+                      "probability": 0.024163709129351355
+                    },
+                    {
+                      "Name": "RK_Beanie_01",
+                      "Rarity": "ExtremelyRare",
+                      "probability": 0.0015102318205844597
+                    }
+                  ],
+                  "probability": 0.025673940949935813
+                },
+                {
+                  "Name": "Caps",
+                  "Rarity": "Common",
+                  "Children": [
+                    {
+                      "Name": "Baseball_Cap_13",
+                      "Rarity": "VeryRare",
+                      "probability": 0.0410783055198973
+                    },
+                    {
+                      "Name": "Baseball_Cap_01",
+                      "Rarity": "Rare",
+                      "probability": 0.0821566110397946
+                    },
+                    {
+                      "Name": "BP_HeadLamp",
+                      "Rarity": "Rare",
+                      "probability": 0.0821566110397946
+                    }
+                  ],
+                  "probability": 0.2053915275994865
+                },
+                {
+                  "Name": "EarProtection",
+                  "Rarity": "Uncommon",
+                  "Children": [
+                    {
+                      "Name": "Ear_Plugs",
+                      "Rarity": "Rare",
+                      "probability": 0.06846384253316216
+                    },
+                    {
+                      "Name": "EarMuffs",
+                      "Rarity": "VeryRare",
+                      "Children": [
+                        {
+                          "Name": "Construction_Earmuffs_01",
+                          "Rarity": "VeryRare",
+                          "probability": 0.03423192126658108
+                        }
+                      ],
+                      "probability": 0.03423192126658108
+                    }
+                  ],
+                  "probability": 0.10269576379974325
+                },
+                {
+                  "Name": "Extreme_Helmet_01",
+                  "Rarity": "ExtremelyRare",
+                  "probability": 0.012836970474967907
+                },
+                {
+                  "Name": "Goggles",
+                  "Rarity": "Uncommon",
+                  "Children": [
+                    {
+                      "Name": "Geek_Goggels",
+                      "Rarity": "Rare",
+                      "probability": 0.03159869655376716
+                    },
+                    {
+                      "Name": "Pilot_Glasses",
+                      "Rarity": "ExtremelyRare",
+                      "probability": 0.00789967413844179
+                    },
+                    {
+                      "Name": "Safety_Goggles",
+                      "Rarity": "Uncommon",
+                      "probability": 0.06319739310753432
+                    }
+                  ],
+                  "probability": 0.10269576379974325
+                },
+                {
+                  "Name": "HardHats",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Working_Helmet_01",
+                      "Rarity": "VeryRare",
+                      "probability": 0.05134788189987163
+                    }
+                  ],
+                  "probability": 0.05134788189987163
+                },
+                {
+                  "Name": "Hats",
+                  "Rarity": "VeryRare",
+                  "Children": [
+                    {
+                      "Name": "Boonie_Hat_01",
+                      "Rarity": "Rare",
+                      "probability": 0.025673940949935813
+                    }
+                  ],
+                  "probability": 0.025673940949935813
+                }
+              ],
+              "probability": 0.5263157894736842
+            },
+            {
+              "Name": "Legs",
+              "Rarity": "Rare",
+              "Children": [
+                {
+                  "Name": "ConstructionPants",
+                  "Rarity": "VeryRare",
+                  "Children": [
+                    {
+                      "Name": "Construction_Pants_01",
+                      "Rarity": "Rare",
+                      "probability": 0.21052631578947367
+                    }
+                  ],
+                  "probability": 0.21052631578947367
+                },
+                {
+                  "Name": "ShortPants",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Short_Trousers_01_01",
+                      "Rarity": "Rare",
+                      "probability": 0.42105263157894735
+                    }
+                  ],
+                  "probability": 0.42105263157894735
+                },
+                {
+                  "Name": "WorkPants",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Construction_Pants_01",
+                      "Rarity": "VeryRare",
+                      "probability": 0.14035087719298245
+                    },
+                    {
+                      "Name": "Working_pants_01_01",
+                      "Rarity": "Rare",
+                      "probability": 0.2807017543859649
+                    }
+                  ],
+                  "probability": 0.42105263157894735
+                }
+              ],
+              "probability": 1.0526315789473684
+            },
+            {
+              "Name": "Torso",
+              "Rarity": "VeryRare",
+              "Children": [
+                {
+                  "Name": "Jackets",
+                  "Rarity": "VeryRare",
+                  "Children": [
+                    {
+                      "Name": "Trucker_Jacket_01",
+                      "Rarity": "Rare",
+                      "probability": 0.11695906432748537
+                    },
+                    {
+                      "Name": "Work_Jacket_01",
+                      "Rarity": "VeryRare",
+                      "probability": 0.05847953216374269
+                    }
+                  ],
+                  "probability": 0.17543859649122806
+                },
+                {
+                  "Name": "Shirts",
+                  "Rarity": "Rare",
+                  "Children": [
+                    {
+                      "Name": "Military_Shirt_01",
+                      "Rarity": "VeryRare",
+                      "probability": 0.07017543859649122
+                    },
+                    {
+                      "Name": "Military_Shirt_04",
+                      "Rarity": "VeryRare",
+                      "probability": 0.07017543859649122
+                    },
+                    {
+                      "Name": "Military_Shirt_05",
+                      "Rarity": "VeryRare",
+                      "probability": 0.07017543859649122
+                    },
+                    {
+                      "Name": "Woodcuters_Shirt_01",
+                      "Rarity": "Rare",
+                      "probability": 0.14035087719298245
+                    }
+                  ],
+                  "probability": 0.3508771929824561
+                }
+              ],
+              "probability": 0.5263157894736842
+            }
+          ],
+          "probability": 5.263157894736842
+        }
+      ],
+      "probability": 100
+    }
+  ]
+}

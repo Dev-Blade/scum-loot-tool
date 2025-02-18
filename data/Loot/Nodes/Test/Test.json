@@ -1,0 +1,53 @@
+{
+	"Name": "ItemLootTreeNodes",
+	"Rarity": "Uncommon",
+	"Children": [
+		{
+			"Name": "Test",
+			"Rarity": "Uncommon",
+			"Children": [
+				{
+					"Name": "Test1",
+					"Rarity": "Abundant",
+					"Children": [
+						{
+							"Name": "Bolts",
+							"Rarity": "Uncommon"
+						}
+					]
+				},
+				{
+					"Name": "Test2",
+					"Rarity": "Uncommon",
+					"Children": [
+						{
+							"Name": "SaltGrain",
+							"Rarity": "Uncommon"
+						}
+					]
+				},
+				{
+					"Name": "Test3",
+					"Rarity": "ExtremelyRare",
+					"Children": [
+						{
+							"Name": "Screwdriver",
+							"Rarity": "Uncommon"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Unused",
+			"Rarity": "Common",
+			"Children": [
+				{
+					"Name": "Stone",
+					"Rarity": "Uncommon"
+				}
+			]
+		}
+
+	]
+}
