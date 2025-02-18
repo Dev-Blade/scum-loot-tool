@@ -10,6 +10,10 @@ That way you can easily keep changes to the loot tables of SCUM even when they c
 
 ## spawners
 
+```
+npm run s
+```
+
 implementation see src/lootProcessors/spawners.ts
 
 - **folder:** src/lootProcessors/SpawnersConfigs
@@ -129,6 +133,10 @@ use either \*_Value_ or \*_Multiplier_ to select between absolute value or a mul
 
 ## nodes
 
+```
+npm run n
+```
+
 sorry, not much documentation yet
 implementation see src/lootProcessors/nodes.ts
 
@@ -149,6 +157,10 @@ sideinfo: it also creates CSV files for each **original** node file and puts the
 
 ## economy
 
+```
+npm run e
+```
+
 sorry, no documentation yet
 implementation see src/lootProcessors/economy.ts
 
@@ -161,6 +173,21 @@ also generates a HTML file you can upload to a webserver to have a nice overview
 
 this little tool calculates actual probabilities for spawning items (nodes) in the game
 
+usage:
+
+```
 npm run calc <wanted node name> <path to spawner folder> <path to node folder>
+```
+
+note:
+
+- path to spawners folder is relative to data/Loot/Spawners/Presets
+- path to nodes folder is relative to data/Loot/Nodes
+
+example:
+
+```
+npm run calc Weapon_M82A1 Test Test
+```
 
 you can also use it on nodes in the middle of node trees like "Drinks" (in node files collecting milk, alcohol etc.) or "hand" for "tools.hand" - must be any node name (or "Id" from item list) - it doesn't process "FixedItems"
