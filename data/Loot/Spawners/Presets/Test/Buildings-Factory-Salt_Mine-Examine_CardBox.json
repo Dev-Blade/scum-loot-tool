@@ -9,7 +9,6 @@
 			]
 		}
 	],
-
 	"Items": [
 		{
 			"Rarity": "Uncommon",
@@ -39,8 +38,7 @@
 			"Rarity": "Rare",
 			"Id": "Isopropyl_alcohol"
 		}
-	],         
-
+	],
 	"Probability": 100,
 	"QuantityMin": 10,
 	"QuantityMax": 10,

@@ -187,7 +187,7 @@ note:
 example:
 
 ```
-npm run calc Weapon_M82A1 Test Test
+npm run calc Screwdriver Test Test
 ```
 
 you can also use it on nodes in the middle of node trees like "Drinks" (in node files collecting milk, alcohol etc.) or "hand" for "tools.hand" - must be any node name (or "Id" from item list) - it doesn't process "FixedItems"
